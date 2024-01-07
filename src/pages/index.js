@@ -61,7 +61,7 @@ const Index = () => {
 	return (
 		<>
 			<Row gutter={[24, 24]}>
-				<Col span={6}>
+				<Col {...{ xxl: 6, xl: 6, lg: 12, md: 12, sm: 24, xs: 24 }}>
 					<Card title="In Game">
 						<Row gutter={[24, 24]}>
 							<Col span={24} style={space_between}>
