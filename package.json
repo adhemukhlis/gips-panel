@@ -1,0 +1,48 @@
+{
+	"name": "gips-panel",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev:windows": "npx env-cmd -x -f ./.env.local next dev -p $PORT",
+		"dev:local": "npx env-cmd -x -f ./.env.local next dev -p '$PORT'",
+		"start:windows": "npx env-cmd -x -f ./.env.local next start -p $PORT",
+		"start:local": "npx env-cmd -x next start -p '$PORT'",
+		"dev": "next dev",
+		"start": "next start",
+		"build": "next build",
+		"lint": "next lint",
+		"prettier-all": "npx prettier --config .prettierrc --write ./src",
+		"fix": "npx eslint --fix ./src --ext .js --ext .jsx",
+		"dependencies-upgrade": "yarn yarn-upgrade-all"
+	},
+	"dependencies": {
+		"@ant-design/icons": "^5.2.6",
+		"antd": "^5.12.8",
+		"axios": "^1.6.5",
+		"case": "^1.6.3",
+		"lodash": "^4.17.21",
+		"lowdb": "^7.0.1",
+		"next": "14.0.4",
+		"qs": "^6.11.2",
+		"react": "^18",
+		"react-dom": "^18"
+	},
+	"devDependencies": {
+		"@ant-design/cssinjs": "^1.18.2",
+		"env-cmd": "^10.1.0",
+		"eslint": "^8.56.0",
+		"eslint-config-next": "^14.0.4",
+		"eslint-plugin-import": "^2.29.1",
+		"eslint-plugin-unicorn": "^50.0.1",
+		"eslint-plugin-unused-imports": "^3.0.0",
+		"prettier": "^3.1.1",
+		"yarn-upgrade-all": "^0.7.2"
+	},
+	"yarn-upgrade-all": {
+		"ignore": [
+			"react",
+			"next",
+			"react-dom"
+		]
+	}
+}

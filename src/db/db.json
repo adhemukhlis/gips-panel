@@ -1,0 +1,9964 @@
+{
+	"database": {
+		"characters": [
+			{
+				"id": "10000001",
+				"name": "Kate"
+			},
+			{
+				"id": "10000002",
+				"name": "Kamisato Ayaka"
+			},
+			{
+				"id": "10000003",
+				"name": "Jean"
+			},
+			{
+				"id": "10000005",
+				"name": "Traveler (Male)"
+			},
+			{
+				"id": "10000006",
+				"name": "Lisa"
+			},
+			{
+				"id": "10000007",
+				"name": "Traveler (Female)"
+			},
+			{
+				"id": "10000014",
+				"name": "Barbara"
+			},
+			{
+				"id": "10000015",
+				"name": "Kaeya"
+			},
+			{
+				"id": "10000016",
+				"name": "Diluc"
+			},
+			{
+				"id": "10000020",
+				"name": "Razor"
+			},
+			{
+				"id": "10000021",
+				"name": "Amber"
+			},
+			{
+				"id": "10000022",
+				"name": "Venti"
+			},
+			{
+				"id": "10000023",
+				"name": "Xiangling"
+			},
+			{
+				"id": "10000024",
+				"name": "Beidou"
+			},
+			{
+				"id": "10000025",
+				"name": "Xingqiu"
+			},
+			{
+				"id": "10000026",
+				"name": "Xiao"
+			},
+			{
+				"id": "10000027",
+				"name": "Ningguang"
+			},
+			{
+				"id": "10000029",
+				"name": "Klee"
+			},
+			{
+				"id": "10000030",
+				"name": "Zhongli"
+			},
+			{
+				"id": "10000031",
+				"name": "Fischl"
+			},
+			{
+				"id": "10000032",
+				"name": "Bennett"
+			},
+			{
+				"id": "10000033",
+				"name": "Tartaglia"
+			},
+			{
+				"id": "10000034",
+				"name": "Noelle"
+			},
+			{
+				"id": "10000035",
+				"name": "Qiqi"
+			},
+			{
+				"id": "10000036",
+				"name": "Chongyun"
+			},
+			{
+				"id": "10000037",
+				"name": "Ganyu"
+			},
+			{
+				"id": "10000038",
+				"name": "Albedo"
+			},
+			{
+				"id": "10000039",
+				"name": "Diona"
+			},
+			{
+				"id": "10000041",
+				"name": "Mona"
+			},
+			{
+				"id": "10000042",
+				"name": "Keqing"
+			},
+			{
+				"id": "10000043",
+				"name": "Sucrose"
+			},
+			{
+				"id": "10000044",
+				"name": "Xinyan"
+			},
+			{
+				"id": "10000045",
+				"name": "Rosaria"
+			},
+			{
+				"id": "10000046",
+				"name": "Hu Tao"
+			},
+			{
+				"id": "10000047",
+				"name": "Kaedehara Kazuha"
+			},
+			{
+				"id": "10000048",
+				"name": "Yanfei"
+			},
+			{
+				"id": "10000049",
+				"name": "Yoimiya"
+			},
+			{
+				"id": "10000050",
+				"name": "Thoma"
+			},
+			{
+				"id": "10000051",
+				"name": "Eula"
+			},
+			{
+				"id": "10000052",
+				"name": "Raiden Shogun"
+			},
+			{
+				"id": "10000053",
+				"name": "Sayu"
+			},
+			{
+				"id": "10000054",
+				"name": "Sangonomiya Kokomi"
+			},
+			{
+				"id": "10000055",
+				"name": "Gorou"
+			},
+			{
+				"id": "10000056",
+				"name": "Kujou Sara"
+			},
+			{
+				"id": "10000057",
+				"name": "Arataki Itto"
+			},
+			{
+				"id": "10000058",
+				"name": "Yae Miko"
+			},
+			{
+				"id": "10000059",
+				"name": "Shikanoin Heizou"
+			},
+			{
+				"id": "10000060",
+				"name": "Yelan"
+			},
+			{
+				"id": "10000062",
+				"name": "Aloy"
+			},
+			{
+				"id": "10000063",
+				"name": "Shenhe"
+			},
+			{
+				"id": "10000064",
+				"name": "Yun Jin"
+			},
+			{
+				"id": "10000065",
+				"name": "Kuki Shinobu"
+			},
+			{
+				"id": "10000066",
+				"name": "Kamisato Ayato"
+			},
+			{
+				"id": "10000067",
+				"name": "Collei"
+			},
+			{
+				"id": "10000068",
+				"name": "Dori"
+			},
+			{
+				"id": "10000069",
+				"name": "Tighnari"
+			},
+			{
+				"id": "10000070",
+				"name": "Nilou"
+			},
+			{
+				"id": "10000071",
+				"name": "Cyno"
+			},
+			{
+				"id": "10000072",
+				"name": "Candace"
+			},
+			{
+				"id": "10000073",
+				"name": "Nahida"
+			},
+			{
+				"id": "10000074",
+				"name": "Layla"
+			},
+			{
+				"id": "10000075",
+				"name": "Wanderer"
+			},
+			{
+				"id": "10000076",
+				"name": "Faruzan"
+			},
+			{
+				"id": "10000077",
+				"name": "Yaoyao"
+			},
+			{
+				"id": "10000078",
+				"name": "Alhaitham"
+			},
+			{
+				"id": "11000008",
+				"name": "Party Test #4"
+			},
+			{
+				"id": "11000009",
+				"name": "Background Test"
+			},
+			{
+				"id": "11000010",
+				"name": "Naked Model #1"
+			},
+			{
+				"id": "11000011",
+				"name": "Naked Man"
+			},
+			{
+				"id": "11000013",
+				"name": "Co-Op Test"
+			},
+			{
+				"id": "11000017",
+				"name": "Adult Male Body Test"
+			},
+			{
+				"id": "11000018",
+				"name": "Adult Female Body Test"
+			},
+			{
+				"id": "11000019",
+				"name": "Girl Body Test"
+			},
+			{
+				"id": "11000025",
+				"name": "Akuliya"
+			},
+			{
+				"id": "11000026",
+				"name": "Yaoyao"
+			},
+			{
+				"id": "11000027",
+				"name": "Girl Body Test - #2 Machine"
+			},
+			{
+				"id": "11000028",
+				"name": "Shiro Maiden"
+			},
+			{
+				"id": "11000030",
+				"name": "Greatsword Maiden"
+			},
+			{
+				"id": "11000031",
+				"name": "Late Weapon Test A"
+			},
+			{
+				"id": "11000032",
+				"name": "Late Weapon Test B"
+			},
+			{
+				"id": "11000033",
+				"name": "Late Weapon Test C"
+			},
+			{
+				"id": "11000034",
+				"name": "Late Weapon Test D"
+			},
+			{
+				"id": "11000035",
+				"name": "Lance Warrioress"
+			},
+			{
+				"id": "11000036",
+				"name": "Swordswoman Test"
+			},
+			{
+				"id": "11000037",
+				"name": "Rx White-Box"
+			},
+			{
+				"id": "11000038",
+				"name": "Boy Body Test"
+			},
+			{
+				"id": "11000039",
+				"name": "Adult Male Body Test"
+			},
+			{
+				"id": "11000040",
+				"name": "Female Lead New Normal Attack"
+			},
+			{
+				"id": "11000041",
+				"name": "Male Lead New Normal Attack"
+			},
+			{
+				"id": "11000042",
+				"name": "Chongyun (Test)"
+			},
+			{
+				"id": "11000043",
+				"name": "Test Character"
+			},
+			{
+				"id": "11000044",
+				"name": "Qiqi (Test)"
+			},
+			{
+				"id": "11000045",
+				"name": "Diona (Test)"
+			}
+		],
+		"weapons": [
+			{
+				"id": "11101",
+				"name": "Dull Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11201",
+				"name": "Silver Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11301",
+				"name": "Cool Steel",
+				"type": "sword"
+			},
+			{
+				"id": "11302",
+				"name": "Harbinger of Dawn",
+				"type": "sword"
+			},
+			{
+				"id": "11303",
+				"name": "Traveler's Handy Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11304",
+				"name": "Dark Iron Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11305",
+				"name": "Fillet Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11306",
+				"name": "Skyrider Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11401",
+				"name": "Favonius Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11402",
+				"name": "The Flute",
+				"type": "sword"
+			},
+			{
+				"id": "11403",
+				"name": "Sacrificial Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11404",
+				"name": "Royal Longsword",
+				"type": "sword"
+			},
+			{
+				"id": "11405",
+				"name": "Lion's Roar",
+				"type": "sword"
+			},
+			{
+				"id": "11406",
+				"name": "Prototype Rancour",
+				"type": "sword"
+			},
+			{
+				"id": "11407",
+				"name": "Iron Sting",
+				"type": "sword"
+			},
+			{
+				"id": "11408",
+				"name": "Blackcliff Longsword",
+				"type": "sword"
+			},
+			{
+				"id": "11409",
+				"name": "The Black Sword",
+				"type": "sword"
+			},
+			{
+				"id": "11410",
+				"name": "The Alley Flash",
+				"type": "sword"
+			},
+			{
+				"id": "11412",
+				"name": "Sword of Descension",
+				"type": "sword"
+			},
+			{
+				"id": "11413",
+				"name": "Festering Desire",
+				"type": "sword"
+			},
+			{
+				"id": "11414",
+				"name": "Amenoma Kageuchi",
+				"type": "sword"
+			},
+			{
+				"id": "11415",
+				"name": "Cinnabar Spindle",
+				"type": "sword"
+			},
+			{
+				"id": "11416",
+				"name": "Kagotsurube Isshin",
+				"type": "sword"
+			},
+			{
+				"id": "11417",
+				"name": "Sapwood Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11418",
+				"name": "Xiphos' Moonlight",
+				"type": "sword"
+			},
+			{
+				"id": "11419",
+				"name": "Prized Isshin Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11420",
+				"name": "Prized Isshin Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11421",
+				"name": "Prized Isshin Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11422",
+				"name": "Toukabou Shigure",
+				"type": "sword"
+			},
+			{
+				"id": "11501",
+				"name": "Aquila Favonia",
+				"type": "sword"
+			},
+			{
+				"id": "11502",
+				"name": "Skyward Blade",
+				"type": "sword"
+			},
+			{
+				"id": "11503",
+				"name": "Freedom-Sworn",
+				"type": "sword"
+			},
+			{
+				"id": "11504",
+				"name": "Summit Shaper",
+				"type": "sword"
+			},
+			{
+				"id": "11505",
+				"name": "Primordial Jade Cutter",
+				"type": "sword"
+			},
+			{
+				"id": "11506",
+				"name": "Primordial Jade Cutter",
+				"type": "sword"
+			},
+			{
+				"id": "11507",
+				"name": "One Side",
+				"type": "sword"
+			},
+			{
+				"id": "11509",
+				"name": "Mistsplitter Reforged",
+				"type": "sword"
+			},
+			{
+				"id": "11510",
+				"name": "Haran Geppaku Futsu",
+				"type": "sword"
+			},
+			{
+				"id": "11511",
+				"name": "Key of Khaj-Nisut",
+				"type": "sword"
+			},
+			{
+				"id": "11512",
+				"name": "Light of Foliar Incision",
+				"type": "sword"
+			},
+			{
+				"id": "12101",
+				"name": "Waster Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12201",
+				"name": "Old Merc's Pal",
+				"type": "claymore"
+			},
+			{
+				"id": "12301",
+				"name": "Ferrous Shadow",
+				"type": "claymore"
+			},
+			{
+				"id": "12302",
+				"name": "Bloodtainted Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12303",
+				"name": "White Iron Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12304",
+				"name": "Quartz",
+				"type": "claymore"
+			},
+			{
+				"id": "12305",
+				"name": "Debate Club",
+				"type": "claymore"
+			},
+			{
+				"id": "12306",
+				"name": "Skyrider Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12401",
+				"name": "Favonius Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12402",
+				"name": "The Bell",
+				"type": "claymore"
+			},
+			{
+				"id": "12403",
+				"name": "Sacrificial Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12404",
+				"name": "Royal Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12405",
+				"name": "Rainslasher",
+				"type": "claymore"
+			},
+			{
+				"id": "12406",
+				"name": "Prototype Archaic",
+				"type": "claymore"
+			},
+			{
+				"id": "12407",
+				"name": "Whiteblind",
+				"type": "claymore"
+			},
+			{
+				"id": "12408",
+				"name": "Blackcliff Slasher",
+				"type": "claymore"
+			},
+			{
+				"id": "12409",
+				"name": "Serpent Spine",
+				"type": "claymore"
+			},
+			{
+				"id": "12410",
+				"name": "Lithic Blade",
+				"type": "claymore"
+			},
+			{
+				"id": "12411",
+				"name": "Snow-Tombed Starsilver",
+				"type": "claymore"
+			},
+			{
+				"id": "12412",
+				"name": "Luxurious Sea-Lord",
+				"type": "claymore"
+			},
+			{
+				"id": "12414",
+				"name": "Katsuragikiri Nagamasa",
+				"type": "claymore"
+			},
+			{
+				"id": "12415",
+				"name": "Makhaira Aquamarine",
+				"type": "claymore"
+			},
+			{
+				"id": "12416",
+				"name": "Akuoumaru",
+				"type": "claymore"
+			},
+			{
+				"id": "12417",
+				"name": "Forest Regalia",
+				"type": "claymore"
+			},
+			{
+				"id": "12501",
+				"name": "Skyward Pride",
+				"type": "claymore"
+			},
+			{
+				"id": "12502",
+				"name": "Wolf's Gravestone",
+				"type": "claymore"
+			},
+			{
+				"id": "12503",
+				"name": "Song of Broken Pines",
+				"type": "claymore"
+			},
+			{
+				"id": "12504",
+				"name": "The Unforged",
+				"type": "claymore"
+			},
+			{
+				"id": "12505",
+				"name": "Primordial Jade Greatsword",
+				"type": "claymore"
+			},
+			{
+				"id": "12506",
+				"name": "The Other Side",
+				"type": "claymore"
+			},
+			{
+				"id": "12510",
+				"name": "Redhorn Stonethresher",
+				"type": "claymore"
+			},
+			{
+				"id": "13101",
+				"name": "Beginner's Protector",
+				"type": "polearm"
+			},
+			{
+				"id": "13201",
+				"name": "Iron Point",
+				"type": "polearm"
+			},
+			{
+				"id": "13301",
+				"name": "White Tassel",
+				"type": "polearm"
+			},
+			{
+				"id": "13302",
+				"name": "Halberd",
+				"type": "polearm"
+			},
+			{
+				"id": "13303",
+				"name": "Black Tassel",
+				"type": "polearm"
+			},
+			{
+				"id": "13304",
+				"name": "The Flagstaff",
+				"type": "polearm"
+			},
+			{
+				"id": "13401",
+				"name": "Dragon's Bane",
+				"type": "polearm"
+			},
+			{
+				"id": "13402",
+				"name": "Prototype Starglitter",
+				"type": "polearm"
+			},
+			{
+				"id": "13403",
+				"name": "Crescent Pike",
+				"type": "polearm"
+			},
+			{
+				"id": "13404",
+				"name": "Blackcliff Pole",
+				"type": "polearm"
+			},
+			{
+				"id": "13405",
+				"name": "Deathmatch",
+				"type": "polearm"
+			},
+			{
+				"id": "13406",
+				"name": "Lithic Spear",
+				"type": "polearm"
+			},
+			{
+				"id": "13407",
+				"name": "Favonius Lance",
+				"type": "polearm"
+			},
+			{
+				"id": "13408",
+				"name": "Royal Spear",
+				"type": "polearm"
+			},
+			{
+				"id": "13409",
+				"name": "Dragonspine Spear",
+				"type": "polearm"
+			},
+			{
+				"id": "13414",
+				"name": "Kitain Cross Spear",
+				"type": "polearm"
+			},
+			{
+				"id": "13415",
+				"name": "The Catch",
+				"type": "polearm"
+			},
+			{
+				"id": "13416",
+				"name": "Wavebreaker's Fin",
+				"type": "polearm"
+			},
+			{
+				"id": "13417",
+				"name": "Moonpiercer",
+				"type": "polearm"
+			},
+			{
+				"id": "13419",
+				"name": "Missive Windspear",
+				"type": "polearm"
+			},
+			{
+				"id": "13501",
+				"name": "Staff of Homa",
+				"type": "polearm"
+			},
+			{
+				"id": "13502",
+				"name": "Skyward Spine",
+				"type": "polearm"
+			},
+			{
+				"id": "13504",
+				"name": "Vortex Vanquisher",
+				"type": "polearm"
+			},
+			{
+				"id": "13505",
+				"name": "Primordial Jade Winged-Spear",
+				"type": "polearm"
+			},
+			{
+				"id": "13506",
+				"name": "Deicide",
+				"type": "polearm"
+			},
+			{
+				"id": "13507",
+				"name": "Calamity Queller",
+				"type": "polearm"
+			},
+			{
+				"id": "13509",
+				"name": "Engulfing Lightning",
+				"type": "polearm"
+			},
+			{
+				"id": "13511",
+				"name": "Staff of the Scarlet Sands",
+				"type": "polearm"
+			},
+			{
+				"id": "14101",
+				"name": "Apprentice's Notes",
+				"type": "catalyst"
+			},
+			{
+				"id": "14201",
+				"name": "Pocket Grimoire",
+				"type": "catalyst"
+			},
+			{
+				"id": "14301",
+				"name": "Magic Guide",
+				"type": "catalyst"
+			},
+			{
+				"id": "14302",
+				"name": "Thrilling Tales of Dragon Slayers",
+				"type": "catalyst"
+			},
+			{
+				"id": "14303",
+				"name": "Otherworldly Story",
+				"type": "catalyst"
+			},
+			{
+				"id": "14304",
+				"name": "Emerald Orb",
+				"type": "catalyst"
+			},
+			{
+				"id": "14305",
+				"name": "Twin Nephrite",
+				"type": "catalyst"
+			},
+			{
+				"id": "14306",
+				"name": "Amber Bead",
+				"type": "catalyst"
+			},
+			{
+				"id": "14401",
+				"name": "Favonius Codex",
+				"type": "catalyst"
+			},
+			{
+				"id": "14402",
+				"name": "The Widsith",
+				"type": "catalyst"
+			},
+			{
+				"id": "14403",
+				"name": "Sacrificial Fragments",
+				"type": "catalyst"
+			},
+			{
+				"id": "14404",
+				"name": "Royal Grimoire",
+				"type": "catalyst"
+			},
+			{
+				"id": "14405",
+				"name": "Solar Pearl",
+				"type": "catalyst"
+			},
+			{
+				"id": "14406",
+				"name": "Prototype Amber",
+				"type": "catalyst"
+			},
+			{
+				"id": "14407",
+				"name": "Mappa Mare",
+				"type": "catalyst"
+			},
+			{
+				"id": "14408",
+				"name": "Blackcliff Agate",
+				"type": "catalyst"
+			},
+			{
+				"id": "14409",
+				"name": "Eye of Perception",
+				"type": "catalyst"
+			},
+			{
+				"id": "14410",
+				"name": "Wine and Song",
+				"type": "catalyst"
+			},
+			{
+				"id": "14412",
+				"name": "Frostbearer",
+				"type": "catalyst"
+			},
+			{
+				"id": "14413",
+				"name": "Dodoco Tales",
+				"type": "catalyst"
+			},
+			{
+				"id": "14414",
+				"name": "Hakushin Ring",
+				"type": "catalyst"
+			},
+			{
+				"id": "14415",
+				"name": "Oathsworn Eye",
+				"type": "catalyst"
+			},
+			{
+				"id": "14416",
+				"name": "Wandering Evenstar",
+				"type": "catalyst"
+			},
+			{
+				"id": "14417",
+				"name": "Fruit of Fulfillment",
+				"type": "catalyst"
+			},
+			{
+				"id": "14501",
+				"name": "Skyward Atlas",
+				"type": "catalyst"
+			},
+			{
+				"id": "14502",
+				"name": "Lost Prayer to the Sacred Winds",
+				"type": "catalyst"
+			},
+			{
+				"id": "14503",
+				"name": "Lost Ballade",
+				"type": "catalyst"
+			},
+			{
+				"id": "14504",
+				"name": "Memory of Dust",
+				"type": "catalyst"
+			},
+			{
+				"id": "14505",
+				"name": "Primordial Jade Regalia",
+				"type": "catalyst"
+			},
+			{
+				"id": "14506",
+				"name": "Everlasting Moonglow",
+				"type": "catalyst"
+			},
+			{
+				"id": "14509",
+				"name": "Kagura's Verity",
+				"type": "catalyst"
+			},
+			{
+				"id": "14511",
+				"name": "A Thousand Floating Dreams",
+				"type": "catalyst"
+			},
+			{
+				"id": "14512",
+				"name": "Tulaytullah's Remembrance",
+				"type": "catalyst"
+			},
+			{
+				"id": "15101",
+				"name": "Hunter's Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15201",
+				"name": "Seasoned Hunter's Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15301",
+				"name": "Raven Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15302",
+				"name": "Sharpshooter's Oath",
+				"type": "bow"
+			},
+			{
+				"id": "15303",
+				"name": "Recurve Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15304",
+				"name": "Slingshot",
+				"type": "bow"
+			},
+			{
+				"id": "15305",
+				"name": "Messenger",
+				"type": "bow"
+			},
+			{
+				"id": "15306",
+				"name": "Ebony Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15401",
+				"name": "Favonius Warbow",
+				"type": "bow"
+			},
+			{
+				"id": "15402",
+				"name": "The Stringless",
+				"type": "bow"
+			},
+			{
+				"id": "15403",
+				"name": "Sacrificial Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15404",
+				"name": "Royal Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15405",
+				"name": "Rust",
+				"type": "bow"
+			},
+			{
+				"id": "15406",
+				"name": "Prototype Crescent",
+				"type": "bow"
+			},
+			{
+				"id": "15407",
+				"name": "Compound Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15408",
+				"name": "Blackcliff Warbow",
+				"type": "bow"
+			},
+			{
+				"id": "15409",
+				"name": "The Viridescent Hunt",
+				"type": "bow"
+			},
+			{
+				"id": "15410",
+				"name": "Alley Hunter",
+				"type": "bow"
+			},
+			{
+				"id": "15411",
+				"name": "Fading Twilight",
+				"type": "bow"
+			},
+			{
+				"id": "15412",
+				"name": "Mitternachts Waltz",
+				"type": "bow"
+			},
+			{
+				"id": "15413",
+				"name": "Windblume Ode",
+				"type": "bow"
+			},
+			{
+				"id": "15414",
+				"name": "Hamayumi",
+				"type": "bow"
+			},
+			{
+				"id": "15415",
+				"name": "Predator",
+				"type": "bow"
+			},
+			{
+				"id": "15416",
+				"name": "Mouun's Moon",
+				"type": "bow"
+			},
+			{
+				"id": "15417",
+				"name": "King's Squire",
+				"type": "bow"
+			},
+			{
+				"id": "15418",
+				"name": "End of the Line",
+				"type": "bow"
+			},
+			{
+				"id": "15501",
+				"name": "Skyward Harp",
+				"type": "bow"
+			},
+			{
+				"id": "15502",
+				"name": "Amos' Bow",
+				"type": "bow"
+			},
+			{
+				"id": "15503",
+				"name": "Elegy for the End",
+				"type": "bow"
+			},
+			{
+				"id": "15504",
+				"name": "Kunwu's Wyrmbane",
+				"type": "bow"
+			},
+			{
+				"id": "15505",
+				"name": "Primordial Jade Vista",
+				"type": "bow"
+			},
+			{
+				"id": "15506",
+				"name": "Mirror Breaker",
+				"type": "bow"
+			},
+			{
+				"id": "15507",
+				"name": "Polar Star",
+				"type": "bow"
+			},
+			{
+				"id": "15508",
+				"name": "Aqua Simulacra",
+				"type": "bow"
+			},
+			{
+				"id": "15509",
+				"name": "Thundering Pulse",
+				"type": "bow"
+			},
+			{
+				"id": "15511",
+				"name": "Hunter's Path",
+				"type": "bow"
+			}
+		],
+		"artifacts": [
+			{
+				"id": 214001,
+				"name": "Blizzard Strayer",
+				"desc1": "Cryo DMG Bonus +15%",
+				"desc2": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+				"sets": {
+					"flower": 71544,
+					"plume": 71524,
+					"sands": 71554,
+					"goblet": 71514,
+					"circlet": 71534
+				}
+			},
+			{
+				"id": 214002,
+				"name": "Thundersoother",
+				"desc1": "Electro RES increased by 40%.",
+				"desc2": "Increases DMG against opponents affected by Electro by 35%.",
+				"sets": {
+					"flower": 72544,
+					"plume": 72524,
+					"sands": 72554,
+					"goblet": 72514,
+					"circlet": 72534
+				}
+			},
+			{
+				"id": 214003,
+				"name": "Lavawalker",
+				"desc1": "Pyro RES increased by 40%.",
+				"desc2": "Increases DMG against opponents affected by Pyro by 35%.",
+				"sets": {
+					"flower": 73544,
+					"plume": 73524,
+					"sands": 73554,
+					"goblet": 73514,
+					"circlet": 73534
+				}
+			},
+			{
+				"id": 214004,
+				"name": "Maiden Beloved",
+				"desc1": "Character Healing Effectiveness +15%",
+				"desc2": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+				"sets": {
+					"flower": 74544,
+					"plume": 74524,
+					"sands": 74554,
+					"goblet": 74514,
+					"circlet": 74534
+				}
+			},
+			{
+				"id": 215001,
+				"name": "Gladiator's Finale",
+				"desc1": "ATK +18%.",
+				"desc2": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+				"sets": {
+					"flower": 75544,
+					"plume": 75524,
+					"sands": 75554,
+					"goblet": 75514,
+					"circlet": 75534
+				}
+			},
+			{
+				"id": 215002,
+				"name": "Viridescent Venerer",
+				"desc1": "Anemo DMG Bonus +15%",
+				"desc2": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+				"sets": {
+					"flower": 76544,
+					"plume": 76524,
+					"sands": 76554,
+					"goblet": 76514,
+					"circlet": 76534
+				}
+			},
+			{
+				"id": 215003,
+				"name": "Wanderer's Troupe",
+				"desc1": "Increases Elemental Mastery by 80.",
+				"desc2": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+				"sets": {
+					"flower": 77544,
+					"plume": 77524,
+					"sands": 77554,
+					"goblet": 77514,
+					"circlet": 77534
+				}
+			},
+			{
+				"id": 215004,
+				"name": "Glacier and Snowfield",
+				"desc1": "Cryo DMG Bonus +15%",
+				"desc2": "Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s.",
+				"sets": {
+					"flower": 78544,
+					"plume": 78524,
+					"sands": 78554,
+					"goblet": 78514,
+					"circlet": 78534
+				}
+			},
+			{
+				"id": 215005,
+				"name": "Thundering Fury",
+				"desc1": "Electro DMG Bonus +15%",
+				"desc2": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+				"sets": {
+					"flower": 79544,
+					"plume": 79524,
+					"sands": 79554,
+					"goblet": 79514,
+					"circlet": 79534
+				}
+			},
+			{
+				"id": 215006,
+				"name": "Crimson Witch of Flames",
+				"desc1": "Pyro DMG Bonus +15%",
+				"desc2": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+				"sets": {
+					"flower": 80544,
+					"plume": 80524,
+					"sands": 80554,
+					"goblet": 80514,
+					"circlet": 80534
+				}
+			},
+			{
+				"id": 215007,
+				"name": "Noblesse Oblige",
+				"desc1": "Elemental Burst DMG +20%",
+				"desc2": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+				"sets": {
+					"flower": 81544,
+					"plume": 81524,
+					"sands": 81554,
+					"goblet": 81514,
+					"circlet": 81534
+				}
+			},
+			{
+				"id": 215008,
+				"name": "Bloodstained Chivalry",
+				"desc1": "Physical DMG +25%",
+				"desc2": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.",
+				"sets": {
+					"flower": 82544,
+					"plume": 82524,
+					"sands": 82554,
+					"goblet": 82514,
+					"circlet": 82534
+				}
+			},
+			{
+				"id": 215014,
+				"name": "Archaic Petra",
+				"desc1": "Gain a 15% Geo DMG Bonus.",
+				"desc2": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
+				"sets": {
+					"flower": 88544,
+					"plume": 88524,
+					"sands": 88554,
+					"goblet": 88514,
+					"circlet": 88534
+				}
+			},
+			{
+				"id": 215015,
+				"name": "Retracing Bolide",
+				"desc1": "Increases Shield Strength by 35%.",
+				"desc2": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+				"sets": {
+					"flower": 89544,
+					"plume": 89524,
+					"sands": 89554,
+					"goblet": 89514,
+					"circlet": 89534
+				}
+			},
+			{
+				"id": 215016,
+				"name": "Heart of Depth",
+				"desc1": "Hydro DMG Bonus +15%",
+				"desc2": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+				"sets": {
+					"flower": 90544,
+					"plume": 90524,
+					"sands": 90554,
+					"goblet": 90514,
+					"circlet": 90534
+				}
+			},
+			{
+				"id": 215017,
+				"name": "Tenacity of the Millelith",
+				"desc1": "HP increased by 20%.",
+				"desc2": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+				"sets": {
+					"flower": 91544,
+					"plume": 91524,
+					"sands": 91554,
+					"goblet": 91514,
+					"circlet": 91534
+				}
+			},
+			{
+				"id": 215018,
+				"name": "Pale Flame",
+				"desc1": "Physical DMG is increased by 25%.",
+				"desc2": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+				"sets": {
+					"flower": 92544,
+					"plume": 92524,
+					"sands": 92554,
+					"goblet": 92514,
+					"circlet": 92534
+				}
+			},
+			{
+				"id": 215019,
+				"name": "Shimenawa's Reminiscence",
+				"desc1": "ATK +18%.",
+				"desc2": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+				"sets": {
+					"flower": 93544,
+					"plume": 93524,
+					"sands": 93554,
+					"goblet": 93514,
+					"circlet": 93534
+				}
+			},
+			{
+				"id": 215020,
+				"name": "Emblem of Severed Fate",
+				"desc1": "Energy Recharge +20%",
+				"desc2": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+				"sets": {
+					"flower": 94544,
+					"plume": 94524,
+					"sands": 94554,
+					"goblet": 94514,
+					"circlet": 94534
+				}
+			},
+			{
+				"id": 215021,
+				"name": "Husk of Opulent Dreams",
+				"desc1": "DEF +30%",
+				"desc2": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+				"sets": {
+					"flower": 95544,
+					"plume": 95524,
+					"sands": 95554,
+					"goblet": 95514,
+					"circlet": 95534
+				}
+			},
+			{
+				"id": 215022,
+				"name": "Ocean-Hued Clam",
+				"desc1": "Healing Bonus +15%.",
+				"desc2": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+				"sets": {
+					"flower": 96544,
+					"plume": 96524,
+					"sands": 96554,
+					"goblet": 96514,
+					"circlet": 96534
+				}
+			},
+			{
+				"id": 215023,
+				"name": "Vermillion Hereafter",
+				"desc1": "ATK +18%.",
+				"desc2": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+				"sets": {
+					"flower": 97544,
+					"plume": 97524,
+					"sands": 97554,
+					"goblet": 97514,
+					"circlet": 97534
+				}
+			},
+			{
+				"id": 215024,
+				"name": "Echoes of an Offering",
+				"desc1": "ATK +18%.",
+				"desc2": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s.",
+				"sets": {
+					"flower": 98544,
+					"plume": 98524,
+					"sands": 98554,
+					"goblet": 98514,
+					"circlet": 98534
+				}
+			},
+			{
+				"id": 215025,
+				"name": "Deepwood Memories",
+				"desc1": "Dendro DMG Bonus +15%.",
+				"desc2": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+				"sets": {
+					"flower": 23624,
+					"plume": 23622,
+					"sands": 23625,
+					"goblet": 23621,
+					"circlet": 23623
+				}
+			},
+			{
+				"id": 215026,
+				"name": "Gilded Dreams",
+				"desc1": "Increases Elemental Mastery by 80.",
+				"desc2": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
+				"sets": {
+					"flower": 23634,
+					"plume": 23632,
+					"sands": 23635,
+					"goblet": 23631,
+					"circlet": 23633
+				}
+			},
+			{
+				"id": 215027,
+				"name": "Desert Pavilion Chronicle",
+				"desc1": "Anemo DMG Bonus +15%",
+				"desc2": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
+				"sets": {
+					"flower": 27544,
+					"plume": 27524,
+					"sands": 27554,
+					"goblet": 27514,
+					"circlet": 27534
+				}
+			},
+			{
+				"id": 215028,
+				"name": "Flower of Paradise Lost",
+				"desc1": "Increases Elemental Mastery by 80.",
+				"desc2": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.",
+				"sets": {
+					"flower": 28544,
+					"plume": 28524,
+					"sands": 28554,
+					"goblet": 28514,
+					"circlet": 28534
+				}
+			}
+		],
+		"currencies": [
+			{
+				"id": "201",
+				"name": "Primogem"
+			},
+			{
+				"id": "202",
+				"name": "Mora"
+			},
+			{
+				"id": "203",
+				"name": "Genesis Crystal"
+			},
+			{
+				"id": "204",
+				"name": "Realm Currency"
+			},
+			{
+				"id": "107021",
+				"name": "Lucky Coin"
+			},
+			{
+				"id": "107009",
+				"name": "Fragile Resin"
+			},
+			{
+				"id": "107012",
+				"name": "Transient Resin"
+			}
+		],
+		"exp": [
+			{
+				"id": "105002",
+				"name": "Sanctifying Unction"
+			},
+			{
+				"id": "105003",
+				"name": "Sanctifying Essence"
+			},
+			{
+				"id": "104011",
+				"name": "Enhancement Ore"
+			},
+			{
+				"id": "104012",
+				"name": "Fine Enhancement Ore"
+			},
+			{
+				"id": "104013",
+				"name": "Mystic Enhancement Ore"
+			},
+			{
+				"id": "104001",
+				"name": "Wanderer's Advice"
+			},
+			{
+				"id": "104002",
+				"name": "Adventurer's Experience"
+			},
+			{
+				"id": "104003",
+				"name": "Hero's Wit"
+			}
+		],
+		"foods": [
+			{
+				"id": "102001",
+				"name": "Pyro Shard"
+			},
+			{
+				"id": "102002",
+				"name": "Hydro Shard"
+			},
+			{
+				"id": "102003",
+				"name": "Dendro Shard"
+			},
+			{
+				"id": "102004",
+				"name": "Electro Shard"
+			},
+			{
+				"id": "102005",
+				"name": "Anemo Shard"
+			},
+			{
+				"id": "102006",
+				"name": "Cryo Shard"
+			},
+			{
+				"id": "102007",
+				"name": "Geo Shard"
+			},
+			{
+				"id": "102008",
+				"name": "Primordial Elemental Shard"
+			},
+			{
+				"id": "103001",
+				"name": "Pyro Jikaka"
+			},
+			{
+				"id": "103002",
+				"name": "Hydro Jikaka"
+			},
+			{
+				"id": "103003",
+				"name": "Dendro Jikaka"
+			},
+			{
+				"id": "103004",
+				"name": "Electro Jikaka"
+			},
+			{
+				"id": "103005",
+				"name": "Anemo Jikaka"
+			},
+			{
+				"id": "103006",
+				"name": "Cryo Jikaka"
+			},
+			{
+				"id": "103007",
+				"name": "Geo Jikaka"
+			},
+			{
+				"id": "103008",
+				"name": "Standard Jikaka"
+			},
+			{
+				"id": "108000",
+				"name": "Dish"
+			},
+			{
+				"id": "108001",
+				"name": "Suspicious Fisherman's Toast"
+			},
+			{
+				"id": "108002",
+				"name": "Fisherman's Toast"
+			},
+			{
+				"id": "108003",
+				"name": "Delicious Fisherman's Toast"
+			},
+			{
+				"id": "108004",
+				"name": "Suspicious Teyvat Fried Egg"
+			},
+			{
+				"id": "108005",
+				"name": "Teyvat Fried Egg"
+			},
+			{
+				"id": "108006",
+				"name": "Delicious Teyvat Fried Egg"
+			},
+			{
+				"id": "108007",
+				"name": "Suspicious Steak"
+			},
+			{
+				"id": "108008",
+				"name": "Steak"
+			},
+			{
+				"id": "108009",
+				"name": "Delicious Steak"
+			},
+			{
+				"id": "108010",
+				"name": "Outrider's Champion Steak!"
+			},
+			{
+				"id": "108022",
+				"name": "Suspicious Tea Break Pancake"
+			},
+			{
+				"id": "108023",
+				"name": "Tea Break Pancake"
+			},
+			{
+				"id": "108024",
+				"name": "Delicious Tea Break Pancake"
+			},
+			{
+				"id": "108025",
+				"name": "Suspicious Fried Radish Balls"
+			},
+			{
+				"id": "108026",
+				"name": "Fried Radish Balls"
+			},
+			{
+				"id": "108027",
+				"name": "Delicious Fried Radish Balls"
+			},
+			{
+				"id": "108028",
+				"name": "Suspicious Satisfying Salad"
+			},
+			{
+				"id": "108029",
+				"name": "Satisfying Salad"
+			},
+			{
+				"id": "108030",
+				"name": "Delicious Satisfying Salad"
+			},
+			{
+				"id": "108034",
+				"name": "Suspicious Northern Smoked Chicken"
+			},
+			{
+				"id": "108035",
+				"name": "Northern Smoked Chicken"
+			},
+			{
+				"id": "108036",
+				"name": "Delicious Northern Smoked Chicken"
+			},
+			{
+				"id": "108037",
+				"name": "Suspicious Cream Stew"
+			},
+			{
+				"id": "108038",
+				"name": "Cream Stew"
+			},
+			{
+				"id": "108039",
+				"name": "Delicious Cream Stew"
+			},
+			{
+				"id": "108040",
+				"name": "Spicy Stew"
+			},
+			{
+				"id": "108049",
+				"name": "Suspicious Calla Lily Seafood Soup"
+			},
+			{
+				"id": "108050",
+				"name": "Calla Lily Seafood Soup"
+			},
+			{
+				"id": "108051",
+				"name": "Delicious Calla Lily Seafood Soup"
+			},
+			{
+				"id": "108052",
+				"name": "Suspicious Sautéed Matsutake"
+			},
+			{
+				"id": "108053",
+				"name": "Sautéed Matsutake"
+			},
+			{
+				"id": "108054",
+				"name": "Delicious Sautéed Matsutake"
+			},
+			{
+				"id": "108055",
+				"name": "Suspicious Pile 'Em Up"
+			},
+			{
+				"id": "108056",
+				"name": "Pile 'Em Up"
+			},
+			{
+				"id": "108057",
+				"name": "Delicious Pile 'Em Up"
+			},
+			{
+				"id": "108058",
+				"name": "Once Upon a Time in Mondstadt"
+			},
+			{
+				"id": "108059",
+				"name": "Suspicious Cold Cut Platter"
+			},
+			{
+				"id": "108060",
+				"name": "Cold Cut Platter"
+			},
+			{
+				"id": "108061",
+				"name": "Delicious Cold Cut Platter"
+			},
+			{
+				"id": "108062",
+				"name": "Suspicious Sticky Honey Roast"
+			},
+			{
+				"id": "108063",
+				"name": "Sticky Honey Roast"
+			},
+			{
+				"id": "108064",
+				"name": "Delicious Sticky Honey Roast"
+			},
+			{
+				"id": "108065",
+				"name": "Suspicious Crab, Ham & Veggie Bake"
+			},
+			{
+				"id": "108066",
+				"name": "Crab, Ham & Veggie Bake"
+			},
+			{
+				"id": "108067",
+				"name": "Delicious Crab, Ham & Veggie Bake"
+			},
+			{
+				"id": "108068",
+				"name": "Suspicious Jade Parcels"
+			},
+			{
+				"id": "108069",
+				"name": "Jade Parcels"
+			},
+			{
+				"id": "108070",
+				"name": "Delicious Jade Parcels"
+			},
+			{
+				"id": "108071",
+				"name": "Suspicious Zhongyuan Chop Suey"
+			},
+			{
+				"id": "108072",
+				"name": "Zhongyuan Chop Suey"
+			},
+			{
+				"id": "108073",
+				"name": "Delicious Zhongyuan Chop Suey"
+			},
+			{
+				"id": "108080",
+				"name": "Suspicious Almond Tofu"
+			},
+			{
+				"id": "108081",
+				"name": "Almond Tofu"
+			},
+			{
+				"id": "108082",
+				"name": "Delicious Almond Tofu"
+			},
+			{
+				"id": "108083",
+				"name": "Suspicious Jueyun Chili Chicken"
+			},
+			{
+				"id": "108084",
+				"name": "Jueyun Chili Chicken"
+			},
+			{
+				"id": "108085",
+				"name": "Delicious Jueyun Chili Chicken"
+			},
+			{
+				"id": "108086",
+				"name": "Suspicious Jewelry Soup"
+			},
+			{
+				"id": "108087",
+				"name": "Jewelry Soup"
+			},
+			{
+				"id": "108088",
+				"name": "Delicious Jewelry Soup"
+			},
+			{
+				"id": "108092",
+				"name": "Suspicious Mora Meat"
+			},
+			{
+				"id": "108093",
+				"name": "Mora Meat"
+			},
+			{
+				"id": "108094",
+				"name": "Delicious Mora Meat"
+			},
+			{
+				"id": "108095",
+				"name": "Suspicious Mondstadt Grilled Fish"
+			},
+			{
+				"id": "108096",
+				"name": "Mondstadt Grilled Fish"
+			},
+			{
+				"id": "108097",
+				"name": "Delicious Mondstadt Grilled Fish"
+			},
+			{
+				"id": "108098",
+				"name": "Suspicious Stir-Fried Filet"
+			},
+			{
+				"id": "108099",
+				"name": "Stir-Fried Filet"
+			},
+			{
+				"id": "108100",
+				"name": "Delicious Stir-Fried Filet"
+			},
+			{
+				"id": "108101",
+				"name": "Suspicious Golden Crab"
+			},
+			{
+				"id": "108102",
+				"name": "Golden Crab"
+			},
+			{
+				"id": "108103",
+				"name": "Delicious Golden Crab"
+			},
+			{
+				"id": "108110",
+				"name": "Suspicious Barbatos Ratatouille"
+			},
+			{
+				"id": "108111",
+				"name": "Barbatos Ratatouille"
+			},
+			{
+				"id": "108112",
+				"name": "Delicious Barbatos Ratatouille"
+			},
+			{
+				"id": "108113",
+				"name": "A Buoyant Breeze"
+			},
+			{
+				"id": "108114",
+				"name": "Der Weisheit Letzter Schluss (Life)"
+			},
+			{
+				"id": "108115",
+				"name": "Fish-Flavored Toast"
+			},
+			{
+				"id": "108116",
+				"name": "Teyvat Charred Egg"
+			},
+			{
+				"id": "108117",
+				"name": "Die Heilige Sinfonie"
+			},
+			{
+				"id": "108118",
+				"name": "Lighter-Than-Air Pancake"
+			},
+			{
+				"id": "108119",
+				"name": "Suspicious Lotus Seed and Bird Egg Soup"
+			},
+			{
+				"id": "108120",
+				"name": "Lotus Seed and Bird Egg Soup"
+			},
+			{
+				"id": "108121",
+				"name": "Delicious Lotus Seed and Bird Egg Soup"
+			},
+			{
+				"id": "108122",
+				"name": "Suspicious Adeptus' Temptation"
+			},
+			{
+				"id": "108123",
+				"name": "Adeptus' Temptation"
+			},
+			{
+				"id": "108124",
+				"name": "Delicious Adeptus' Temptation"
+			},
+			{
+				"id": "108125",
+				"name": "Suspicious Golden Shrimp Balls"
+			},
+			{
+				"id": "108126",
+				"name": "Golden Shrimp Balls"
+			},
+			{
+				"id": "108127",
+				"name": "Delicious Golden Shrimp Balls"
+			},
+			{
+				"id": "108128",
+				"name": "Suspicious Qingce Stir Fry"
+			},
+			{
+				"id": "108129",
+				"name": "Qingce Stir Fry"
+			},
+			{
+				"id": "108130",
+				"name": "Delicious Qingce Stir Fry"
+			},
+			{
+				"id": "108131",
+				"name": "Suspicious Come and Get It"
+			},
+			{
+				"id": "108132",
+				"name": "Come and Get It"
+			},
+			{
+				"id": "108133",
+				"name": "Delicious Come and Get It"
+			},
+			{
+				"id": "108134",
+				"name": "Definitely Not Bar Food!"
+			},
+			{
+				"id": "108137",
+				"name": "Sweet Dream"
+			},
+			{
+				"id": "108138",
+				"name": "Flash-Fried Filet"
+			},
+			{
+				"id": "108139",
+				"name": "Qiankun Mora Meat"
+			},
+			{
+				"id": "108140",
+				"name": "No Tomorrow"
+			},
+			{
+				"id": "108141",
+				"name": "Suspicious Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "108142",
+				"name": "Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "108143",
+				"name": "Delicious Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "108144",
+				"name": "Cold Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "108146",
+				"name": "Nutritious Meal (V.593)"
+			},
+			{
+				"id": "108147",
+				"name": "Holy Water"
+			},
+			{
+				"id": "108149",
+				"name": "Wolfhook Juice"
+			},
+			{
+				"id": "108150",
+				"name": "Berry & Mint Burst"
+			},
+			{
+				"id": "108155",
+				"name": "Suspicious Triple-Layered Consommé"
+			},
+			{
+				"id": "108156",
+				"name": "Triple-Layered Consommé"
+			},
+			{
+				"id": "108157",
+				"name": "Delicious Triple-Layered Consommé"
+			},
+			{
+				"id": "108158",
+				"name": "Suspicious Tianshu Meat"
+			},
+			{
+				"id": "108159",
+				"name": "Tianshu Meat"
+			},
+			{
+				"id": "108160",
+				"name": "Delicious Tianshu Meat"
+			},
+			{
+				"id": "108161",
+				"name": "Suspicious Lotus Flower Crisp"
+			},
+			{
+				"id": "108162",
+				"name": "Lotus Flower Crisp"
+			},
+			{
+				"id": "108163",
+				"name": "Delicious Lotus Flower Crisp"
+			},
+			{
+				"id": "108164",
+				"name": "Suspicious Moon Pie"
+			},
+			{
+				"id": "108165",
+				"name": "Moon Pie"
+			},
+			{
+				"id": "108166",
+				"name": "Delicious Moon Pie"
+			},
+			{
+				"id": "108167",
+				"name": "Suspicious Adventurer's Breakfast Sandwich"
+			},
+			{
+				"id": "108168",
+				"name": "Adventurer's Breakfast Sandwich"
+			},
+			{
+				"id": "108169",
+				"name": "Delicious Adventurer's Breakfast Sandwich"
+			},
+			{
+				"id": "108174",
+				"name": "Rockin' Riffin' Chicken!"
+			},
+			{
+				"id": "108175",
+				"name": "A Prize Catch"
+			},
+			{
+				"id": "108176",
+				"name": "Suspicious Crab Roe Tofu"
+			},
+			{
+				"id": "108177",
+				"name": "Crab Roe Tofu"
+			},
+			{
+				"id": "108178",
+				"name": "Delicious Crab Roe Tofu"
+			},
+			{
+				"id": "108179",
+				"name": "Suspicious Fullmoon Egg"
+			},
+			{
+				"id": "108180",
+				"name": "Fullmoon Egg"
+			},
+			{
+				"id": "108181",
+				"name": "Delicious Fullmoon Egg"
+			},
+			{
+				"id": "108182",
+				"name": "Suspicious Cured Pork Dry Hotpot"
+			},
+			{
+				"id": "108183",
+				"name": "Cured Pork Dry Hotpot"
+			},
+			{
+				"id": "108184",
+				"name": "Delicious Cured Pork Dry Hotpot"
+			},
+			{
+				"id": "108188",
+				"name": "Suspicious Vegetarian Abalone"
+			},
+			{
+				"id": "108189",
+				"name": "Vegetarian Abalone"
+			},
+			{
+				"id": "108190",
+				"name": "Delicious Vegetarian Abalone"
+			},
+			{
+				"id": "108191",
+				"name": "Suspicious Stone Harbor Delicacies"
+			},
+			{
+				"id": "108192",
+				"name": "Stone Harbor Delicacies"
+			},
+			{
+				"id": "108193",
+				"name": "Delicious Stone Harbor Delicacies"
+			},
+			{
+				"id": "108194",
+				"name": "Suspicious Stir-Fried Shrimp"
+			},
+			{
+				"id": "108195",
+				"name": "Stir-Fried Shrimp"
+			},
+			{
+				"id": "108196",
+				"name": "Delicious Stir-Fried Shrimp"
+			},
+			{
+				"id": "108200",
+				"name": "Ghostly March"
+			},
+			{
+				"id": "108204",
+				"name": "Suspicious Goulash"
+			},
+			{
+				"id": "108205",
+				"name": "Goulash"
+			},
+			{
+				"id": "108206",
+				"name": "Delicious Goulash"
+			},
+			{
+				"id": "108207",
+				"name": "Suspicious Sunshine Sprat"
+			},
+			{
+				"id": "108208",
+				"name": "Sunshine Sprat"
+			},
+			{
+				"id": "108209",
+				"name": "Delicious Sunshine Sprat"
+			},
+			{
+				"id": "108210",
+				"name": "Suspicious Jueyun Guoba"
+			},
+			{
+				"id": "108211",
+				"name": "Jueyun Guoba"
+			},
+			{
+				"id": "108212",
+				"name": "Delicious Jueyun Guoba"
+			},
+			{
+				"id": "108214",
+				"name": "Woodland Dream"
+			},
+			{
+				"id": "108216",
+				"name": "Lantern Rite Special Fried Radish Balls"
+			},
+			{
+				"id": "108217",
+				"name": "Lantern Rite Special Lotus Seed and Bird Egg Soup"
+			},
+			{
+				"id": "108218",
+				"name": "Lantern Rite Special Jewelry Soup"
+			},
+			{
+				"id": "108219",
+				"name": "Lantern Rite Special Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "108220",
+				"name": "Lantern Rite Special Come and Get It"
+			},
+			{
+				"id": "108221",
+				"name": "Lantern Rite Special Triple-Layered Consommé"
+			},
+			{
+				"id": "108228",
+				"name": "Suspicious Mint Salad"
+			},
+			{
+				"id": "108229",
+				"name": "Mint Salad"
+			},
+			{
+				"id": "108230",
+				"name": "Delicious Mint Salad"
+			},
+			{
+				"id": "108231",
+				"name": "Suspicious Minty Meat Rolls"
+			},
+			{
+				"id": "108232",
+				"name": "Minty Meat Rolls"
+			},
+			{
+				"id": "108233",
+				"name": "Delicious Minty Meat Rolls"
+			},
+			{
+				"id": "108235",
+				"name": "Suspicious Golden Fried Chicken"
+			},
+			{
+				"id": "108236",
+				"name": "Golden Fried Chicken"
+			},
+			{
+				"id": "108237",
+				"name": "Delicious Golden Fried Chicken"
+			},
+			{
+				"id": "108241",
+				"name": "Suspicious Fragrant Mashed Potatoes"
+			},
+			{
+				"id": "108242",
+				"name": "Fragrant Mashed Potatoes"
+			},
+			{
+				"id": "108243",
+				"name": "Delicious Fragrant Mashed Potatoes"
+			},
+			{
+				"id": "108244",
+				"name": "My Way"
+			},
+			{
+				"id": "108245",
+				"name": "Stormcrest Pie"
+			},
+			{
+				"id": "108246",
+				"name": "Suspicious Chicken Tofu Pudding"
+			},
+			{
+				"id": "108247",
+				"name": "Chicken Tofu Pudding"
+			},
+			{
+				"id": "108248",
+				"name": "Delicious Chicken Tofu Pudding"
+			},
+			{
+				"id": "108258",
+				"name": "Suspicious Sashimi Platter"
+			},
+			{
+				"id": "108259",
+				"name": "Sashimi Platter"
+			},
+			{
+				"id": "108260",
+				"name": "Delicious Sashimi Platter"
+			},
+			{
+				"id": "108264",
+				"name": "Suspicious Egg Roll"
+			},
+			{
+				"id": "108265",
+				"name": "Egg Roll"
+			},
+			{
+				"id": "108266",
+				"name": "Delicious Egg Roll"
+			},
+			{
+				"id": "108270",
+				"name": "Suspicious Butter Crab"
+			},
+			{
+				"id": "108271",
+				"name": "Butter Crab"
+			},
+			{
+				"id": "108272",
+				"name": "Delicious Butter Crab"
+			},
+			{
+				"id": "108273",
+				"name": "Suspicious Tri-Flavored Skewer"
+			},
+			{
+				"id": "108274",
+				"name": "Tri-Flavored Skewer"
+			},
+			{
+				"id": "108275",
+				"name": "Delicious Tri-Flavored Skewer"
+			},
+			{
+				"id": "108279",
+				"name": "Suspicious Imported Poultry"
+			},
+			{
+				"id": "108280",
+				"name": "Imported Poultry"
+			},
+			{
+				"id": "108281",
+				"name": "Delicious Imported Poultry"
+			},
+			{
+				"id": "108282",
+				"name": "Suspicious Sakura Mochi"
+			},
+			{
+				"id": "108283",
+				"name": "Sakura Mochi"
+			},
+			{
+				"id": "108284",
+				"name": "Delicious Sakura Mochi"
+			},
+			{
+				"id": "108285",
+				"name": "Suspicious Konda Cuisine"
+			},
+			{
+				"id": "108286",
+				"name": "Konda Cuisine"
+			},
+			{
+				"id": "108287",
+				"name": "Delicious Konda Cuisine"
+			},
+			{
+				"id": "108288",
+				"name": "Suspicious Rice Cake Soup"
+			},
+			{
+				"id": "108289",
+				"name": "Rice Cake Soup"
+			},
+			{
+				"id": "108290",
+				"name": "Delicious Rice Cake Soup"
+			},
+			{
+				"id": "108291",
+				"name": "Suspicious Mixed Yakisoba"
+			},
+			{
+				"id": "108292",
+				"name": "Mixed Yakisoba"
+			},
+			{
+				"id": "108293",
+				"name": "Delicious Mixed Yakisoba"
+			},
+			{
+				"id": "108294",
+				"name": "Suspicious Crab Roe Kourayaki"
+			},
+			{
+				"id": "108295",
+				"name": "Crab Roe Kourayaki"
+			},
+			{
+				"id": "108296",
+				"name": "Delicious Crab Roe Kourayaki"
+			},
+			{
+				"id": "108297",
+				"name": "Suspicious Sakura Tempura"
+			},
+			{
+				"id": "108298",
+				"name": "Sakura Tempura"
+			},
+			{
+				"id": "108299",
+				"name": "Delicious Sakura Tempura"
+			},
+			{
+				"id": "108300",
+				"name": "Snow on the Hearth"
+			},
+			{
+				"id": "108306",
+				"name": "Suspicious Rice Pudding"
+			},
+			{
+				"id": "108307",
+				"name": "Rice Pudding"
+			},
+			{
+				"id": "108308",
+				"name": "Delicious Rice Pudding"
+			},
+			{
+				"id": "108309",
+				"name": "Suspicious Braised Meat"
+			},
+			{
+				"id": "108310",
+				"name": "Braised Meat"
+			},
+			{
+				"id": "108311",
+				"name": "Delicious Braised Meat"
+			},
+			{
+				"id": "108312",
+				"name": "Suspicious Oncidium Tofu"
+			},
+			{
+				"id": "108313",
+				"name": "Oncidium Tofu"
+			},
+			{
+				"id": "108314",
+				"name": "Delicious Oncidium Tofu"
+			},
+			{
+				"id": "108315",
+				"name": "Suspicious Chili-Mince Cornbread Buns"
+			},
+			{
+				"id": "108316",
+				"name": "Chili-Mince Cornbread Buns"
+			},
+			{
+				"id": "108317",
+				"name": "Delicious Chili-Mince Cornbread Buns"
+			},
+			{
+				"id": "108321",
+				"name": "Suspicious Sweet Shrimp Sushi"
+			},
+			{
+				"id": "108322",
+				"name": "Sweet Shrimp Sushi"
+			},
+			{
+				"id": "108323",
+				"name": "Delicious Sweet Shrimp Sushi"
+			},
+			{
+				"id": "108327",
+				"name": "Suspicious Omelette Rice"
+			},
+			{
+				"id": "108328",
+				"name": "Omelette Rice"
+			},
+			{
+				"id": "108329",
+				"name": "Delicious Omelette Rice"
+			},
+			{
+				"id": "108333",
+				"name": "Suspicious More-and-More"
+			},
+			{
+				"id": "108334",
+				"name": "More-and-More"
+			},
+			{
+				"id": "108335",
+				"name": "Delicious More-and-More"
+			},
+			{
+				"id": "108341",
+				"name": "Faith Eternal"
+			},
+			{
+				"id": "108342",
+				"name": "Suspicious Radish and Fish Stew"
+			},
+			{
+				"id": "108343",
+				"name": "Radish and Fish Stew"
+			},
+			{
+				"id": "108344",
+				"name": "Delicious Radish and Fish Stew"
+			},
+			{
+				"id": "108345",
+				"name": "Suspicious Wakatakeni"
+			},
+			{
+				"id": "108346",
+				"name": "Wakatakeni"
+			},
+			{
+				"id": "108347",
+				"name": "Delicious Wakatakeni"
+			},
+			{
+				"id": "108355",
+				"name": "Suspicious Unagi Chazuke"
+			},
+			{
+				"id": "108356",
+				"name": "Unagi Chazuke"
+			},
+			{
+				"id": "108357",
+				"name": "Delicious Unagi Chazuke"
+			},
+			{
+				"id": "108358",
+				"name": "Suspicious Five Pickled Treasures"
+			},
+			{
+				"id": "108359",
+				"name": "Five Pickled Treasures"
+			},
+			{
+				"id": "108360",
+				"name": "Delicious Five Pickled Treasures"
+			},
+			{
+				"id": "108361",
+				"name": "Suspicious Sakura Shrimp Crackers"
+			},
+			{
+				"id": "108362",
+				"name": "Sakura Shrimp Crackers"
+			},
+			{
+				"id": "108363",
+				"name": "Delicious Sakura Shrimp Crackers"
+			},
+			{
+				"id": "108364",
+				"name": "Way of the Strong"
+			},
+			{
+				"id": "108366",
+				"name": "Suspicious Bountiful Year"
+			},
+			{
+				"id": "108367",
+				"name": "Bountiful Year"
+			},
+			{
+				"id": "108368",
+				"name": "Delicious Bountiful Year"
+			},
+			{
+				"id": "108369",
+				"name": "Suspicious Dragon Beard Noodles"
+			},
+			{
+				"id": "108370",
+				"name": "Dragon Beard Noodles"
+			},
+			{
+				"id": "108371",
+				"name": "Delicious Dragon Beard Noodles"
+			},
+			{
+				"id": "108372",
+				"name": "Heartstring Noodles"
+			},
+			{
+				"id": "108373",
+				"name": "Cloud-Shrouded Jade"
+			},
+			{
+				"id": "108374",
+				"name": "Suspicious Sangayaki"
+			},
+			{
+				"id": "108375",
+				"name": "Sangayaki"
+			},
+			{
+				"id": "108376",
+				"name": "Delicious Sangayaki"
+			},
+			{
+				"id": "108377",
+				"name": "Suspicious Udon Noodles"
+			},
+			{
+				"id": "108378",
+				"name": "Udon Noodles"
+			},
+			{
+				"id": "108379",
+				"name": "Delicious Udon Noodles"
+			},
+			{
+				"id": "108380",
+				"name": "Fukuuchi Udon"
+			},
+			{
+				"id": "108381",
+				"name": "Suspicious Katsu Sandwich"
+			},
+			{
+				"id": "108382",
+				"name": "Katsu Sandwich"
+			},
+			{
+				"id": "108383",
+				"name": "Delicious Katsu Sandwich"
+			},
+			{
+				"id": "108384",
+				"name": "Suspicious Rainbow Aster"
+			},
+			{
+				"id": "108385",
+				"name": "Rainbow Aster"
+			},
+			{
+				"id": "108386",
+				"name": "Delicious Rainbow Aster"
+			},
+			{
+				"id": "108387",
+				"name": "Quiet Elegance"
+			},
+			{
+				"id": "108388",
+				"name": "Omurice Waltz"
+			},
+			{
+				"id": "108389",
+				"name": "Dew-Dipped Shrimp"
+			},
+			{
+				"id": "108390",
+				"name": "The Only Truth"
+			},
+			{
+				"id": "108391",
+				"name": "Suspicious Butter Chicken"
+			},
+			{
+				"id": "108392",
+				"name": "Butter Chicken"
+			},
+			{
+				"id": "108393",
+				"name": "Delicious Butter Chicken"
+			},
+			{
+				"id": "108394",
+				"name": "Suspicious Shawarma Wrap"
+			},
+			{
+				"id": "108395",
+				"name": "Shawarma Wrap"
+			},
+			{
+				"id": "108396",
+				"name": "Delicious Shawarma Wrap"
+			},
+			{
+				"id": "108397",
+				"name": "Suspicious Selva Salad"
+			},
+			{
+				"id": "108398",
+				"name": "Selva Salad"
+			},
+			{
+				"id": "108399",
+				"name": "Delicious Selva Salad"
+			},
+			{
+				"id": "108400",
+				"name": "Suspicious Masala Cheese Balls"
+			},
+			{
+				"id": "108401",
+				"name": "Masala Cheese Balls"
+			},
+			{
+				"id": "108402",
+				"name": "Delicious Masala Cheese Balls"
+			},
+			{
+				"id": "108403",
+				"name": "Suspicious Mushroom Hodgepodge"
+			},
+			{
+				"id": "108404",
+				"name": "Mushroom Hodgepodge"
+			},
+			{
+				"id": "108405",
+				"name": "Delicious Mushroom Hodgepodge"
+			},
+			{
+				"id": "108409",
+				"name": "Suspicious Panipuri"
+			},
+			{
+				"id": "108410",
+				"name": "Panipuri"
+			},
+			{
+				"id": "108411",
+				"name": "Delicious Panipuri"
+			},
+			{
+				"id": "108412",
+				"name": "Suspicious Minty Bean Soup"
+			},
+			{
+				"id": "108413",
+				"name": "Minty Bean Soup"
+			},
+			{
+				"id": "108414",
+				"name": "Delicious Minty Bean Soup"
+			},
+			{
+				"id": "108415",
+				"name": "Suspicious Biryani"
+			},
+			{
+				"id": "108416",
+				"name": "Biryani"
+			},
+			{
+				"id": "108417",
+				"name": "Delicious Biryani"
+			},
+			{
+				"id": "108427",
+				"name": "Suspicious Tandoori Roast Chicken"
+			},
+			{
+				"id": "108428",
+				"name": "Tandoori Roast Chicken"
+			},
+			{
+				"id": "108429",
+				"name": "Delicious Tandoori Roast Chicken"
+			},
+			{
+				"id": "108430",
+				"name": "Suspicious Potato Boat"
+			},
+			{
+				"id": "108431",
+				"name": "Potato Boat"
+			},
+			{
+				"id": "108432",
+				"name": "Delicious Potato Boat"
+			},
+			{
+				"id": "108436",
+				"name": "Forest Watcher's Choice"
+			},
+			{
+				"id": "108438",
+				"name": "Show Me the Mora"
+			},
+			{
+				"id": "108439",
+				"name": "Suspicious Meat Lovers' Mushroom Pizza"
+			},
+			{
+				"id": "108440",
+				"name": "Meat Lovers' Mushroom Pizza"
+			},
+			{
+				"id": "108441",
+				"name": "Delicious Meat Lovers' Mushroom Pizza"
+			},
+			{
+				"id": "108442",
+				"name": "Suspicious Sunset Berry Tea"
+			},
+			{
+				"id": "108443",
+				"name": "Sunset Berry Tea"
+			},
+			{
+				"id": "108444",
+				"name": "Delicious Sunset Berry Tea"
+			},
+			{
+				"id": "108448",
+				"name": "Suspicious Charcoal-Baked Ajilenakh Cake"
+			},
+			{
+				"id": "108449",
+				"name": "Charcoal-Baked Ajilenakh Cake"
+			},
+			{
+				"id": "108450",
+				"name": "Delicious Charcoal-Baked Ajilenakh Cake"
+			},
+			{
+				"id": "108451",
+				"name": "Suspicious Baklava"
+			},
+			{
+				"id": "108452",
+				"name": "Baklava"
+			},
+			{
+				"id": "108453",
+				"name": "Delicious Baklava"
+			},
+			{
+				"id": "108454",
+				"name": "Suspicious Candied Ajilenakh Nut"
+			},
+			{
+				"id": "108455",
+				"name": "Candied Ajilenakh Nut"
+			},
+			{
+				"id": "108456",
+				"name": "Delicious Candied Ajilenakh Nut"
+			},
+			{
+				"id": "108457",
+				"name": "Suspicious Padisarah Pudding"
+			},
+			{
+				"id": "108458",
+				"name": "Padisarah Pudding"
+			},
+			{
+				"id": "108459",
+				"name": "Delicious Padisarah Pudding"
+			},
+			{
+				"id": "108460",
+				"name": "Suspicious Aaru Mixed Rice"
+			},
+			{
+				"id": "108461",
+				"name": "Aaru Mixed Rice"
+			},
+			{
+				"id": "108462",
+				"name": "Delicious Aaru Mixed Rice"
+			},
+			{
+				"id": "108463",
+				"name": "Suspicious Fruits of the Festival"
+			},
+			{
+				"id": "108464",
+				"name": "Fruits of the Festival"
+			},
+			{
+				"id": "108465",
+				"name": "Delicious Fruits of the Festival"
+			},
+			{
+				"id": "108466",
+				"name": "Swirling Steps"
+			},
+			{
+				"id": "108468",
+				"name": "Utmost Care"
+			},
+			{
+				"id": "108469",
+				"name": "Sparkling Berry Juice"
+			},
+			{
+				"id": "108474",
+				"name": "Halvamazd"
+			},
+			{
+				"id": "108478",
+				"name": "Traditionally-Made Charcoal-Baked Ajilenakh Cake"
+			},
+			{
+				"id": "108479",
+				"name": "Shimi Chazuke"
+			},
+			{
+				"id": "108487",
+				"name": "Qingce Household Dish"
+			},
+			{
+				"id": "108488",
+				"name": "Crocodile Jerky"
+			},
+			{
+				"id": "111006",
+				"name": "Heatshield Potion"
+			},
+			{
+				"id": "111007",
+				"name": "Desiccant Potion"
+			},
+			{
+				"id": "111008",
+				"name": "Frostshield Potion"
+			},
+			{
+				"id": "111009",
+				"name": "Windbarrier Potion"
+			},
+			{
+				"id": "111010",
+				"name": "Insulation Potion"
+			},
+			{
+				"id": "111011",
+				"name": "Dustproof Potion"
+			},
+			{
+				"id": "111012",
+				"name": "Dendrocide Potion"
+			},
+			{
+				"id": "111013",
+				"name": "Flaming Essential Oil"
+			},
+			{
+				"id": "111014",
+				"name": "Streaming Essential Oil"
+			},
+			{
+				"id": "111015",
+				"name": "Frosting Essential Oil"
+			},
+			{
+				"id": "111016",
+				"name": "Gushing Essential Oil"
+			},
+			{
+				"id": "111017",
+				"name": "Shocking Essential Oil"
+			},
+			{
+				"id": "111018",
+				"name": "Unmoving Essential Oil"
+			},
+			{
+				"id": "111019",
+				"name": "Forest Essential Oil"
+			},
+
+			{
+				"id": "100001",
+				"name": "Apple"
+			},
+			{
+				"id": "100002",
+				"name": "Sunsettia"
+			},
+			{
+				"id": "101212",
+				"name": "Starshroom"
+			},
+			{
+				"id": "101226",
+				"name": "Activated Starshroom"
+			},
+			{
+				"id": "101227",
+				"name": "Scorched Starshroom"
+			},
+			{
+				"id": "102001",
+				"name": "Pyro Shard"
+			},
+			{
+				"id": "108011",
+				"name": "Suspicious Chicken-Mushroom Skewer"
+			},
+			{
+				"id": "108012",
+				"name": "Chicken-Mushroom Skewer"
+			},
+			{
+				"id": "108013",
+				"name": "Delicious Chicken-Mushroom Skewer"
+			},
+			{
+				"id": "108014",
+				"name": "Fruity Skewers"
+			},
+			{
+				"id": "108015",
+				"name": "Suspicious Flaming Red Bolognese"
+			},
+			{
+				"id": "108016",
+				"name": "Flaming Red Bolognese"
+			},
+			{
+				"id": "108017",
+				"name": "Delicious Flaming Red Bolognese"
+			},
+			{
+				"id": "108018",
+				"name": "Mysterious Bolognese"
+			},
+			{
+				"id": "108019",
+				"name": "Suspicious Radish Veggie Soup"
+			},
+			{
+				"id": "108020",
+				"name": "Radish Veggie Soup"
+			},
+			{
+				"id": "108021",
+				"name": "Delicious Radish Veggie Soup"
+			},
+			{
+				"id": "108031",
+				"name": "Suspicious Sweet Madame"
+			},
+			{
+				"id": "108032",
+				"name": "Sweet Madame"
+			},
+			{
+				"id": "108033",
+				"name": "Delicious Sweet Madame"
+			},
+			{
+				"id": "108041",
+				"name": "Suspicious Mushroom Pizza"
+			},
+			{
+				"id": "108042",
+				"name": "Mushroom Pizza"
+			},
+			{
+				"id": "108043",
+				"name": "Delicious Mushroom Pizza"
+			},
+			{
+				"id": "108044",
+				"name": "Invigorating Pizza"
+			},
+			{
+				"id": "108045",
+				"name": "Suspicious Mondstadt Hash Brown"
+			},
+			{
+				"id": "108046",
+				"name": "Mondstadt Hash Brown"
+			},
+			{
+				"id": "108047",
+				"name": "Delicious Mondstadt Hash Brown"
+			},
+			{
+				"id": "108048",
+				"name": "Puppy-Paw Hash Brown"
+			},
+			{
+				"id": "108074",
+				"name": "Suspicious Black-Back Perch Stew"
+			},
+			{
+				"id": "108075",
+				"name": "Black-Back Perch Stew"
+			},
+			{
+				"id": "108076",
+				"name": "Delicious Black-Back Perch Stew"
+			},
+			{
+				"id": "108077",
+				"name": "Suspicious Squirrel Fish"
+			},
+			{
+				"id": "108078",
+				"name": "Squirrel Fish"
+			},
+			{
+				"id": "108079",
+				"name": "Delicious Squirrel Fish"
+			},
+			{
+				"id": "108089",
+				"name": "Suspicious Matsutake Meat Rolls"
+			},
+			{
+				"id": "108090",
+				"name": "Matsutake Meat Rolls"
+			},
+			{
+				"id": "108091",
+				"name": "Delicious Matsutake Meat Rolls"
+			},
+			{
+				"id": "108104",
+				"name": "Suspicious Crystal Shrimp"
+			},
+			{
+				"id": "108105",
+				"name": "Crystal Shrimp"
+			},
+			{
+				"id": "108106",
+				"name": "Delicious Crystal Shrimp"
+			},
+			{
+				"id": "108107",
+				"name": "Suspicious Grilled Tiger Fish"
+			},
+			{
+				"id": "108108",
+				"name": "Grilled Tiger Fish"
+			},
+			{
+				"id": "108109",
+				"name": "Delicious Grilled Tiger Fish"
+			},
+			{
+				"id": "108135",
+				"name": "Wanmin Restaurant's Boiled Fish"
+			},
+			{
+				"id": "108136",
+				"name": "All-Delicacy Parcels"
+			},
+			{
+				"id": "108145",
+				"name": "Survival Grilled Fish"
+			},
+			{
+				"id": "108148",
+				"name": "Pop's Teas"
+			},
+			{
+				"id": "108151",
+				"name": "Apple Cider"
+			},
+			{
+				"id": "108152",
+				"name": "Suspicious Bamboo Shoot Soup"
+			},
+			{
+				"id": "108153",
+				"name": "Bamboo Shoot Soup"
+			},
+			{
+				"id": "108154",
+				"name": "Delicious Bamboo Shoot Soup"
+			},
+			{
+				"id": "108170",
+				"name": "Suspicious Northern Apple Stew"
+			},
+			{
+				"id": "108171",
+				"name": "Northern Apple Stew"
+			},
+			{
+				"id": "108172",
+				"name": "Delicious Northern Apple Stew"
+			},
+			{
+				"id": "108173",
+				"name": "Slow-Cooked Bamboo Shoot Soup"
+			},
+			{
+				"id": "108185",
+				"name": "Suspicious Stir-Fried Fish Noodles"
+			},
+			{
+				"id": "108186",
+				"name": "Stir-Fried Fish Noodles"
+			},
+			{
+				"id": "108187",
+				"name": "Delicious Stir-Fried Fish Noodles"
+			},
+			{
+				"id": "108197",
+				"name": "Suspicious Rice Buns"
+			},
+			{
+				"id": "108198",
+				"name": "Rice Buns"
+			},
+			{
+				"id": "108199",
+				"name": "Delicious Rice Buns"
+			},
+			{
+				"id": "108201",
+				"name": "Suspicious Universal Peace"
+			},
+			{
+				"id": "108202",
+				"name": "Universal Peace"
+			},
+			{
+				"id": "108203",
+				"name": "Delicious Universal Peace"
+			},
+			{
+				"id": "108213",
+				"name": "Prosperous Peace"
+			},
+			{
+				"id": "108215",
+				"name": "Lantern Rite Special Grilled Tiger Fish"
+			},
+			{
+				"id": "108222",
+				"name": "Suspicious Crispy Potato Shrimp Platter"
+			},
+			{
+				"id": "108223",
+				"name": "Crispy Potato Shrimp Platter"
+			},
+			{
+				"id": "108224",
+				"name": "Delicious Crispy Potato Shrimp Platter"
+			},
+			{
+				"id": "108225",
+				"name": "Suspicious Mint Jelly"
+			},
+			{
+				"id": "108226",
+				"name": "Mint Jelly"
+			},
+			{
+				"id": "108227",
+				"name": "Delicious Mint Jelly"
+			},
+			{
+				"id": "108234",
+				"name": "Dinner of Judgment"
+			},
+			{
+				"id": "108238",
+				"name": "Suspicious Golden Chicken Burger"
+			},
+			{
+				"id": "108239",
+				"name": "Golden Chicken Burger"
+			},
+			{
+				"id": "108240",
+				"name": "Delicious Golden Chicken Burger"
+			},
+			{
+				"id": "108249",
+				"name": "Suspicious Tuna Sushi"
+			},
+			{
+				"id": "108250",
+				"name": "Tuna Sushi"
+			},
+			{
+				"id": "108251",
+				"name": "Delicious Tuna Sushi"
+			},
+			{
+				"id": "108252",
+				"name": "Suspicious Tricolor Dango"
+			},
+			{
+				"id": "108253",
+				"name": "Tricolor Dango"
+			},
+			{
+				"id": "108254",
+				"name": "Delicious Tricolor Dango"
+			},
+			{
+				"id": "108255",
+				"name": "Suspicious Onigiri"
+			},
+			{
+				"id": "108256",
+				"name": "Onigiri"
+			},
+			{
+				"id": "108257",
+				"name": "Delicious Onigiri"
+			},
+			{
+				"id": "108261",
+				"name": "Suspicious Tonkotsu Ramen"
+			},
+			{
+				"id": "108262",
+				"name": "Tonkotsu Ramen"
+			},
+			{
+				"id": "108263",
+				"name": "Delicious Tonkotsu Ramen"
+			},
+			{
+				"id": "108267",
+				"name": "Suspicious Dry-Braised Salted Fish"
+			},
+			{
+				"id": "108268",
+				"name": "Dry-Braised Salted Fish"
+			},
+			{
+				"id": "108269",
+				"name": "Delicious Dry-Braised Salted Fish"
+			},
+			{
+				"id": "108276",
+				"name": "Suspicious Miso Soup"
+			},
+			{
+				"id": "108277",
+				"name": "Miso Soup"
+			},
+			{
+				"id": "108278",
+				"name": "Delicious Miso Soup"
+			},
+			{
+				"id": "108301",
+				"name": "All-Weather Beauty"
+			},
+			{
+				"id": "108302",
+				"name": "Summer Festival Fish"
+			},
+			{
+				"id": "108303",
+				"name": "Dizziness-Be-Gone no Jutsu Version 2.0"
+			},
+			{
+				"id": "108304",
+				"name": "Special Mushroom Pizza"
+			},
+			{
+				"id": "108305",
+				"name": "Dango Milk"
+			},
+			{
+				"id": "108318",
+				"name": "Suspicious Invigorating Kitty Meal"
+			},
+			{
+				"id": "108319",
+				"name": "Invigorating Kitty Meal"
+			},
+			{
+				"id": "108320",
+				"name": "Delicious Invigorating Kitty Meal"
+			},
+			{
+				"id": "108324",
+				"name": "Suspicious Bird Egg Sushi"
+			},
+			{
+				"id": "108325",
+				"name": "Bird Egg Sushi"
+			},
+			{
+				"id": "108326",
+				"name": "Delicious Bird Egg Sushi"
+			},
+			{
+				"id": "108330",
+				"name": "Suspicious Taiyaki"
+			},
+			{
+				"id": "108331",
+				"name": "Taiyaki"
+			},
+			{
+				"id": "108332",
+				"name": "Delicious Taiyaki"
+			},
+			{
+				"id": "108336",
+				"name": "Suspicious Grilled Unagi Fillet"
+			},
+			{
+				"id": "108337",
+				"name": "Grilled Unagi Fillet"
+			},
+			{
+				"id": "108338",
+				"name": "Delicious Grilled Unagi Fillet"
+			},
+			{
+				"id": "108339",
+				"name": "Satiety Gel"
+			},
+			{
+				"id": "108340",
+				"name": "A Stunning Stratagem"
+			},
+			{
+				"id": "108348",
+				"name": "Suspicious Berry Mizu Manjuu"
+			},
+			{
+				"id": "108349",
+				"name": "Berry Mizu Manjuu"
+			},
+			{
+				"id": "108350",
+				"name": "Delicious Berry Mizu Manjuu"
+			},
+			{
+				"id": "108351",
+				"name": "Suspicious Soba Noodles"
+			},
+			{
+				"id": "108352",
+				"name": "Soba Noodles"
+			},
+			{
+				"id": "108353",
+				"name": "Delicious Soba Noodles"
+			},
+			{
+				"id": "108354",
+				"name": "Warmth"
+			},
+			{
+				"id": "108365",
+				"name": "Victorious Legend"
+			},
+			{
+				"id": "108406",
+				"name": "Suspicious Pita Pocket"
+			},
+			{
+				"id": "108407",
+				"name": "Pita Pocket"
+			},
+			{
+				"id": "108408",
+				"name": "Delicious Pita Pocket"
+			},
+			{
+				"id": "108418",
+				"name": "Suspicious Tahchin"
+			},
+			{
+				"id": "108419",
+				"name": "Tahchin"
+			},
+			{
+				"id": "108420",
+				"name": "Delicious Tahchin"
+			},
+			{
+				"id": "108421",
+				"name": "Suspicious Lambad Fish Roll"
+			},
+			{
+				"id": "108422",
+				"name": "Lambad Fish Roll"
+			},
+			{
+				"id": "108423",
+				"name": "Delicious Lambad Fish Roll"
+			},
+			{
+				"id": "108424",
+				"name": "Suspicious Curry Shrimp"
+			},
+			{
+				"id": "108425",
+				"name": "Curry Shrimp"
+			},
+			{
+				"id": "108426",
+				"name": "Delicious Curry Shrimp"
+			},
+			{
+				"id": "108433",
+				"name": "Suspicious Fish With Cream Sauce"
+			},
+			{
+				"id": "108434",
+				"name": "Fish With Cream Sauce"
+			},
+			{
+				"id": "108435",
+				"name": "Delicious Fish With Cream Sauce"
+			},
+			{
+				"id": "108437",
+				"name": "Yearning"
+			},
+			{
+				"id": "108445",
+				"name": "Suspicious Milky Mushroom Crisp Tower"
+			},
+			{
+				"id": "108446",
+				"name": "Milky Mushroom Crisp Tower"
+			},
+			{
+				"id": "108447",
+				"name": "Delicious Milky Mushroom Crisp Tower"
+			},
+			{
+				"id": "108467",
+				"name": "Duel Soul"
+			},
+			{
+				"id": "108470",
+				"name": "Suspicious Rose Custard"
+			},
+			{
+				"id": "108471",
+				"name": "Rose Custard"
+			},
+			{
+				"id": "108472",
+				"name": "Delicious Rose Custard"
+			},
+			{
+				"id": "108473",
+				"name": "Extravagant Slumber"
+			},
+			{
+				"id": "108475",
+				"name": "Suspicious Samosa"
+			},
+			{
+				"id": "108476",
+				"name": "Samosa"
+			},
+			{
+				"id": "108477",
+				"name": "Delicious Samosa"
+			},
+			{
+				"id": "108480",
+				"name": "Suspicious Sabz Meat Stew"
+			},
+			{
+				"id": "108481",
+				"name": "Sabz Meat Stew"
+			},
+			{
+				"id": "108482",
+				"name": "Delicious Sabz Meat Stew"
+			},
+			{
+				"id": "108483",
+				"name": "Suspicious Scented Meat Balls"
+			},
+			{
+				"id": "108484",
+				"name": "Scented Meat Balls"
+			},
+			{
+				"id": "108485",
+				"name": "Delicious Scented Meat Balls"
+			},
+			{
+				"id": "108486",
+				"name": "Ideal Circumstance"
+			},
+			{
+				"id": "101715",
+				"name": "Fragrant Vegetarian Abalone"
+			},
+			{
+				"id": "101719",
+				"name": "Fragrant Mint Salad"
+			},
+			{
+				"id": "101720",
+				"name": "Fragrant Triple-Layered Consommé"
+			},
+			{
+				"id": "101737",
+				"name": "Fragrant Stir-Fried Shrimp"
+			},
+			{
+				"id": "101738",
+				"name": "Fragrant Golden Shrimp Balls"
+			},
+			{
+				"id": "101739",
+				"name": "Fragrant Qingce Stir Fry"
+			},
+			{
+				"id": "101740",
+				"name": "Fragrant Black-Back Perch Stew"
+			},
+			{
+				"id": "101741",
+				"name": "Fragrant Stir-Fried Filet"
+			},
+			{
+				"id": "101742",
+				"name": "Fragrant Grilled Tiger Fish"
+			},
+			{
+				"id": "101743",
+				"name": "Fragrant Crab Roe Tofu"
+			},
+			{
+				"id": "101744",
+				"name": "Fragrant Golden Crab"
+			},
+			{
+				"id": "101745",
+				"name": "Fragrant Jewelry Soup"
+			},
+			{
+				"id": "101746",
+				"name": "Fragrant Bamboo Shoot Soup"
+			},
+			{
+				"id": "101747",
+				"name": "Fragrant Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "101748",
+				"name": "Fragrant Mora Meat"
+			},
+			{
+				"id": "101749",
+				"name": "Fragrant Stir-Fried Fish Noodles"
+			},
+			{
+				"id": "101750",
+				"name": "Fragrant Universal Peace"
+			},
+			{
+				"id": "101751",
+				"name": "Fragrant Rice Buns"
+			},
+			{
+				"id": "101752",
+				"name": "Fragrant Almond Tofu"
+			},
+			{
+				"id": "101753",
+				"name": "Fragrant Lotus Flower Crisp"
+			}
+		],
+		"adventure_items": [
+			{
+				"id": "101644",
+				"name": "Lumenstone Ore"
+			},
+			{
+				"id": "107001",
+				"name": "Anemoculus"
+			},
+			{
+				"id": "107003",
+				"name": "Geoculus"
+			},
+			{
+				"id": "107010",
+				"name": "Crimson Agate"
+			},
+			{
+				"id": "107014",
+				"name": "Electroculus"
+			},
+			{
+				"id": "107015",
+				"name": "Moonchase Charm"
+			},
+			{
+				"id": "107016",
+				"name": "Lumenspar"
+			},
+			{
+				"id": "107017",
+				"name": "Dendroculus"
+			}
+		],
+		"other_items": [
+			{
+				"id": "101",
+				"name": "Character EXP"
+			},
+			{
+				"id": "102",
+				"name": "Adventure EXP"
+			},
+			{
+				"id": "103",
+				"name": "Stardust"
+			},
+			{
+				"id": "104",
+				"name": "Starglitter"
+			},
+			{
+				"id": "105",
+				"name": "Companionship EXP"
+			},
+			{
+				"id": "106",
+				"name": "Original Resin"
+			},
+			{
+				"id": "107",
+				"name": "Story Key"
+			},
+			{
+				"id": "109",
+				"name": "Fading Star's Might"
+			},
+			{
+				"id": "110",
+				"name": "Fading Star's Essence"
+			},
+			{
+				"id": "111",
+				"name": "Glimmering Essence"
+			},
+			{
+				"id": "112",
+				"name": "Warm Essence"
+			},
+			{
+				"id": "113",
+				"name": "Miraculous Essence"
+			},
+			{
+				"id": "114",
+				"name": "Iron Coin"
+			},
+			{
+				"id": "115",
+				"name": "Peace Talisman"
+			},
+			{
+				"id": "116",
+				"name": "Festive Fever"
+			},
+			{
+				"id": "117",
+				"name": "Veneficus Sigil"
+			},
+			{
+				"id": "118",
+				"name": "Festive Tour Ticket"
+			},
+			{
+				"id": "119",
+				"name": "Peculiar Collab Coupon"
+			},
+			{
+				"id": "120",
+				"name": "Heart of the Spring"
+			},
+			{
+				"id": "121",
+				"name": "Trust"
+			},
+			{
+				"id": "122",
+				"name": "Fractured Fruit Data"
+			},
+			{
+				"id": "123",
+				"name": "Windtrace Coins"
+			},
+			{
+				"id": "124",
+				"name": "Shiny Flotsam"
+			},
+			{
+				"id": "125",
+				"name": "Mini Harpastum"
+			},
+			{
+				"id": "126",
+				"name": "Enigma Gear"
+			},
+			{
+				"id": "127",
+				"name": "Thunder Pellet"
+			},
+			{
+				"id": "128",
+				"name": "Thunder Crystal"
+			},
+			{
+				"id": "129",
+				"name": "Mechanicus Mastery EXP"
+			},
+			{
+				"id": "130",
+				"name": "Wondrous Talisman"
+			},
+			{
+				"id": "131",
+				"name": "Moonchase Festival Festive Fever"
+			},
+			{
+				"id": "132",
+				"name": "Battered Shikifuda"
+			},
+			{
+				"id": "133",
+				"name": "Damaged Replica"
+			},
+			{
+				"id": "134",
+				"name": "Aged Token"
+			},
+			{
+				"id": "135",
+				"name": "Snowstrider Seal"
+			},
+			{
+				"id": "136",
+				"name": "Vanquisher's Emblem"
+			},
+			{
+				"id": "137",
+				"name": "Affluence Talisman"
+			},
+			{
+				"id": "138",
+				"name": "Immaculate Talisman"
+			},
+			{
+				"id": "139",
+				"name": "Conquest Talisman"
+			},
+			{
+				"id": "140",
+				"name": "Moonlit Cragstone"
+			},
+			{
+				"id": "141",
+				"name": "Iridescent Flotsam"
+			},
+			{
+				"id": "142",
+				"name": "Stratagem Shard"
+			},
+			{
+				"id": "143",
+				"name": "Creative Note"
+			},
+			{
+				"id": "144",
+				"name": "Whimsical Draft"
+			},
+			{
+				"id": "145",
+				"name": "Ancient Iron Coin"
+			},
+			{
+				"id": "146",
+				"name": "Player EXP"
+			},
+			{
+				"id": "147",
+				"name": "Festive Fever"
+			},
+			{
+				"id": "148",
+				"name": "Business Earnings"
+			},
+			{
+				"id": "149",
+				"name": "Usable Funds"
+			},
+			{
+				"id": "150",
+				"name": "Strategic Inspiration"
+			},
+			{
+				"id": "151",
+				"name": "Mushroom Currency"
+			},
+			{
+				"id": "152",
+				"name": "Fungus Medal"
+			},
+			{
+				"id": "153",
+				"name": "Shattered Phenocryst"
+			},
+			{
+				"id": "155",
+				"name": "Courage Test Ticket"
+			},
+			{
+				"id": "156",
+				"name": "Festive Fever"
+			},
+			{
+				"id": "201",
+				"name": "Primogem"
+			},
+			{
+				"id": "202",
+				"name": "Mora"
+			},
+			{
+				"id": "203",
+				"name": "Genesis Crystal"
+			},
+			{
+				"id": "204",
+				"name": "Realm Currency"
+			},
+			{
+				"id": "210",
+				"name": "Original Essence (Invalidated)"
+			},
+			{
+				"id": "211",
+				"name": "Original Resin (Invalidated)"
+			},
+			{
+				"id": "221",
+				"name": "Masterless Starglitter"
+			},
+			{
+				"id": "222",
+				"name": "Masterless Stardust"
+			},
+			{
+				"id": "223",
+				"name": "Intertwined Fate"
+			},
+			{
+				"id": "224",
+				"name": "Acquaint Fate"
+			},
+			{
+				"id": "301",
+				"name": "Pyro Sigil"
+			},
+			{
+				"id": "302",
+				"name": "Hydro Sigil"
+			},
+			{
+				"id": "303",
+				"name": "Dendro Sigil"
+			},
+			{
+				"id": "304",
+				"name": "Electro Sigil"
+			},
+			{
+				"id": "305",
+				"name": "Anemo Sigil"
+			},
+			{
+				"id": "306",
+				"name": "Cryo Sigil"
+			},
+			{
+				"id": "307",
+				"name": "Geo Sigil"
+			},
+			{
+				"id": "314",
+				"name": "Inazuma Reputation EXP"
+			},
+			{
+				"id": "315",
+				"name": "Mondstadt Reputation EXP"
+			},
+			{
+				"id": "316",
+				"name": "Sumeru Reputation EXP"
+			},
+			{
+				"id": "317",
+				"name": "Liyue Reputation EXP"
+			},
+			{
+				"id": "1201",
+				"name": "Gnostic Hymn - Old Notes"
+			},
+			{
+				"id": "1202",
+				"name": "Blessing of the Welkin Moon - New Moon"
+			},
+			{
+				"id": "2001",
+				"name": "Energy Orb (Pyro)"
+			},
+			{
+				"id": "2002",
+				"name": "Energy Orb (Hydro)"
+			},
+			{
+				"id": "2003",
+				"name": "Energy Orb (Dendro)"
+			},
+			{
+				"id": "2004",
+				"name": "Energy Orb (Electro)"
+			},
+			{
+				"id": "2005",
+				"name": "Energy Orb (Anemo)"
+			},
+			{
+				"id": "2006",
+				"name": "Energy Orb (Cryo)"
+			},
+			{
+				"id": "2007",
+				"name": "Energy Orb (Geo)"
+			},
+			{
+				"id": "2008",
+				"name": "Energy Orb (Any)"
+			},
+			{
+				"id": "2017",
+				"name": "Atomic Energy Orb (Pyro)"
+			},
+			{
+				"id": "2018",
+				"name": "Atomic Energy Orb (Hydro)"
+			},
+			{
+				"id": "2019",
+				"name": "Atomic Energy Orb (Dendro)"
+			},
+			{
+				"id": "2020",
+				"name": "Atomic Energy Orb (Electro)"
+			},
+			{
+				"id": "2021",
+				"name": "Atomic Energy Orb (Anemo)"
+			},
+			{
+				"id": "2022",
+				"name": "Atomic Energy Orb (Cryo)"
+			},
+			{
+				"id": "2023",
+				"name": "Atomic Energy Orb (Geo)"
+			},
+			{
+				"id": "2024",
+				"name": "Atomic Energy Orb (All)"
+			},
+			{
+				"id": "2025",
+				"name": "Quest Use - Overpowered Atomic Energy Orb (All)"
+			},
+			{
+				"id": "2026",
+				"name": "Time Shard (Minigame item)"
+			},
+			{
+				"id": "2027",
+				"name": "Time Shard (Minigame item)"
+			},
+			{
+				"id": "2028",
+				"name": "Quest Use - Atomic Energy Orb Pouch"
+			},
+			{
+				"id": "2029",
+				"name": "Quest Use - Atomic Energy Orb Pouch"
+			},
+			{
+				"id": "100011",
+				"name": "Mushroom"
+			},
+			{
+				"id": "100012",
+				"name": "Sweet Flower"
+			},
+			{
+				"id": "100013",
+				"name": "Carrot"
+			},
+			{
+				"id": "100014",
+				"name": "Radish"
+			},
+			{
+				"id": "100015",
+				"name": "Snapdragon"
+			},
+			{
+				"id": "100016",
+				"name": "Mint"
+			},
+			{
+				"id": "100017",
+				"name": "Wheat"
+			},
+			{
+				"id": "100018",
+				"name": "Cabbage"
+			},
+			{
+				"id": "100019",
+				"name": "Silver Lotus"
+			},
+			{
+				"id": "100020",
+				"name": "Pinecone"
+			},
+			{
+				"id": "100021",
+				"name": "Wolfhook"
+			},
+			{
+				"id": "100022",
+				"name": "Valberry"
+			},
+			{
+				"id": "100023",
+				"name": "Cecilia"
+			},
+			{
+				"id": "100024",
+				"name": "Windwheel Aster"
+			},
+			{
+				"id": "100025",
+				"name": "Philanemo Mushroom"
+			},
+			{
+				"id": "100026",
+				"name": "Lotus Head"
+			},
+			{
+				"id": "100027",
+				"name": "Jueyun Chili"
+			},
+			{
+				"id": "100028",
+				"name": "Noctilucous Jade"
+			},
+			{
+				"id": "100029",
+				"name": "Silk Flower"
+			},
+			{
+				"id": "100030",
+				"name": "Glaze Lily"
+			},
+			{
+				"id": "100031",
+				"name": "Qingxin"
+			},
+			{
+				"id": "100032",
+				"name": "Horsetail"
+			},
+			{
+				"id": "100033",
+				"name": "Starconch"
+			},
+			{
+				"id": "100034",
+				"name": "Violetgrass"
+			},
+			{
+				"id": "100051",
+				"name": "Berry"
+			},
+			{
+				"id": "100052",
+				"name": "Mist Flower Corolla"
+			},
+			{
+				"id": "100053",
+				"name": "Flaming Flower Stamen"
+			},
+			{
+				"id": "100054",
+				"name": "Electro Crystal"
+			},
+			{
+				"id": "100055",
+				"name": "Small Lamp Grass"
+			},
+			{
+				"id": "100056",
+				"name": "Calla Lily"
+			},
+			{
+				"id": "100057",
+				"name": "Dandelion Seed"
+			},
+			{
+				"id": "100058",
+				"name": "Cor Lapis"
+			},
+			{
+				"id": "100061",
+				"name": "Raw Meat"
+			},
+			{
+				"id": "100062",
+				"name": "Bird Egg"
+			},
+			{
+				"id": "100063",
+				"name": "Matsutake"
+			},
+			{
+				"id": "100064",
+				"name": "Fowl"
+			},
+			{
+				"id": "100072",
+				"name": "Butterfly Wings"
+			},
+			{
+				"id": "100073",
+				"name": "Crab"
+			},
+			{
+				"id": "100074",
+				"name": "Crab Roe"
+			},
+			{
+				"id": "100075",
+				"name": "Salt"
+			},
+			{
+				"id": "100076",
+				"name": "Onion"
+			},
+			{
+				"id": "100077",
+				"name": "Pepper"
+			},
+			{
+				"id": "100078",
+				"name": "Milk"
+			},
+			{
+				"id": "100079",
+				"name": "Tomato"
+			},
+			{
+				"id": "100080",
+				"name": "Potato"
+			},
+			{
+				"id": "100081",
+				"name": "Frog"
+			},
+			{
+				"id": "100082",
+				"name": "Luminescent Spine"
+			},
+			{
+				"id": "100083",
+				"name": "Lizard Tail"
+			},
+			{
+				"id": "100084",
+				"name": "Fish"
+			},
+			{
+				"id": "100085",
+				"name": "Crystal Core"
+			},
+			{
+				"id": "100086",
+				"name": "Raw Meat (S)"
+			},
+			{
+				"id": "100087",
+				"name": "Fowl (S)"
+			},
+			{
+				"id": "100088",
+				"name": "Tofu"
+			},
+			{
+				"id": "100089",
+				"name": "Almond"
+			},
+			{
+				"id": "100090",
+				"name": "Loach Pearl"
+			},
+			{
+				"id": "100091",
+				"name": "Bamboo Shoot"
+			},
+			{
+				"id": "100092",
+				"name": "Rice"
+			},
+			{
+				"id": "100093",
+				"name": "Shrimp Meat"
+			},
+			{
+				"id": "100094",
+				"name": "Chilled Meat"
+			},
+			{
+				"id": "100095",
+				"name": "Unagi Meat"
+			},
+			{
+				"id": "100096",
+				"name": "Glabrous Beans"
+			},
+			{
+				"id": "100097",
+				"name": "Mysterious Meat"
+			},
+			{
+				"id": "100225",
+				"name": "Hunting Trap"
+			},
+			{
+				"id": "100618",
+				"name": "Strange Tooth"
+			},
+			{
+				"id": "100619",
+				"name": "Vitalized Dragontooth"
+			},
+			{
+				"id": "100865",
+				"name": "Mask of Memories"
+			},
+			{
+				"id": "100934",
+				"name": "Key Sigil"
+			},
+			{
+				"id": "100935",
+				"name": "Key Sigil"
+			},
+			{
+				"id": "100936",
+				"name": "Key Sigil"
+			},
+			{
+				"id": "100937",
+				"name": "Key Sigil"
+			},
+			{
+				"id": "100938",
+				"name": "Key Sigil"
+			},
+			{
+				"id": "101001",
+				"name": "Iron Chunk"
+			},
+			{
+				"id": "101002",
+				"name": "White Iron Chunk"
+			},
+			{
+				"id": "101003",
+				"name": "Crystal Chunk"
+			},
+			{
+				"id": "101004",
+				"name": "Magical Crystal Chunk"
+			},
+			{
+				"id": "101005",
+				"name": "Scarlet Quartz"
+			},
+			{
+				"id": "101006",
+				"name": "Starsilver"
+			},
+			{
+				"id": "101007",
+				"name": "Scarlet Quartz"
+			},
+			{
+				"id": "101008",
+				"name": "Amethyst Lump"
+			},
+			{
+				"id": "101101",
+				"name": "Northlander Sword Billet"
+			},
+			{
+				"id": "101102",
+				"name": "Northlander Bow Billet"
+			},
+			{
+				"id": "101103",
+				"name": "Northlander Claymore Billet"
+			},
+			{
+				"id": "101104",
+				"name": "Northlander Catalyst Billet"
+			},
+			{
+				"id": "101105",
+				"name": "Northlander Polearm Billet"
+			},
+			{
+				"id": "101106",
+				"name": "Northlander Sword"
+			},
+			{
+				"id": "101107",
+				"name": "Northlander Bow"
+			},
+			{
+				"id": "101108",
+				"name": "Northlander Claymore"
+			},
+			{
+				"id": "101109",
+				"name": "Northlander Catalyst"
+			},
+			{
+				"id": "101110",
+				"name": "Northlander Polearm"
+			},
+			{
+				"id": "101111",
+				"name": "Midlander Sword Billet"
+			},
+			{
+				"id": "101112",
+				"name": "Midlander Bow Billet"
+			},
+			{
+				"id": "101113",
+				"name": "Midlander Claymore Billet"
+			},
+			{
+				"id": "101114",
+				"name": "Midlander Catalyst Billet"
+			},
+			{
+				"id": "101115",
+				"name": "Midlander Polearm Billet"
+			},
+			{
+				"id": "101201",
+				"name": "Onikabuto"
+			},
+			{
+				"id": "101202",
+				"name": "Sakura Bloom"
+			},
+			{
+				"id": "101203",
+				"name": "Crystal Marrow"
+			},
+			{
+				"id": "101204",
+				"name": "Dendrobium"
+			},
+			{
+				"id": "101205",
+				"name": "Naku Weed"
+			},
+			{
+				"id": "101206",
+				"name": "Sea Ganoderma"
+			},
+			{
+				"id": "101207",
+				"name": "Sango Pearl"
+			},
+			{
+				"id": "101208",
+				"name": "Amakumo Fruit"
+			},
+			{
+				"id": "101209",
+				"name": "Fluorescent Fungus"
+			},
+			{
+				"id": "101210",
+				"name": "Seagrass"
+			},
+			{
+				"id": "101211",
+				"name": "Lavender Melon"
+			},
+			{
+				"id": "101213",
+				"name": "Rukkhashava Mushrooms"
+			},
+			{
+				"id": "101214",
+				"name": "Padisarah"
+			},
+			{
+				"id": "101215",
+				"name": "Nilotpala Lotus"
+			},
+			{
+				"id": "101216",
+				"name": "Harra Fruit"
+			},
+			{
+				"id": "101217",
+				"name": "Kalpalata Lotus"
+			},
+			{
+				"id": "101218",
+				"name": "Zaytun Peach"
+			},
+			{
+				"id": "101219",
+				"name": "Sumeru Rose"
+			},
+			{
+				"id": "101220",
+				"name": "Henna Berry"
+			},
+			{
+				"id": "101221",
+				"name": "Ajilenakh Nut"
+			},
+			{
+				"id": "101222",
+				"name": "Sand Grease Pupa"
+			},
+			{
+				"id": "101225",
+				"name": "Scarab"
+			},
+			{
+				"id": "101228",
+				"name": "Viparyas"
+			},
+			{
+				"id": "101301",
+				"name": "Birch Wood"
+			},
+			{
+				"id": "101302",
+				"name": "Cuihua Wood"
+			},
+			{
+				"id": "101303",
+				"name": "Pine Wood"
+			},
+			{
+				"id": "101304",
+				"name": "Sandbearer Wood"
+			},
+			{
+				"id": "101305",
+				"name": "Bamboo Segment"
+			},
+			{
+				"id": "101307",
+				"name": "Fragrant Cedar Wood"
+			},
+			{
+				"id": "101308",
+				"name": "Fir Wood"
+			},
+			{
+				"id": "101309",
+				"name": "Yumemiru Wood"
+			},
+			{
+				"id": "101310",
+				"name": "Maple Wood"
+			},
+			{
+				"id": "101311",
+				"name": "Aralia Wood"
+			},
+			{
+				"id": "101312",
+				"name": "Otogi Wood"
+			},
+			{
+				"id": "101313",
+				"name": "Brightwood"
+			},
+			{
+				"id": "101314",
+				"name": "Karmaphala Wood"
+			},
+			{
+				"id": "101315",
+				"name": "Adhigama Wood"
+			},
+			{
+				"id": "101316",
+				"name": "Mountain Date Wood"
+			},
+			{
+				"id": "101317",
+				"name": "Athel Wood"
+			},
+			{
+				"id": "101401",
+				"name": "Fabric"
+			},
+			{
+				"id": "101402",
+				"name": "Red Dye"
+			},
+			{
+				"id": "101403",
+				"name": "Yellow Dye"
+			},
+			{
+				"id": "101404",
+				"name": "Blue Dye"
+			},
+			{
+				"id": "101692",
+				"name": "Light Realm Sigil"
+			},
+			{
+				"id": "101693",
+				"name": "Light Realm Core"
+			},
+			{
+				"id": "101714",
+				"name": "Fragrant Seasoning"
+			},
+			{
+				"id": "104201",
+				"name": "Dust of Azoth"
+			},
+			{
+				"id": "106000",
+				"name": "Test Stamina Growth Item"
+			},
+			{
+				"id": "106001",
+				"name": "Test Temporary stamina Growth Item"
+			},
+			{
+				"id": "107002",
+				"name": "Elemental Dust"
+			},
+			{
+				"id": "107006",
+				"name": "Mondstadt Shrine of Depths Key"
+			},
+			{
+				"id": "107007",
+				"name": "Liyue Shrine of Depths Key"
+			},
+			{
+				"id": "107008",
+				"name": "Inazuma Shrine of Depths Key"
+			},
+			{
+				"id": "107013",
+				"name": "Vial of Adeptal Speed"
+			},
+			{
+				"id": "107018",
+				"name": "Sumeru Shrine of Depths Key"
+			},
+			{
+				"id": "107020",
+				"name": "Match Invitation Letter"
+			},
+			{
+				"id": "107021",
+				"name": "Lucky Coin"
+			},
+			{
+				"id": "109000",
+				"name": "Recipe Item"
+			},
+			{
+				"id": "109101",
+				"name": "Recipe: Chicken-Mushroom Skewer"
+			},
+			{
+				"id": "109102",
+				"name": "Recipe: Fisherman's Toast"
+			},
+			{
+				"id": "109103",
+				"name": "Recipe: Flaming Red Bolognese"
+			},
+			{
+				"id": "109104",
+				"name": "Recipe: Sweet Madame"
+			},
+			{
+				"id": "109106",
+				"name": "Recipe: Calla Lily Seafood Soup"
+			},
+			{
+				"id": "109107",
+				"name": "Recipe: Sautéed Matsutake"
+			},
+			{
+				"id": "109201",
+				"name": "Recipe: Teyvat Fried Egg"
+			},
+			{
+				"id": "109202",
+				"name": "Recipe: Northern Smoked Chicken"
+			},
+			{
+				"id": "109203",
+				"name": "Recipe: Cream Stew"
+			},
+			{
+				"id": "109204",
+				"name": "Recipe: Cold Cut Platter"
+			},
+			{
+				"id": "109205",
+				"name": "Recipe: Sticky Honey Roast"
+			},
+			{
+				"id": "109206",
+				"name": "Recipe: Crab, Ham & Veggie Bake"
+			},
+			{
+				"id": "109207",
+				"name": "Recipe: Mushroom Pizza"
+			},
+			{
+				"id": "109301",
+				"name": "Recipe: Steak"
+			},
+			{
+				"id": "109302",
+				"name": "Recipe: Radish Veggie Soup"
+			},
+			{
+				"id": "109303",
+				"name": "Recipe: Mondstadt Hash Brown"
+			},
+			{
+				"id": "109304",
+				"name": "Recipe: Pile 'Em Up"
+			},
+			{
+				"id": "109401",
+				"name": "Recipe: Tea Break Pancake"
+			},
+			{
+				"id": "109402",
+				"name": "Recipe: Fried Radish Balls"
+			},
+			{
+				"id": "109403",
+				"name": "Recipe: Satisfying Salad"
+			},
+			{
+				"id": "109404",
+				"name": "Recipe: Jade Parcels"
+			},
+			{
+				"id": "109405",
+				"name": "Recipe: Mondstadt Grilled Fish"
+			},
+			{
+				"id": "109406",
+				"name": "Recipe: Mora Meat"
+			},
+			{
+				"id": "109407",
+				"name": "Recipe: Stir-Fried Filet"
+			},
+			{
+				"id": "109408",
+				"name": "Recipe: Almond Tofu"
+			},
+			{
+				"id": "109409",
+				"name": "Recipe: Jueyun Chili Chicken"
+			},
+			{
+				"id": "109410",
+				"name": "Recipe: Jewelry Soup"
+			},
+			{
+				"id": "109411",
+				"name": "Recipe: Matsutake Meat Rolls"
+			},
+			{
+				"id": "109412",
+				"name": "Recipe: Zhongyuan Chop Suey"
+			},
+			{
+				"id": "109413",
+				"name": "Recipe: Black-Back Perch Stew"
+			},
+			{
+				"id": "109414",
+				"name": "Recipe: Squirrel Fish"
+			},
+			{
+				"id": "109415",
+				"name": "Recipe: Golden Crab"
+			},
+			{
+				"id": "109416",
+				"name": "Recipe: Crystal Shrimp"
+			},
+			{
+				"id": "109417",
+				"name": "Recipe: Grilled Tiger Fish"
+			},
+			{
+				"id": "109418",
+				"name": "Recipe: Barbatos Ratatouille"
+			},
+			{
+				"id": "109419",
+				"name": "Recipe: Lotus Seed and Bird Egg Soup"
+			},
+			{
+				"id": "109420",
+				"name": "Recipe: Adeptus' Temptation"
+			},
+			{
+				"id": "109421",
+				"name": "Recipe: Golden Shrimp Balls"
+			},
+			{
+				"id": "109422",
+				"name": "Recipe: Qingce Stir Fry"
+			},
+			{
+				"id": "109423",
+				"name": "Recipe: Come and Get It"
+			},
+			{
+				"id": "109424",
+				"name": "Recipe: Noodles with Mountain Delicacies"
+			},
+			{
+				"id": "109425",
+				"name": "Recipe: Bamboo Shoot Soup"
+			},
+			{
+				"id": "109426",
+				"name": "Recipe: Triple-Layered Consommé"
+			},
+			{
+				"id": "109427",
+				"name": "Recipe: Tianshu Meat"
+			},
+			{
+				"id": "109428",
+				"name": "Recipe: Lotus Flower Crisp"
+			},
+			{
+				"id": "109429",
+				"name": "Recipe: Moon Pie"
+			},
+			{
+				"id": "109430",
+				"name": "Recipe: Adventurer's Breakfast Sandwich"
+			},
+			{
+				"id": "109431",
+				"name": "Recipe: Northern Apple Stew"
+			},
+			{
+				"id": "109432",
+				"name": "Recipe: Crab Roe Tofu"
+			},
+			{
+				"id": "109433",
+				"name": "Recipe: Fullmoon Egg"
+			},
+			{
+				"id": "109434",
+				"name": "Recipe: Cured Pork Dry Hotpot"
+			},
+			{
+				"id": "109435",
+				"name": "Recipe: Stir-Fried Fish Noodles"
+			},
+			{
+				"id": "109436",
+				"name": "Recipe:Vegetarian Abalone"
+			},
+			{
+				"id": "109437",
+				"name": "Recipe: Stone Harbor Delicacies"
+			},
+			{
+				"id": "109438",
+				"name": "Recipe: Stir-Fried Shrimp"
+			},
+			{
+				"id": "109439",
+				"name": "Recipe: Rice Buns"
+			},
+			{
+				"id": "109440",
+				"name": "Recipe: Goulash"
+			},
+			{
+				"id": "109441",
+				"name": "Recipe: Sunshine Sprat"
+			},
+			{
+				"id": "109442",
+				"name": "Recipe: Universal Peace"
+			},
+			{
+				"id": "109443",
+				"name": "Recipe: Jueyun Guoba"
+			},
+			{
+				"id": "109444",
+				"name": "Recipe: Crispy Potato Shrimp Platter"
+			},
+			{
+				"id": "109445",
+				"name": "Recipe: Mint Jelly"
+			},
+			{
+				"id": "109446",
+				"name": "Recipe: Mint Salad"
+			},
+			{
+				"id": "109447",
+				"name": "Recipe: Minty Meat Rolls"
+			},
+			{
+				"id": "109448",
+				"name": "Recipe: Golden Fried Chicken"
+			},
+			{
+				"id": "109449",
+				"name": "Recipe: Golden Chicken Burger"
+			},
+			{
+				"id": "109450",
+				"name": "Recipe: Fragrant Mashed Potatoes"
+			},
+			{
+				"id": "109451",
+				"name": "Recipe: Chicken Tofu Pudding"
+			},
+			{
+				"id": "109452",
+				"name": "Recipe: Tuna Sushi"
+			},
+			{
+				"id": "109453",
+				"name": "Recipe: Tricolor Dango"
+			},
+			{
+				"id": "109454",
+				"name": "Recipe: Onigiri"
+			},
+			{
+				"id": "109455",
+				"name": "Recipe: Sashimi Platter"
+			},
+			{
+				"id": "109456",
+				"name": "Recipe: Tonkotsu Ramen"
+			},
+			{
+				"id": "109457",
+				"name": "Recipe: Egg Roll"
+			},
+			{
+				"id": "109458",
+				"name": "Recipe: Dry-Braised Salted Fish"
+			},
+			{
+				"id": "109459",
+				"name": "Recipe: Butter Crab"
+			},
+			{
+				"id": "109460",
+				"name": "Recipe: Tri-Flavored Skewer"
+			},
+			{
+				"id": "109461",
+				"name": "Recipe: Miso Soup"
+			},
+			{
+				"id": "109462",
+				"name": "Recipe: Imported Poultry"
+			},
+			{
+				"id": "109463",
+				"name": "Recipe: Sakura Mochi"
+			},
+			{
+				"id": "109464",
+				"name": "Recipe: Konda Cuisine"
+			},
+			{
+				"id": "109465",
+				"name": "Recipe: Rice Cake Soup"
+			},
+			{
+				"id": "109466",
+				"name": "Recipe: Mixed Yakisoba"
+			},
+			{
+				"id": "109467",
+				"name": "Recipe: Crab Roe Kourayaki"
+			},
+			{
+				"id": "109468",
+				"name": "Recipe: Sakura Tempura"
+			},
+			{
+				"id": "109469",
+				"name": "Recipe: Rice Pudding"
+			},
+			{
+				"id": "109470",
+				"name": "Recipe: Braised Meat"
+			},
+			{
+				"id": "109471",
+				"name": "Recipe: Oncidium Tofu"
+			},
+			{
+				"id": "109472",
+				"name": "Recipe: Chili-Mince Cornbread Buns"
+			},
+			{
+				"id": "109473",
+				"name": "Recipe: Invigorating Kitty Meal"
+			},
+			{
+				"id": "109474",
+				"name": "Recipe: Sweet Shrimp Sushi"
+			},
+			{
+				"id": "109475",
+				"name": "Recipe: Bird Egg Sushi"
+			},
+			{
+				"id": "109476",
+				"name": "Recipe: Omelette Rice"
+			},
+			{
+				"id": "109477",
+				"name": "Recipe: Taiyaki"
+			},
+			{
+				"id": "109478",
+				"name": "Recipe: More-and-More"
+			},
+			{
+				"id": "109479",
+				"name": "Recipe: Grilled Unagi Fillet"
+			},
+			{
+				"id": "109480",
+				"name": "Recipe: Radish and Fish Stew"
+			},
+			{
+				"id": "109481",
+				"name": "Recipe: Wakatakeni"
+			},
+			{
+				"id": "109482",
+				"name": "Recipe: Berry Mizu Manjuu"
+			},
+			{
+				"id": "109483",
+				"name": "Recipe: Soba Noodles"
+			},
+			{
+				"id": "109484",
+				"name": "Recipe: Unagi Chazuke"
+			},
+			{
+				"id": "109485",
+				"name": "Recipe: Five Pickled Treasures"
+			},
+			{
+				"id": "109486",
+				"name": "Recipe: Sakura Shrimp Crackers"
+			},
+			{
+				"id": "109487",
+				"name": "Recipe: Bountiful Year"
+			},
+			{
+				"id": "109488",
+				"name": "Recipe: Dragon Beard Noodles"
+			},
+			{
+				"id": "109489",
+				"name": "Recipe: Sangayaki"
+			},
+			{
+				"id": "109490",
+				"name": "Recipe: Udon Noodles"
+			},
+			{
+				"id": "109491",
+				"name": "Recipe: Katsu Sandwich"
+			},
+			{
+				"id": "109492",
+				"name": "Recipe: Rainbow Aster"
+			},
+			{
+				"id": "109493",
+				"name": "Recipe: Butter Chicken"
+			},
+			{
+				"id": "109494",
+				"name": "Recipe: Shawarma Wrap"
+			},
+			{
+				"id": "109495",
+				"name": "Recipe: Selva Salad"
+			},
+			{
+				"id": "109496",
+				"name": "Recipe: Masala Cheese Balls"
+			},
+			{
+				"id": "109497",
+				"name": "Recipe: Mushroom Hodgepodge"
+			},
+			{
+				"id": "109498",
+				"name": "Recipe: Pita Pocket"
+			},
+			{
+				"id": "109499",
+				"name": "Recipe: Panipuri"
+			},
+			{
+				"id": "109500",
+				"name": "Recipe: Minty Bean Soup"
+			},
+			{
+				"id": "109501",
+				"name": "Recipe: Biryani"
+			},
+			{
+				"id": "109502",
+				"name": "Recipe: Tahchin"
+			},
+			{
+				"id": "109503",
+				"name": "Recipe: Lambad Fish Roll"
+			},
+			{
+				"id": "109504",
+				"name": "Recipe: Curry Shrimp"
+			},
+			{
+				"id": "109505",
+				"name": "Recipe: Tandoori Roast Chicken"
+			},
+			{
+				"id": "109506",
+				"name": "Recipe: Potato Boat"
+			},
+			{
+				"id": "109507",
+				"name": "Recipe: Fish With Cream Sauce"
+			},
+			{
+				"id": "109508",
+				"name": "Recipe: Meat Lovers' Mushroom Pizza"
+			},
+			{
+				"id": "109509",
+				"name": "Recipe: Sunset Berry Tea"
+			},
+			{
+				"id": "109510",
+				"name": "Recipe: Milky Mushroom Crisp Tower"
+			},
+			{
+				"id": "109511",
+				"name": "Recipe: Charcoal-Baked Ajilenakh Cake"
+			},
+			{
+				"id": "109512",
+				"name": "Recipe: Baklava"
+			},
+			{
+				"id": "109513",
+				"name": "Recipe: Candied Ajilenakh Nut"
+			},
+			{
+				"id": "109514",
+				"name": "Recipe: Padisarah Pudding"
+			},
+			{
+				"id": "109515",
+				"name": "Recipe: Aaru Mixed Rice"
+			},
+			{
+				"id": "109516",
+				"name": "Recipe: Fruits of the Festival"
+			},
+			{
+				"id": "109517",
+				"name": "Recipe: Rose Custard"
+			},
+			{
+				"id": "109518",
+				"name": "Recipe: Samosa"
+			},
+			{
+				"id": "109519",
+				"name": "Recipe: Sabz Meat Stew"
+			},
+			{
+				"id": "109520",
+				"name": "Recipe: Scented Meat Balls"
+			},
+			{
+				"id": "110000",
+				"name": "Crafted Items"
+			},
+			{
+				"id": "110001",
+				"name": "Flour"
+			},
+			{
+				"id": "110002",
+				"name": "Cream"
+			},
+			{
+				"id": "110003",
+				"name": "Smoked Fowl"
+			},
+			{
+				"id": "110004",
+				"name": "Butter"
+			},
+			{
+				"id": "110005",
+				"name": "Ham"
+			},
+			{
+				"id": "110006",
+				"name": "Sugar"
+			},
+			{
+				"id": "110008",
+				"name": "Jam"
+			},
+			{
+				"id": "110009",
+				"name": "Cheese"
+			},
+			{
+				"id": "110010",
+				"name": "Bacon"
+			},
+			{
+				"id": "110011",
+				"name": "Sausage"
+			},
+			{
+				"id": "110012",
+				"name": "Smoked Fish"
+			},
+			{
+				"id": "110013",
+				"name": "Dried Fish"
+			},
+			{
+				"id": "110014",
+				"name": "Spice"
+			},
+			{
+				"id": "111020",
+				"name": "Small Pretty Crystal"
+			},
+			{
+				"id": "111021",
+				"name": "Medium Pretty Crystal"
+			},
+			{
+				"id": "111022",
+				"name": "Big Pretty Crystal"
+			},
+			{
+				"id": "113021",
+				"name": "Dream Solvent"
+			},
+			{
+				"id": "116001",
+				"name": "BEP"
+			},
+			{
+				"id": "118002",
+				"name": "Cake for Traveler"
+			},
+			{
+				"id": "118004",
+				"name": "Cake for Traveler"
+			},
+			{
+				"id": "118006",
+				"name": "Cake for Traveler"
+			},
+			{
+				"id": "131000",
+				"name": "Medaka"
+			},
+			{
+				"id": "131001",
+				"name": "Glaze Medaka"
+			},
+			{
+				"id": "131002",
+				"name": "Sweet-Flower Medaka"
+			},
+			{
+				"id": "131003",
+				"name": "Aizen Medaka"
+			},
+			{
+				"id": "131004",
+				"name": "Dawncatcher"
+			},
+			{
+				"id": "131005",
+				"name": "Crystalfish"
+			},
+			{
+				"id": "131006",
+				"name": "Lunged Stickleback"
+			},
+			{
+				"id": "131007",
+				"name": "Betta"
+			},
+			{
+				"id": "131008",
+				"name": "Venomspine Fish"
+			},
+			{
+				"id": "131009",
+				"name": "Akai Maou"
+			},
+			{
+				"id": "131010",
+				"name": "Snowstrider"
+			},
+			{
+				"id": "131011",
+				"name": "Golden Koi"
+			},
+			{
+				"id": "131012",
+				"name": "Rusty Koi"
+			},
+			{
+				"id": "131013",
+				"name": "Brown Shirakodai"
+			},
+			{
+				"id": "131014",
+				"name": "Purple Shirakodai"
+			},
+			{
+				"id": "131015",
+				"name": "Tea-Colored Shirakodai"
+			},
+			{
+				"id": "131016",
+				"name": "Abiding Angelfish"
+			},
+			{
+				"id": "131017",
+				"name": "Raimei Angelfish"
+			},
+			{
+				"id": "131019",
+				"name": "Pufferfish"
+			},
+			{
+				"id": "131020",
+				"name": "Bitter Pufferfish"
+			},
+			{
+				"id": "131021",
+				"name": "Divda Ray"
+			},
+			{
+				"id": "131022",
+				"name": "Formalo Ray"
+			},
+			{
+				"id": "131023",
+				"name": "True Fruit Angler"
+			},
+			{
+				"id": "131024",
+				"name": "Peach of the Deep Waves"
+			},
+			{
+				"id": "131025",
+				"name": "Sandstorm Angler"
+			},
+			{
+				"id": "131026",
+				"name": "Sunset Cloud Angler"
+			},
+			{
+				"id": "131027",
+				"name": "Lazurite Axe Marlin"
+			},
+			{
+				"id": "131028",
+				"name": "Halcyon Jade Axe Marlin"
+			},
+			{
+				"id": "200001",
+				"name": "Lantern Fiber"
+			},
+			{
+				"id": "200002",
+				"name": "Wick Material"
+			},
+			{
+				"id": "200003",
+				"name": "Plaustrite Shard"
+			},
+			{
+				"id": "200101",
+				"name": "Rime-Worn Fragment"
+			},
+			{
+				"id": "200102",
+				"name": "Rime-Worn Crystal"
+			},
+			{
+				"id": "220007",
+				"name": "Condensed Resin"
+			},
+			{
+				"id": "220060",
+				"name": "Ultra-Hot Burner Lamp Test Model"
+			},
+			{
+				"id": "221001",
+				"name": "Instructions: Anemoculus Resonance Stone"
+			},
+			{
+				"id": "221002",
+				"name": "Instructions: Geoculus Resonance Stone"
+			},
+			{
+				"id": "221003",
+				"name": "Diagram: Geo Treasure Compass"
+			},
+			{
+				"id": "221004",
+				"name": "Diagram: Wind Catcher"
+			},
+			{
+				"id": "221005",
+				"name": "Instructions: Portable Waypoint"
+			},
+			{
+				"id": "221006",
+				"name": "Diagram: Adepti Seeker's Stove"
+			},
+			{
+				"id": "221007",
+				"name": "Instructions: Condensed Resin"
+			},
+			{
+				"id": "221008",
+				"name": "Diagram: NRE (Menu 30)"
+			},
+			{
+				"id": "221009",
+				"name": "Diagram: Anemo Treasure Compass"
+			},
+			{
+				"id": "221010",
+				"name": "Memory of the Entombed City"
+			},
+			{
+				"id": "221011",
+				"name": "Memory of the Frostbearing Tree"
+			},
+			{
+				"id": "221012",
+				"name": "Diagram: Dragonspine Spear"
+			},
+			{
+				"id": "221013",
+				"name": "Saimon Heirloom Blade Diagram"
+			},
+			{
+				"id": "221014",
+				"name": "Diagram: Katsuragikiri Nagamasa"
+			},
+			{
+				"id": "221015",
+				"name": "Diagram: Kitain Cross Spear"
+			},
+			{
+				"id": "221016",
+				"name": "Diagram: Hamayumi"
+			},
+			{
+				"id": "221017",
+				"name": "Diagram: Warming Bottle"
+			},
+			{
+				"id": "221018",
+				"name": "Mask of Memories"
+			},
+			{
+				"id": "221019",
+				"name": "Tale of the Forest King"
+			},
+			{
+				"id": "221020",
+				"name": "Tale of the Desert"
+			},
+			{
+				"id": "221021",
+				"name": "Tale of the King's Squire"
+			},
+			{
+				"id": "221022",
+				"name": "Tale of the Moonlight"
+			},
+			{
+				"id": "221023",
+				"name": "Tale of the Portent"
+			},
+			{
+				"id": "221032",
+				"name": "Instructions: Electroculus Resonance Stone"
+			},
+			{
+				"id": "221034",
+				"name": "Diagram: Electro Treasure Compass"
+			},
+			{
+				"id": "221035",
+				"name": "Formula: Fruit Paste Bait"
+			},
+			{
+				"id": "221036",
+				"name": "Formula: Redrot Bait"
+			},
+			{
+				"id": "221037",
+				"name": "Formula: False Worm Bait"
+			},
+			{
+				"id": "221038",
+				"name": "Formula: Fake Fly Bait"
+			},
+			{
+				"id": "221039",
+				"name": "Formula: Sugardew Bait"
+			},
+			{
+				"id": "221057",
+				"name": "Instructions: Dendroculus Resonance Stone"
+			},
+			{
+				"id": "221058",
+				"name": "Diagram: Dendro Treasure Compass"
+			},
+			{
+				"id": "222001",
+				"name": "Silken Print"
+			},
+			{
+				"id": "222002",
+				"name": "Nature's True Fruit"
+			},
+			{
+				"id": "111023",
+				"name": "Fruit Paste Bait"
+			},
+			{
+				"id": "111024",
+				"name": "Redrot Bait"
+			},
+			{
+				"id": "111025",
+				"name": "False Worm Bait"
+			},
+			{
+				"id": "111026",
+				"name": "Fake Fly Bait"
+			},
+			{
+				"id": "111027",
+				"name": "Glowgrass Bait"
+			},
+			{
+				"id": "111028",
+				"name": "Sugardew Bait"
+			},
+			{
+				"id": "130001",
+				"name": "Silk Flower Seed"
+			},
+			{
+				"id": "130002",
+				"name": "Sweet Flower Seed"
+			},
+			{
+				"id": "130003",
+				"name": "Cecilia Seed"
+			},
+			{
+				"id": "130004",
+				"name": "Glaze Lily Seed"
+			},
+			{
+				"id": "130005",
+				"name": "Windwheel Aster Seed"
+			},
+			{
+				"id": "130006",
+				"name": "Qingxin Seed"
+			},
+			{
+				"id": "130007",
+				"name": "Violetgrass Seed"
+			},
+			{
+				"id": "130008",
+				"name": "Valberry Seed"
+			},
+			{
+				"id": "130009",
+				"name": "Small Lamp Grass Seed"
+			},
+			{
+				"id": "130010",
+				"name": "Jueyun Chili Seed"
+			},
+			{
+				"id": "130011",
+				"name": "Carrot Seed"
+			},
+			{
+				"id": "130012",
+				"name": "Radish Seed"
+			},
+			{
+				"id": "130013",
+				"name": "Mint Seed"
+			},
+			{
+				"id": "130014",
+				"name": "Mushroom Spore"
+			},
+			{
+				"id": "130015",
+				"name": "Naku Weed Seed"
+			},
+			{
+				"id": "130016",
+				"name": "Horsetail Seed"
+			},
+			{
+				"id": "130017",
+				"name": "Snapdragon Seed"
+			},
+			{
+				"id": "130018",
+				"name": "Lotus Seed"
+			},
+			{
+				"id": "130019",
+				"name": "Calla Lily Seed"
+			},
+			{
+				"id": "130020",
+				"name": "Seagrass Seed"
+			},
+			{
+				"id": "130021",
+				"name": "Sea Ganoderma Cutting"
+			},
+			{
+				"id": "130022",
+				"name": "Dreambloom: Star Hibiscus Seed"
+			},
+			{
+				"id": "130023",
+				"name": "Dreambloom: Pearbell Seed"
+			},
+			{
+				"id": "130024",
+				"name": "Dreambloom: Silkpod Seed"
+			},
+			{
+				"id": "130025",
+				"name": "Harra Fruit Seed"
+			},
+			{
+				"id": "130026",
+				"name": "Zaytun Peach Seed"
+			},
+			{
+				"id": "130027",
+				"name": "Sumeru Rose Seed"
+			},
+			{
+				"id": "200900",
+				"name": "Wilderness Rod"
+			},
+			{
+				"id": "200901",
+				"name": "Windtangler"
+			},
+			{
+				"id": "200902",
+				"name": "Wishmaker"
+			},
+			{
+				"id": "200903",
+				"name": "Narukawa Ukai"
+			},
+			{
+				"id": "200904",
+				"name": "Moonstringer"
+			},
+			{
+				"id": "200905",
+				"name": "Serendipity"
+			},
+			{
+				"id": "350001",
+				"name": "Adventurer Camp"
+			},
+			{
+				"id": "350002",
+				"name": "Frontier Life"
+			},
+			{
+				"id": "350003",
+				"name": "Rocks & Plants"
+			},
+			{
+				"id": "350004",
+				"name": "Plain Liyue Bedroom"
+			},
+			{
+				"id": "350005",
+				"name": "Corner of the Teahouse"
+			},
+			{
+				"id": "350006",
+				"name": "Suburbia Lighting"
+			},
+			{
+				"id": "350007",
+				"name": "Table & Chairs"
+			},
+			{
+				"id": "350008",
+				"name": "Busy Kitchen"
+			},
+			{
+				"id": "350009",
+				"name": "Tea Talk"
+			},
+			{
+				"id": "350010",
+				"name": "Book Lover's Study"
+			},
+			{
+				"id": "350011",
+				"name": "Fully Furnished Mondstadt Bedroom"
+			},
+			{
+				"id": "350012",
+				"name": "Meeting Room of the Strategic Six"
+			},
+			{
+				"id": "350013",
+				"name": "Wine o' Clock"
+			},
+			{
+				"id": "350014",
+				"name": "Merchant's Working Lunch"
+			},
+			{
+				"id": "350015",
+				"name": "Parlor Cordiality"
+			},
+			{
+				"id": "350016",
+				"name": "Well-Equipped Study"
+			},
+			{
+				"id": "350017",
+				"name": "Hermit's Hut"
+			},
+			{
+				"id": "350018",
+				"name": "Hamlet House"
+			},
+			{
+				"id": "350019",
+				"name": "Harvest Season Stall"
+			},
+			{
+				"id": "350020",
+				"name": "Fruit & Veg Market"
+			},
+			{
+				"id": "350021",
+				"name": "Training Ground"
+			},
+			{
+				"id": "350022",
+				"name": "Arms Factory"
+			},
+			{
+				"id": "350023",
+				"name": "Cargo Transfer Station"
+			},
+			{
+				"id": "350024",
+				"name": "Festival Market"
+			},
+			{
+				"id": "350025",
+				"name": "Thoroughfare Entrance: Evil Banisher"
+			},
+			{
+				"id": "350026",
+				"name": "Ever-Popular Eatery"
+			},
+			{
+				"id": "350027",
+				"name": "Rural Water Source"
+			},
+			{
+				"id": "350028",
+				"name": "Lone and Cautious Adventurer"
+			},
+			{
+				"id": "350029",
+				"name": "Climate Crossover"
+			},
+			{
+				"id": "350030",
+				"name": "Dialogue Twixt Ancient Tree and Rock"
+			},
+			{
+				"id": "350033",
+				"name": "Amidst Poetic Pondering"
+			},
+			{
+				"id": "350034",
+				"name": "Amidst Whispering Winds"
+			},
+			{
+				"id": "350035",
+				"name": "Feiyun Study Room"
+			},
+			{
+				"id": "350036",
+				"name": "Cloudy Haze Dream-Court"
+			},
+			{
+				"id": "350037",
+				"name": "Secret Research Lab"
+			},
+			{
+				"id": "350038",
+				"name": "Cottage Kitchen"
+			},
+			{
+				"id": "350039",
+				"name": "Weapon Forging Station"
+			},
+			{
+				"id": "350040",
+				"name": "Idyllic Town"
+			},
+			{
+				"id": "350041",
+				"name": "Bird and Blossom Park"
+			},
+			{
+				"id": "350042",
+				"name": "Gathering of Gourmets"
+			},
+			{
+				"id": "350043",
+				"name": "Glittering Street"
+			},
+			{
+				"id": "350044",
+				"name": "Qingce Cloud Residence"
+			},
+			{
+				"id": "350045",
+				"name": "Of Hunting and Dancing"
+			},
+			{
+				"id": "350046",
+				"name": "Iter Ad Astra Abyssosque"
+			},
+			{
+				"id": "350047",
+				"name": "Dawn Orchard"
+			},
+			{
+				"id": "350048",
+				"name": "Court of the Upright"
+			},
+			{
+				"id": "350049",
+				"name": "Wakeful Spring"
+			},
+			{
+				"id": "350050",
+				"name": "Rural Concealment"
+			},
+			{
+				"id": "350051",
+				"name": "Ancient Branch Shrine"
+			},
+			{
+				"id": "350052",
+				"name": "Military Exercise Grounds"
+			},
+			{
+				"id": "350053",
+				"name": "Jade Wilds"
+			},
+			{
+				"id": "350054",
+				"name": "Summer Night's Recollection"
+			},
+			{
+				"id": "350055",
+				"name": "Sakura-Hued Street"
+			},
+			{
+				"id": "350056",
+				"name": "Eternal Domain of Fleeting Dreams"
+			},
+			{
+				"id": "350057",
+				"name": "A Thousand Swings"
+			},
+			{
+				"id": "350058",
+				"name": "Scholarly Trove"
+			},
+			{
+				"id": "350059",
+				"name": "Of Maple and Tea Scents Entwined"
+			},
+			{
+				"id": "350060",
+				"name": "Forest Patrol Anecdotes"
+			},
+			{
+				"id": "350061",
+				"name": "Coalesced Brilliance"
+			},
+			{
+				"id": "350062",
+				"name": "Fervid Aroma"
+			},
+			{
+				"id": "350063",
+				"name": "Of Settled Thoughts"
+			},
+			{
+				"id": "350064",
+				"name": "A Farewell Brief to Bustle and Bother"
+			},
+			{
+				"id": "350065",
+				"name": "Dwelling Amidst the Sands"
+			},
+			{
+				"id": "350066",
+				"name": "Amidst Prospering Markets"
+			},
+			{
+				"id": "350067",
+				"name": "Deep in the Quiet Forest"
+			},
+			{
+				"id": "350068",
+				"name": "Of Twirling Dances Unfettered"
+			},
+			{
+				"id": "350069",
+				"name": "Quiet Times by the Riverbank"
+			},
+			{
+				"id": "350070",
+				"name": "Setekh Demurs"
+			},
+			{
+				"id": "350071",
+				"name": "The Traveling Troop's Pomp"
+			},
+			{
+				"id": "350072",
+				"name": "Amidst Scents and Serenity"
+			},
+			{
+				"id": "350073",
+				"name": "Chorus of Desert and Wood"
+			},
+			{
+				"id": "380101",
+				"name": "Timber Wall With Jade Eaves"
+			},
+			{
+				"id": "380102",
+				"name": "Dark Wood Arch Wall"
+			},
+			{
+				"id": "380103",
+				"name": "Maple Wood Vaulted Wall"
+			},
+			{
+				"id": "380104",
+				"name": "Simple Brightwood Carved Wall"
+			},
+			{
+				"id": "380201",
+				"name": "Traditional Cedar Flooring"
+			},
+			{
+				"id": "380202",
+				"name": "Colorful Checkered Tile"
+			},
+			{
+				"id": "380203",
+				"name": "Brown Maple Flooring"
+			},
+			{
+				"id": "380204",
+				"name": "Dark Brightwood Flooring"
+			},
+			{
+				"id": "380301",
+				"name": "Checkered Cedar Ceiling"
+			},
+			{
+				"id": "380302",
+				"name": "Dark Checkered Ceiling"
+			},
+			{
+				"id": "380303",
+				"name": "Maple Wood Square Ceiling"
+			},
+			{
+				"id": "380304",
+				"name": "Brightwood Chiseled Ceiling"
+			},
+			{
+				"id": "380401",
+				"name": "Two-Tier Candle Chandelier"
+			},
+			{
+				"id": "380402",
+				"name": "Eight-Sided Lantern: Lucky Day"
+			},
+			{
+				"id": "380403",
+				"name": "Six-Sided Lantern: Harmony in Friendship"
+			},
+			{
+				"id": "380404",
+				"name": "Night of the Party Pumpkins"
+			},
+			{
+				"id": "380405",
+				"name": "Embroidered Lantern: Lofty Grandeur"
+			},
+			{
+				"id": "380406",
+				"name": "Tasseled Lantern: Deck the Streets"
+			},
+			{
+				"id": "380407",
+				"name": "Teahouse Candlestand: Scentless Flame"
+			},
+			{
+				"id": "380408",
+				"name": "Teahouse Lamp: Light Concealed"
+			},
+			{
+				"id": "380409",
+				"name": "Maple Wood Lamp: Light Fragrance"
+			},
+			{
+				"id": "380410",
+				"name": "Maple Wood Floor Lamp: Clarity"
+			},
+			{
+				"id": "380411",
+				"name": "Court Lantern: Lingering Majesty"
+			},
+			{
+				"id": "380412",
+				"name": "Court Lantern: Red Moon of Yore"
+			},
+			{
+				"id": "380413",
+				"name": "Court Lantern: Thundering Heart"
+			},
+			{
+				"id": "380414",
+				"name": "Maple Wood Chandelier: Illume"
+			},
+			{
+				"id": "380415",
+				"name": "Blooming Candle: Pure as a Lotus"
+			},
+			{
+				"id": "380416",
+				"name": "Rainbow Lights: At Dawn We Celebrate"
+			},
+			{
+				"id": "380417",
+				"name": "Countless Homes Light Up the Moon"
+			},
+			{
+				"id": "380418",
+				"name": "Stoneworks Lamp: Deeping-Gloom Candle"
+			},
+			{
+				"id": "380419",
+				"name": "Slumbering Dewlight"
+			},
+			{
+				"id": "380420",
+				"name": "Dripping Verdant Light"
+			},
+			{
+				"id": "380421",
+				"name": "Deepwood Illumination"
+			},
+			{
+				"id": "380422",
+				"name": "Immersive Light"
+			},
+			{
+				"id": "380423",
+				"name": "Perennial Illumination"
+			},
+			{
+				"id": "380424",
+				"name": "Blooming Illumination"
+			},
+			{
+				"id": "380426",
+				"name": "Fluttering Light"
+			},
+			{
+				"id": "380427",
+				"name": "Light of Slumber"
+			},
+			{
+				"id": "380504",
+				"name": "Efflorescent Illumination"
+			},
+			{
+				"id": "381101",
+				"name": "Northern Birch Folding Counter"
+			},
+			{
+				"id": "381102",
+				"name": "Open-Top Fir Shelf"
+			},
+			{
+				"id": "381103",
+				"name": "Fir Case Shelf Combination"
+			},
+			{
+				"id": "381104",
+				"name": "Classic Fir Cabinet"
+			},
+			{
+				"id": "381105",
+				"name": "Large Birch Wardrobe"
+			},
+			{
+				"id": "381106",
+				"name": "Gold-Lined Sandbearer Wardrobe"
+			},
+			{
+				"id": "381107",
+				"name": "Plain Brightwood Shelf"
+			},
+			{
+				"id": "381108",
+				"name": "Desert Desk: Hospitality"
+			},
+			{
+				"id": "381109",
+				"name": "Adhigama Wood Versatile Shelves"
+			},
+			{
+				"id": "381110",
+				"name": "Brightwood Invigorating Nightstand"
+			},
+			{
+				"id": "381111",
+				"name": "Athel Triple Drawer Cabinet"
+			},
+			{
+				"id": "381112",
+				"name": "Athel Pottery Shelf"
+			},
+			{
+				"id": "381201",
+				"name": "Two-Tier Library Bookshelf"
+			},
+			{
+				"id": "381202",
+				"name": "Exquisite Cuihua Bookshelf"
+			},
+			{
+				"id": "381203",
+				"name": "Economy Cuihua Bookshelf"
+			},
+			{
+				"id": "381204",
+				"name": "Lost Between the Pages of a Book"
+			},
+			{
+				"id": "381205",
+				"name": "Archivist's Treasure Trove"
+			},
+			{
+				"id": "381206",
+				"name": "Red Cedar Scroll Shelf"
+			},
+			{
+				"id": "381207",
+				"name": "Red Cedar Curio Stand"
+			},
+			{
+				"id": "381208",
+				"name": "Shopkeeper's Cedar Shelf"
+			},
+			{
+				"id": "381209",
+				"name": "Maple Wood Bookcase: Inkheart"
+			},
+			{
+				"id": "381210",
+				"name": "Maple Wood Bookcase: Trove of a Thousand Tomes"
+			},
+			{
+				"id": "381212",
+				"name": "Desert Cabinet: Odds and Ends"
+			},
+			{
+				"id": "381213",
+				"name": "Treasure from the Land of Wisdom"
+			},
+			{
+				"id": "381214",
+				"name": "Scrolls from the Land of Wisdom"
+			},
+			{
+				"id": "381301",
+				"name": "Sturdy Library Table"
+			},
+			{
+				"id": "381302",
+				"name": "Favonius Office Table"
+			},
+			{
+				"id": "381303",
+				"name": "Favonius Conference Table"
+			},
+			{
+				"id": "381304",
+				"name": "Wide Stone Stove"
+			},
+			{
+				"id": "381305",
+				"name": "Portable Stove"
+			},
+			{
+				"id": "381306",
+				"name": "Long Table With Tablecloth"
+			},
+			{
+				"id": "381307",
+				"name": "Multi-Seat Round Pine Table"
+			},
+			{
+				"id": "381308",
+				"name": "Intricately Carved Calligraphy Table"
+			},
+			{
+				"id": "381309",
+				"name": "Square Pine Tea Table"
+			},
+			{
+				"id": "381310",
+				"name": "Red Cedar Round Table"
+			},
+			{
+				"id": "381311",
+				"name": "Sturdy Birch Vanity"
+			},
+			{
+				"id": "381313",
+				"name": "Common Cast Iron Stove"
+			},
+			{
+				"id": "381314",
+				"name": "Yumemiru Cold and Warmth Kotatsu"
+			},
+			{
+				"id": "381315",
+				"name": "Sekijou Aralia Tea Table"
+			},
+			{
+				"id": "381316",
+				"name": "Teahouse Long Table: Seamless Seating"
+			},
+			{
+				"id": "381317",
+				"name": "Brightwood Pottery Worktable"
+			},
+			{
+				"id": "381318",
+				"name": "Long Athelwood Table"
+			},
+			{
+				"id": "381319",
+				"name": "A Choice of Delicacies"
+			},
+			{
+				"id": "381320",
+				"name": "Spirit of the Banquet"
+			},
+			{
+				"id": "381321",
+				"name": "A Table for Two"
+			},
+			{
+				"id": "381322",
+				"name": "Long Adhighama Chamfer Table"
+			},
+			{
+				"id": "381401",
+				"name": "Breeze-Blessed Bed"
+			},
+			{
+				"id": "381402",
+				"name": "Cloudy Haze Bed"
+			},
+			{
+				"id": "381403",
+				"name": "Yumemiru Sakura's Rest Bed"
+			},
+			{
+				"id": "381404",
+				"name": "Brightwood Concord Bed"
+			},
+			{
+				"id": "381405",
+				"name": "Adhigama Wood Comfort Bed"
+			},
+			{
+				"id": "381501",
+				"name": "Pine Reception Counter"
+			},
+			{
+				"id": "381502",
+				"name": "Teahouse Counter: Toshimaru"
+			},
+			{
+				"id": "381503",
+				"name": "Desert Stone Platform: Sturdy"
+			},
+			{
+				"id": "381504",
+				"name": "Desert Fireplace: Warmth"
+			},
+			{
+				"id": "381505",
+				"name": "Desert Study: Conscientiousness"
+			},
+			{
+				"id": "381506",
+				"name": "Witness of Tavern Affairs"
+			},
+			{
+				"id": "382101",
+				"name": "Soft Lounge Sofa"
+			},
+			{
+				"id": "382102",
+				"name": "Clear Blue Afternoon"
+			},
+			{
+				"id": "382103",
+				"name": "Unwavering Determination"
+			},
+			{
+				"id": "382104",
+				"name": "Pine Dining Chair"
+			},
+			{
+				"id": "382105",
+				"name": "Pine-Backed Tea Chair"
+			},
+			{
+				"id": "382106",
+				"name": "Red Pine Wood Round Stool"
+			},
+			{
+				"id": "382108",
+				"name": "Teahouse Round Stool: Pain Point Reduction"
+			},
+			{
+				"id": "382109",
+				"name": "Karmaphala Wood Subdued Speech Bench"
+			},
+			{
+				"id": "382110",
+				"name": "Karmaphala Wood Counter-Assault Dining Chair"
+			},
+			{
+				"id": "382111",
+				"name": "Satisfaction of Sated Thirst"
+			},
+			{
+				"id": "382112",
+				"name": "Adhigama Vine-Backed Chair"
+			},
+			{
+				"id": "382201",
+				"name": "Northern Stone Hearth"
+			},
+			{
+				"id": "382202",
+				"name": "Pine Folding Screen: Billowing Sails"
+			},
+			{
+				"id": "382203",
+				"name": "Hardwood Screen: Morning Mist in Jueyun"
+			},
+			{
+				"id": "382204",
+				"name": "Birch Double Drawer Nightstand"
+			},
+			{
+				"id": "382205",
+				"name": "Gold-Lined Sandbearer Nightstand"
+			},
+			{
+				"id": "382206",
+				"name": "Silk Curtains: Fetching the Sanguine Sky"
+			},
+			{
+				"id": "382207",
+				"name": "Floral Screen: Jade and Gold"
+			},
+			{
+				"id": "382208",
+				"name": "Thundering Heavens Drum"
+			},
+			{
+				"id": "382209",
+				"name": "Lantern-Lit Stage: Crescendo"
+			},
+			{
+				"id": "382210",
+				"name": "Teahouse Cushion: Night-Woven"
+			},
+			{
+				"id": "382211",
+				"name": "Maple Wood Ritual Drum: Festive Music"
+			},
+			{
+				"id": "382212",
+				"name": "Maple Wood Ritual Drum: A Great Din"
+			},
+			{
+				"id": "382213",
+				"name": "Teahouse Folding Screen: Hidden Heart of Gold"
+			},
+			{
+				"id": "382214",
+				"name": "Ancestral Sword Rack: Four Core Principles"
+			},
+			{
+				"id": "382215",
+				"name": "Hatamoto Armor: Eijin Genkou"
+			},
+			{
+				"id": "382216",
+				"name": "Yumemiru Jukaku Folding Screen"
+			},
+			{
+				"id": "382218",
+				"name": "Festive Fragrance: Goods Piled High"
+			},
+			{
+				"id": "382219",
+				"name": "Festive Fragrance: Of Gold and Jade"
+			},
+			{
+				"id": "382221",
+				"name": "Hued Vase: Cerulean"
+			},
+			{
+				"id": "382222",
+				"name": "Hued Vase: Malachite"
+			},
+			{
+				"id": "382223",
+				"name": "Hued Vase: Amber"
+			},
+			{
+				"id": "382224",
+				"name": "Plain Vase: Bronze"
+			},
+			{
+				"id": "382225",
+				"name": "Plain Vase: Tawny"
+			},
+			{
+				"id": "382226",
+				"name": "Plain Vase: Ocher"
+			},
+			{
+				"id": "382227",
+				"name": "Plain Vase: Sepia"
+			},
+			{
+				"id": "382228",
+				"name": "Hued Vase: Seashell"
+			},
+			{
+				"id": "382229",
+				"name": "Hued Vase: Dark Rock"
+			},
+			{
+				"id": "382231",
+				"name": "Amidst the Fleeing Smoke"
+			},
+			{
+				"id": "382233",
+				"name": "Forest Watcher's Fastidiousness"
+			},
+			{
+				"id": "382234",
+				"name": "Forest Ranger's Provisions"
+			},
+			{
+				"id": "382235",
+				"name": "Deepwood Dweller's Delicacies"
+			},
+			{
+				"id": "382236",
+				"name": "Aroma of High-Heat Barbecue"
+			},
+			{
+				"id": "382237",
+				"name": "Fragrance of Low-Heat Roast"
+			},
+			{
+				"id": "382238",
+				"name": "Deepwood Dweller's Aggregation"
+			},
+			{
+				"id": "382239",
+				"name": "Hued Vase: Molten Sand"
+			},
+			{
+				"id": "382301",
+				"name": "Mondstadt Rug: Crimson Ardor"
+			},
+			{
+				"id": "382302",
+				"name": "Mondstadt Rug: Tireless Search"
+			},
+			{
+				"id": "382303",
+				"name": "Tavern Rug: Home Away From Home"
+			},
+			{
+				"id": "382304",
+				"name": "Entrance Rug: A Warm Welcome"
+			},
+			{
+				"id": "382305",
+				"name": "Glorious Emerald Tapestry"
+			},
+			{
+				"id": "382306",
+				"name": "Dazzling Golden Tapestry"
+			},
+			{
+				"id": "382307",
+				"name": "Musing Tawny Tapestry"
+			},
+			{
+				"id": "382308",
+				"name": "Sun-Scorched Solemnity"
+			},
+			{
+				"id": "382309",
+				"name": "The Olive Grove"
+			},
+			{
+				"id": "382310",
+				"name": "Pure Like Wheat Sprouts"
+			},
+			{
+				"id": "383101",
+				"name": "Trusty Portable Lamp"
+			},
+			{
+				"id": "383102",
+				"name": "Liuli Pavilion Sandbearer Floor Lamp"
+			},
+			{
+				"id": "383103",
+				"name": "Tianyuan Lantern: Fragrant Brilliance"
+			},
+			{
+				"id": "383104",
+				"name": "Seashell Table Lamp"
+			},
+			{
+				"id": "383106",
+				"name": "Tranquil Starlight"
+			},
+			{
+				"id": "383107",
+				"name": "Desert Lamp: Lingering Light"
+			},
+			{
+				"id": "383108",
+				"name": "Joyful Illumination"
+			},
+			{
+				"id": "383109",
+				"name": "Light of the Land of Wisdom"
+			},
+			{
+				"id": "383110",
+				"name": "Nightwatcher's Candlelight"
+			},
+			{
+				"id": "383111",
+				"name": "Listening Candelight"
+			},
+			{
+				"id": "383112",
+				"name": "Two-way Iron Lamp"
+			},
+			{
+				"id": "383201",
+				"name": "Flower Arrangement: Baby Blue Tranquility"
+			},
+			{
+				"id": "383202",
+				"name": "Potted Plant: Crystalline Breeze"
+			},
+			{
+				"id": "383203",
+				"name": "Flower Arrangement: Sprawling Daybreak"
+			},
+			{
+				"id": "383204",
+				"name": "Potted Flower: Fragrant Facade"
+			},
+			{
+				"id": "383205",
+				"name": "Potted Plant: Petite Perrenial"
+			},
+			{
+				"id": "383206",
+				"name": "Cast in Clay"
+			},
+			{
+				"id": "383207",
+				"name": "The Essential Vase"
+			},
+			{
+				"id": "383208",
+				"name": "A Favor Returned"
+			},
+			{
+				"id": "383301",
+				"name": "Classical Lyre: Tenor of the Wind"
+			},
+			{
+				"id": "383302",
+				"name": "Neat Stack of Books"
+			},
+			{
+				"id": "383303",
+				"name": "Scholar's Weariness"
+			},
+			{
+				"id": "383304",
+				"name": "Etiquette of Correspondence"
+			},
+			{
+				"id": "383305",
+				"name": "Exquisite Hourglass Ornament"
+			},
+			{
+				"id": "383306",
+				"name": "Alchemic Device: Between Fire and Water"
+			},
+			{
+				"id": "383307",
+				"name": "Alchemic Component: Burden of Dust"
+			},
+			{
+				"id": "383308",
+				"name": "Calligraphy Set: Assiduous Calligraphy"
+			},
+			{
+				"id": "383309",
+				"name": "Golden Triple-Arm Candelabrum"
+			},
+			{
+				"id": "383310",
+				"name": "Glazed Porcelain Tea Set: Embracing Truth"
+			},
+			{
+				"id": "383312",
+				"name": "Tea Wisp-Clouded White Couch"
+			},
+			{
+				"id": "383313",
+				"name": "Teahouse Vessel: Scent-Sealer"
+			},
+			{
+				"id": "383314",
+				"name": "Calligraphy Set: Proper Penmanship"
+			},
+			{
+				"id": "383315",
+				"name": "Evil-Slaying Bows"
+			},
+			{
+				"id": "383316",
+				"name": "Spiritchaser Screen"
+			},
+			{
+				"id": "383317",
+				"name": "Divine Nose: Kitsu-Kitsu Daruma"
+			},
+			{
+				"id": "383318",
+				"name": "True Cookery: Nuki-Nuki Daruma"
+			},
+			{
+				"id": "383322",
+				"name": "Cosmos Within"
+			},
+			{
+				"id": "383325",
+				"name": "A Lush Glimpse"
+			},
+			{
+				"id": "383326",
+				"name": "Jubilant Posture"
+			},
+			{
+				"id": "383330",
+				"name": "The Mellow Pot"
+			},
+			{
+				"id": "383331",
+				"name": "The Crisp Sweetness"
+			},
+			{
+				"id": "383332",
+				"name": "The Twisting Mist"
+			},
+			{
+				"id": "383335",
+				"name": "Appraiser's Treasure"
+			},
+			{
+				"id": "383336",
+				"name": "Ceramic Centerpiece"
+			},
+			{
+				"id": "383337",
+				"name": "Ephemeral Spirit"
+			},
+			{
+				"id": "383338",
+				"name": "Amidst Bitter Aromas"
+			},
+			{
+				"id": "383339",
+				"name": "Deepwood Dweller's Ingenuity"
+			},
+			{
+				"id": "383340",
+				"name": "Deepwood Dweller's Brilliance"
+			},
+			{
+				"id": "383341",
+				"name": "Hued Vase: Sprout"
+			},
+			{
+				"id": "383342",
+				"name": "Star-Shaped Multipurpose Bottle"
+			},
+			{
+				"id": "383501",
+				"name": "Realizations from the Land of Wisdom"
+			},
+			{
+				"id": "383502",
+				"name": "Restorative Fragrance"
+			},
+			{
+				"id": "383504",
+				"name": "The Art of Retaining Water"
+			},
+			{
+				"id": "384101",
+				"name": "Landscape Painting: Country Home"
+			},
+			{
+				"id": "384102",
+				"name": "Landscape Painting: Distant Clouds"
+			},
+			{
+				"id": "384103",
+				"name": "Landscape Painting: Nameless Precipice"
+			},
+			{
+				"id": "384104",
+				"name": "Fine Brushwork: Peaks of Minlin"
+			},
+			{
+				"id": "384105",
+				"name": "Fine Brushwork: Bowl of Blossoms"
+			},
+			{
+				"id": "384106",
+				"name": "Fine Brushwork: Mountains Rising From the Mist"
+			},
+			{
+				"id": "384107",
+				"name": "Painted Vision: Of Mountains and Skies Distant"
+			},
+			{
+				"id": "384108",
+				"name": "Painted Vision: Stunning Waters"
+			},
+			{
+				"id": "384109",
+				"name": "Replica Mural: Lone Peak in a Sea of Fog"
+			},
+			{
+				"id": "384110",
+				"name": "Replica Mural: Ancient Ritual in a Sea of Fog"
+			},
+			{
+				"id": "384201",
+				"name": "Wooden Restaurant Signboard"
+			},
+			{
+				"id": "384202",
+				"name": "Bright Vase-Shaped Sconce"
+			},
+			{
+				"id": "384203",
+				"name": "Well-Worn Buckler"
+			},
+			{
+				"id": "384204",
+				"name": "Well-Worn Shield"
+			},
+			{
+				"id": "384205",
+				"name": "Well-Worn Sword"
+			},
+			{
+				"id": "384206",
+				"name": "Rally Banner"
+			},
+			{
+				"id": "384207",
+				"name": "Pure Spirit Banner"
+			},
+			{
+				"id": "384208",
+				"name": "Favonius Coat of Arms"
+			},
+			{
+				"id": "384209",
+				"name": "Mounted Record Board"
+			},
+			{
+				"id": "384210",
+				"name": "Mounted Noticeboard"
+			},
+			{
+				"id": "384211",
+				"name": "Embroidered Curtains"
+			},
+			{
+				"id": "384213",
+				"name": "Athelwood Metal Buckler"
+			},
+			{
+				"id": "384214",
+				"name": "Desert Wall-Drapes: Sunset"
+			},
+			{
+				"id": "384215",
+				"name": "Desert Wall-Drapes: Flaming Feathers"
+			},
+			{
+				"id": "384216",
+				"name": "Forest Watcher's Considerations"
+			},
+			{
+				"id": "384217",
+				"name": "Athelwood Metal Combat Shield"
+			},
+			{
+				"id": "384501",
+				"name": "Lingering Moment"
+			},
+			{
+				"id": "390101",
+				"name": "Straw Hut"
+			},
+			{
+				"id": "390102",
+				"name": "Straw Depot"
+			},
+			{
+				"id": "390103",
+				"name": "Liyue House: Solitary Retreat"
+			},
+			{
+				"id": "390104",
+				"name": "Liyue House: Of Timber and Stone"
+			},
+			{
+				"id": "390105",
+				"name": "Liyue Pitstop: Tea Fragrance on the Old Road"
+			},
+			{
+				"id": "390106",
+				"name": "Liyue House: Moon-Crested Eaves"
+			},
+			{
+				"id": "390107",
+				"name": "Liyue House: Amity Abounds"
+			},
+			{
+				"id": "390108",
+				"name": "Liyue Shop: Citywide Favorite"
+			},
+			{
+				"id": "390109",
+				"name": "Wing House: Dawn & Dusk"
+			},
+			{
+				"id": "390110",
+				"name": "Pavilion: Stargazer's Shelter"
+			},
+			{
+				"id": "390111",
+				"name": "Hyoutei Stacked Aralia Wood Boxes"
+			},
+			{
+				"id": "390112",
+				"name": "Aralia Bangaku Shelf"
+			},
+			{
+				"id": "390113",
+				"name": "Aralia Fusen Cupboard"
+			},
+			{
+				"id": "390114",
+				"name": "Yumemiru Dewcover Wardrobe"
+			},
+			{
+				"id": "390115",
+				"name": "Yumemiru Decorum Kimono Rack"
+			},
+			{
+				"id": "390116",
+				"name": "Pear Orchard Stage: Yun-Han Style"
+			},
+			{
+				"id": "390201",
+				"name": "Multi-Arched Mondstadt Building"
+			},
+			{
+				"id": "390202",
+				"name": "Mondstadt House With Overhanging Attic"
+			},
+			{
+				"id": "390203",
+				"name": "Warm and Dry Mondstadt Apartment"
+			},
+			{
+				"id": "390204",
+				"name": "Old Wind-Resistant Mondstadt House"
+			},
+			{
+				"id": "390205",
+				"name": "Country Home With Tall Attic"
+			},
+			{
+				"id": "390206",
+				"name": "Classic Country Home"
+			},
+			{
+				"id": "390207",
+				"name": "Pocket-Sized Pine Cabin"
+			},
+			{
+				"id": "390208",
+				"name": "Liyue House: Time Waits for No One"
+			},
+			{
+				"id": "390301",
+				"name": "Bustling Sundry Stand"
+			},
+			{
+				"id": "390302",
+				"name": "Profitable Fruit Stand"
+			},
+			{
+				"id": "390303",
+				"name": "Real Deal Fruit Stand"
+			},
+			{
+				"id": "390304",
+				"name": "Open-Air Workshop"
+			},
+			{
+				"id": "390305",
+				"name": "Bountiful Harvest Fruit Cart"
+			},
+			{
+				"id": "390306",
+				"name": "Traveling Merchant North of the Stone Gate"
+			},
+			{
+				"id": "390307",
+				"name": "Roll-Roofed Fruit and Vegetable Cart"
+			},
+			{
+				"id": "390308",
+				"name": "Four-Quadrant Cooking Cauldron"
+			},
+			{
+				"id": "390309",
+				"name": "Fruit and Veggie Stall: Harvest Bounties"
+			},
+			{
+				"id": "390310",
+				"name": "Otogi Wood Ramen Stand"
+			},
+			{
+				"id": "390311",
+				"name": "Woven Depth"
+			},
+			{
+				"id": "390312",
+				"name": "Woven Length"
+			},
+			{
+				"id": "390313",
+				"name": "Woven Fruition"
+			},
+			{
+				"id": "390314",
+				"name": "Sweetness in Exchange"
+			},
+			{
+				"id": "390315",
+				"name": "Sweetness in the Shade"
+			},
+			{
+				"id": "390316",
+				"name": "Sweetness in Storage"
+			},
+			{
+				"id": "390317",
+				"name": "Fisherman's Dealings"
+			},
+			{
+				"id": "390318",
+				"name": "Fisherman's Preservation Trick"
+			},
+			{
+				"id": "390319",
+				"name": "Fisherman's Maintenance"
+			},
+			{
+				"id": "390320",
+				"name": "Brightwood Grocery Stall"
+			},
+			{
+				"id": "390321",
+				"name": "Brightwood Kebab Cart"
+			},
+			{
+				"id": "390322",
+				"name": "Abundance of Crisp Air"
+			},
+			{
+				"id": "390323",
+				"name": "Deliberation of Choice"
+			},
+			{
+				"id": "390401",
+				"name": "Hilichurl Outpost Hut"
+			},
+			{
+				"id": "390402",
+				"name": "Hilichurl Chieftain Hall"
+			},
+			{
+				"id": "390501",
+				"name": "Clouds East of Bishui"
+			},
+			{
+				"id": "390502",
+				"name": "Straw Shed"
+			},
+			{
+				"id": "390503",
+				"name": "Lightning Protective Tent"
+			},
+			{
+				"id": "390504",
+				"name": "Simple Single-Person Tent"
+			},
+			{
+				"id": "390505",
+				"name": "Otogi Wood Rice Cake Soup Stand"
+			},
+			{
+				"id": "390507",
+				"name": "Otogi Wood Granary Cart"
+			},
+			{
+				"id": "390508",
+				"name": "Umbrella Shop: Drapes of Differing Dreams"
+			},
+			{
+				"id": "390509",
+				"name": "Fruit and Veggie Stall: Good Honest Flavor"
+			},
+			{
+				"id": "390510",
+				"name": "Festival Teiban Store"
+			},
+			{
+				"id": "390511",
+				"name": "Festival Kiban Store"
+			},
+			{
+				"id": "390512",
+				"name": "Kouki Aralia Mask Rack"
+			},
+			{
+				"id": "390513",
+				"name": "Fine Stall: Splash of Color"
+			},
+			{
+				"id": "390514",
+				"name": "Rainbow Stall: Ultramarine"
+			},
+			{
+				"id": "390515",
+				"name": "Rainbow Stall: Ruby Red"
+			},
+			{
+				"id": "390516",
+				"name": "Festival Booth - Strange Wonders"
+			},
+			{
+				"id": "390517",
+				"name": "Festival Booth - Literary Talent"
+			},
+			{
+				"id": "390518",
+				"name": "Dodoco's Summertime"
+			},
+			{
+				"id": "390601",
+				"name": "Ritual Shrine"
+			},
+			{
+				"id": "390602",
+				"name": "Cleansing Shrine"
+			},
+			{
+				"id": "390603",
+				"name": "Inazuman Mansion: As One"
+			},
+			{
+				"id": "390604",
+				"name": "Inazuman Store: Numberless Gems"
+			},
+			{
+				"id": "390605",
+				"name": "Inazuman Home: The Work of Generations"
+			},
+			{
+				"id": "390606",
+				"name": "Inazuman Home: Easy Adaptation"
+			},
+			{
+				"id": "390607",
+				"name": "Inazuman Workshop: Exhaustive Regularity"
+			},
+			{
+				"id": "390608",
+				"name": "Inazuman Home: Routine Dimensions"
+			},
+			{
+				"id": "390609",
+				"name": "Inazuman Bamboo-Roofed Home: The Long Peace"
+			},
+			{
+				"id": "390610",
+				"name": "Inazuman Bamboo-Roofed Home: Wild Heart"
+			},
+			{
+				"id": "390611",
+				"name": "Inazuman Workshop: Multipurpose"
+			},
+			{
+				"id": "390612",
+				"name": "Inazuman Home: Clanking Metal"
+			},
+			{
+				"id": "390613",
+				"name": "Inazuman Workshop: Sweetness Sought"
+			},
+			{
+				"id": "390614",
+				"name": "Inazuman Home: Irreplaceable Foresight"
+			},
+			{
+				"id": "390615",
+				"name": "Inazuman Official Residence: Forcefulness"
+			},
+			{
+				"id": "390616",
+				"name": "Inazuman Official Residence: Strict Adherence"
+			},
+			{
+				"id": "390617",
+				"name": "Official Residence Corridor: Power's Reach"
+			},
+			{
+				"id": "390618",
+				"name": "Camp Watchtower: Viewport"
+			},
+			{
+				"id": "390619",
+				"name": "Camp Tent: Timely Tactics"
+			},
+			{
+				"id": "390620",
+				"name": "Camp Dwelling: Shoring Up"
+			},
+			{
+				"id": "390621",
+				"name": "Camp Gate: Fealty"
+			},
+			{
+				"id": "390623",
+				"name": "Fortune Slip Stand: Omen-Reader"
+			},
+			{
+				"id": "390624",
+				"name": "Shrine Hall: Gentle Wishes"
+			},
+			{
+				"id": "390625",
+				"name": "Shrine Annex: Pleased to Serve"
+			},
+			{
+				"id": "390626",
+				"name": "Estate Reception: Prim and Proper"
+			},
+			{
+				"id": "390627",
+				"name": "Estate Storehouse: We Have Reserves"
+			},
+			{
+				"id": "390628",
+				"name": "Inazuman Home: Watatsumi Reminiscence"
+			},
+			{
+				"id": "390629",
+				"name": "Inazuman Home: House of Coral"
+			},
+			{
+				"id": "390630",
+				"name": "Inazuman Home: Stormhouse"
+			},
+			{
+				"id": "390701",
+				"name": "Deepwood Dweller's Deliberation"
+			},
+			{
+				"id": "390702",
+				"name": "Deepwood Dweller's Estimation"
+			},
+			{
+				"id": "390703",
+				"name": "Deepwood Dweller's Lonesome"
+			},
+			{
+				"id": "390704",
+				"name": "Deepwood Dweller's Perseverance"
+			},
+			{
+				"id": "390705",
+				"name": "Desert House: Ordinary Lives"
+			},
+			{
+				"id": "390706",
+				"name": "Desert House: Spices Abound"
+			},
+			{
+				"id": "390707",
+				"name": "Desert House: Hue and Cry"
+			},
+			{
+				"id": "390708",
+				"name": "Desert House: Brief Sleep"
+			},
+			{
+				"id": "390709",
+				"name": "Desert House: Hidden Light"
+			},
+			{
+				"id": "390710",
+				"name": "Desert House: Save and Store"
+			},
+			{
+				"id": "390711",
+				"name": "Mansion Pagoda — Flower of Revelation"
+			},
+			{
+				"id": "390712",
+				"name": "Mansion Pagoda — Tree of Pondering"
+			},
+			{
+				"id": "390713",
+				"name": "Mansion Courtyard — Warbling Pavilion"
+			},
+			{
+				"id": "390714",
+				"name": "Mansion Courtyard — Watchtower of Foresight"
+			},
+			{
+				"id": "390715",
+				"name": "Mansion Courtyard — Place of Repose"
+			},
+			{
+				"id": "390716",
+				"name": "Mansion Courtyard — Cuisinier's Abode"
+			},
+			{
+				"id": "390718",
+				"name": "Treasures of the City of Wisdom"
+			},
+			{
+				"id": "390719",
+				"name": "Delicacies of the City of Wisdom"
+			},
+			{
+				"id": "390720",
+				"name": "Aromas of the City of Wisdom"
+			},
+			{
+				"id": "390721",
+				"name": "Tenacity of the City of Wisdom"
+			},
+			{
+				"id": "390722",
+				"name": "Commerce of the City of Wisdom"
+			},
+			{
+				"id": "390723",
+				"name": "Shade in the Tranquil Court"
+			},
+			{
+				"id": "390724",
+				"name": "Light in the Tranquil Court"
+			},
+			{
+				"id": "390726",
+				"name": "Fabric of the City of Wisdom"
+			},
+			{
+				"id": "390727",
+				"name": "Pottery of the City of Wisdom"
+			},
+			{
+				"id": "390728",
+				"name": "Diligence of the City of Wisdom"
+			},
+			{
+				"id": "390729",
+				"name": "Building Block of the City of Wisdom"
+			},
+			{
+				"id": "390730",
+				"name": "Contrasts of the City of Wisdom"
+			},
+			{
+				"id": "390731",
+				"name": "Peace in the City of Wisdom"
+			},
+			{
+				"id": "390732",
+				"name": "Errands in the City of Wisdom"
+			},
+			{
+				"id": "390733",
+				"name": "Silky Queller of Sea Monsters"
+			},
+			{
+				"id": "390734",
+				"name": "Night of Serenity in the Sandy Breeze"
+			},
+			{
+				"id": "391101",
+				"name": "Bird and Blossom Design Fountain"
+			},
+			{
+				"id": "391102",
+				"name": "Hilichurl Spiral Watchtower"
+			},
+			{
+				"id": "391103",
+				"name": "Hilichurl Straw Hut"
+			},
+			{
+				"id": "391104",
+				"name": "Ballad-Spinning Windwheel"
+			},
+			{
+				"id": "391107",
+				"name": "Temporary Work Quarters"
+			},
+			{
+				"id": "391109",
+				"name": "Pure Gorgeous Summer"
+			},
+			{
+				"id": "391110",
+				"name": "Scarlet Torii Gate: Door of Silence"
+			},
+			{
+				"id": "391112",
+				"name": "Scarlet Torii Gate: Way of Restoration"
+			},
+			{
+				"id": "391113",
+				"name": "Estate Gate: Windy Doors"
+			},
+			{
+				"id": "391114",
+				"name": "Estate Corridor: Onward With Ease"
+			},
+			{
+				"id": "391115",
+				"name": "Estate Courtyard Corner: Measured Harmony"
+			},
+			{
+				"id": "391116",
+				"name": "Whitestone Hot Spring: Diffusing Warmth"
+			},
+			{
+				"id": "391117",
+				"name": "Of Fields Green: Clear Spring Fountain"
+			},
+			{
+				"id": "391118",
+				"name": "Sub-Space Cabochon: In Soaring Flight"
+			},
+			{
+				"id": "391119",
+				"name": "Stoneworks Crane: Mountain Mover"
+			},
+			{
+				"id": "391120",
+				"name": "Stoneworks Crane: Hill Tamer"
+			},
+			{
+				"id": "391122",
+				"name": "Desert Hut: Minutiae"
+			},
+			{
+				"id": "391123",
+				"name": "Desert Hut: Questions"
+			},
+			{
+				"id": "391124",
+				"name": "Desert Hut: Wilting"
+			},
+			{
+				"id": "391125",
+				"name": "Desert Hut: Rest"
+			},
+			{
+				"id": "391126",
+				"name": "Theater's Cool Mist"
+			},
+			{
+				"id": "391127",
+				"name": "Clarity from the Land of Wisdom"
+			},
+			{
+				"id": "391129",
+				"name": "Port Ormos GP Crane III"
+			},
+			{
+				"id": "391130",
+				"name": "Composite Timber Long-Distance Hand Cart"
+			},
+			{
+				"id": "391131",
+				"name": "Composite Timber In-Port Transfer Cart"
+			},
+			{
+				"id": "391132",
+				"name": "Three-Wheeled Mountain Hand Cart"
+			},
+			{
+				"id": "391201",
+				"name": "Adeptus Gate"
+			},
+			{
+				"id": "391202",
+				"name": "Birch Main Courtyard Gate"
+			},
+			{
+				"id": "391203",
+				"name": "Carved Courtyard Fence Ending"
+			},
+			{
+				"id": "391204",
+				"name": "Carved Courtyard Fence"
+			},
+			{
+				"id": "391205",
+				"name": "Scenic Corridor: Sylvan Stroll"
+			},
+			{
+				"id": "391206",
+				"name": "Courtyard Wall: Spring and Autumn Splendor"
+			},
+			{
+				"id": "391207",
+				"name": "Wall Corner: Fragrant Nook"
+			},
+			{
+				"id": "391208",
+				"name": "Courtyard Wall: All in a Row"
+			},
+			{
+				"id": "391209",
+				"name": "Courtyard Wall: Peace Across"
+			},
+			{
+				"id": "391210",
+				"name": "Main Entrance: Gateway to the Clouds"
+			},
+			{
+				"id": "391211",
+				"name": "Perimeter Wall: Scenic Archway"
+			},
+			{
+				"id": "391212",
+				"name": "Veranda Corner: Pavilion's Watch"
+			},
+			{
+				"id": "391213",
+				"name": "Key Gateway: Beneath the Clouds"
+			},
+			{
+				"id": "391214",
+				"name": "Key Fence: Self-Restraint"
+			},
+			{
+				"id": "391215",
+				"name": "Fence Corner: Long Watch"
+			},
+			{
+				"id": "391216",
+				"name": "Otogi Kintake Courtyard Gate"
+			},
+			{
+				"id": "391217",
+				"name": "Otogi Kintake Fence"
+			},
+			{
+				"id": "391218",
+				"name": "Encampment Fence: Jagged Teeth"
+			},
+			{
+				"id": "391219",
+				"name": "Encampment Fence: Decisive Judgment"
+			},
+			{
+				"id": "391220",
+				"name": "Encampment Fence: Honing Goad"
+			},
+			{
+				"id": "391221",
+				"name": "Shrine Corridor: Sakura-Dusted Path"
+			},
+			{
+				"id": "391222",
+				"name": "Shrine Corridor: Vermilion Gaze"
+			},
+			{
+				"id": "391223",
+				"name": "Estate Courtyard Wall: Stoneguard"
+			},
+			{
+				"id": "391224",
+				"name": "Estate Courtyard Wall: Harmonious Corner"
+			},
+			{
+				"id": "391225",
+				"name": "Estate Courtyard Wall: Hidden Boundary"
+			},
+			{
+				"id": "391226",
+				"name": "Estate Wall Corner: Old City Palisade"
+			},
+			{
+				"id": "391227",
+				"name": "Hot Spring Folding Screen: Moderation"
+			},
+			{
+				"id": "391228",
+				"name": "Hot Spring Outer Wall: No Vaulting"
+			},
+			{
+				"id": "391229",
+				"name": "Hot Spring Wall: Well-Grounded"
+			},
+			{
+				"id": "391230",
+				"name": "Hot Spring Foyer: Shelter from the Cold"
+			},
+			{
+				"id": "391235",
+				"name": "Fisherman's Fence"
+			},
+			{
+				"id": "391236",
+				"name": "No Fishing Ahead"
+			},
+			{
+				"id": "391237",
+				"name": "Desert Stone Steps: Climbing"
+			},
+			{
+				"id": "391238",
+				"name": "Desert Wall: Surprise Attack"
+			},
+			{
+				"id": "391239",
+				"name": "Desert Wall: Stalwart Defense"
+			},
+			{
+				"id": "391240",
+				"name": "Desert Gate: Windjammer"
+			},
+			{
+				"id": "391241",
+				"name": "Domed Gate: Forest Tune"
+			},
+			{
+				"id": "391242",
+				"name": "Domed Wall: The Birds Sang"
+			},
+			{
+				"id": "392107",
+				"name": "Foundations of Stone: Fortunate Times"
+			},
+			{
+				"id": "392606",
+				"name": "Sub-space Structure: Suspended Pathway"
+			},
+			{
+				"id": "392607",
+				"name": "Sub-Space Structure: Treetop Stroll"
+			},
+			{
+				"id": "393101",
+				"name": "Messy Pile of Fir Crates"
+			},
+			{
+				"id": "393102",
+				"name": "Neat Stack of Fir Kegs"
+			},
+			{
+				"id": "393103",
+				"name": "Heavy Hay Bale"
+			},
+			{
+				"id": "393104",
+				"name": "Wine Jar With Bamboo Casing: Spirits Awaiting Moonrise"
+			},
+			{
+				"id": "393105",
+				"name": "Toy Stand: Dazzling Delights"
+			},
+			{
+				"id": "393106",
+				"name": "Umbrella Shop: Kaleidoscope of Parasol Colors"
+			},
+			{
+				"id": "393107",
+				"name": "Storage Sack: Buzz-Off Bag"
+			},
+			{
+				"id": "393108",
+				"name": "Fruit Seller's Caution"
+			},
+			{
+				"id": "393109",
+				"name": "Fruit Seller's Toil"
+			},
+			{
+				"id": "393110",
+				"name": "Hardened Glazed Vase"
+			},
+			{
+				"id": "393111",
+				"name": "Hilichurl Archery Target"
+			},
+			{
+				"id": "393112",
+				"name": "Hilichurl Horned Pot"
+			},
+			{
+				"id": "393113",
+				"name": "Deadwood Road Sign"
+			},
+			{
+				"id": "393114",
+				"name": "The Adventurer's Burdens"
+			},
+			{
+				"id": "393115",
+				"name": "Sturdy Wooden Barrel"
+			},
+			{
+				"id": "393116",
+				"name": "Tall Wooden Pole"
+			},
+			{
+				"id": "393117",
+				"name": "Wood Bundle"
+			},
+			{
+				"id": "393118",
+				"name": "Rainproof Fir Cargo Container"
+			},
+			{
+				"id": "393119",
+				"name": "Stone Cup-Shaped Pool"
+			},
+			{
+				"id": "393120",
+				"name": "Feather-Light Praise"
+			},
+			{
+				"id": "393121",
+				"name": "A Bloatty Floatty's Dream of the Sky"
+			},
+			{
+				"id": "393122",
+				"name": "A Guide in the Summer Woods"
+			},
+			{
+				"id": "393123",
+				"name": "Training Ground Support Stakes"
+			},
+			{
+				"id": "393124",
+				"name": "A Messenger in the Summer Woods"
+			},
+			{
+				"id": "393125",
+				"name": "Courtyard Cleansing Pool"
+			},
+			{
+				"id": "393126",
+				"name": "Headquarters Alarm: Sound of Thunder"
+			},
+			{
+				"id": "393127",
+				"name": "War Drum: Line-Breaking Reverb"
+			},
+			{
+				"id": "393128",
+				"name": "Simple Otogi Workshop"
+			},
+			{
+				"id": "393129",
+				"name": "Otogi Rikuyou Wooden Barrel"
+			},
+			{
+				"id": "393130",
+				"name": "Otogi Tanin Wood Barrel"
+			},
+			{
+				"id": "393131",
+				"name": "Kokutan Thick-Walled Clay Water Tank"
+			},
+			{
+				"id": "393132",
+				"name": "Replica Ancient Otogi Keg"
+			},
+			{
+				"id": "393133",
+				"name": "Replica Ancient Otogi Crate"
+			},
+			{
+				"id": "393134",
+				"name": "Mountain of Festive Gifts"
+			},
+			{
+				"id": "393137",
+				"name": "Heavy-Duty Restaurant Stove"
+			},
+			{
+				"id": "393138",
+				"name": "Serene Flames"
+			},
+			{
+				"id": "393141",
+				"name": "Allegro Bloom: Special Tuning"
+			},
+			{
+				"id": "393142",
+				"name": "Fisherman's Catch"
+			},
+			{
+				"id": "393143",
+				"name": "Fisherman's Delicacy"
+			},
+			{
+				"id": "393144",
+				"name": "Fisherman's Storage Solution"
+			},
+			{
+				"id": "393145",
+				"name": "Fisherman's Efforts"
+			},
+			{
+				"id": "393146",
+				"name": "Fisherman's Clemency"
+			},
+			{
+				"id": "393148",
+				"name": "Heavy Brightwood Pottery Wheel"
+			},
+			{
+				"id": "393149",
+				"name": "Iron, Sand, Treasure"
+			},
+			{
+				"id": "393150",
+				"name": "Iron, Blood, Broken Armor"
+			},
+			{
+				"id": "393151",
+				"name": "Iron, Water, Steam"
+			},
+			{
+				"id": "393152",
+				"name": "Karmaphala Wood Liquid Cargo Rack"
+			},
+			{
+				"id": "393153",
+				"name": "String, Feather, Trajectory"
+			},
+			{
+				"id": "393154",
+				"name": "Ingenuity of the Forest Forager"
+			},
+			{
+				"id": "393155",
+				"name": "It just might work!"
+			},
+			{
+				"id": "393156",
+				"name": "Coloration and Precipitation"
+			},
+			{
+				"id": "393201",
+				"name": "Potted Plant: Verdant Vastness"
+			},
+			{
+				"id": "393202",
+				"name": "Water-Retaining Flower Beds"
+			},
+			{
+				"id": "393203",
+				"name": "Soil-Carrying Wooden Barrel"
+			},
+			{
+				"id": "393204",
+				"name": "Pines Awaiting the Twilight"
+			},
+			{
+				"id": "393301",
+				"name": "Fir Shelves"
+			},
+			{
+				"id": "393302",
+				"name": "Fir Weapon Rack"
+			},
+			{
+				"id": "393303",
+				"name": "Hardwood Weapon Rack"
+			},
+			{
+				"id": "393304",
+				"name": "Simple Cargo Cart"
+			},
+			{
+				"id": "393305",
+				"name": "Sturdy Stone Well"
+			},
+			{
+				"id": "393306",
+				"name": "Farmer's Scarecrow"
+			},
+			{
+				"id": "393307",
+				"name": "Old Well"
+			},
+			{
+				"id": "393308",
+				"name": "Roofed Well: For Purity"
+			},
+			{
+				"id": "393309",
+				"name": "Stone Lion Statue: The Warding"
+			},
+			{
+				"id": "393310",
+				"name": "Stone Lion Statue: The Knowing"
+			},
+			{
+				"id": "393311",
+				"name": "Countryside Tea Stand"
+			},
+			{
+				"id": "393312",
+				"name": "The Adventurer's Treasures"
+			},
+			{
+				"id": "393313",
+				"name": "Witch's Chorus"
+			},
+			{
+				"id": "393315",
+				"name": "Yumemiru Saikyo Fortune Slip Hanger"
+			},
+			{
+				"id": "393316",
+				"name": "Narukami's Banner"
+			},
+			{
+				"id": "393317",
+				"name": "Camp Bow-Rack: Fletching"
+			},
+			{
+				"id": "393318",
+				"name": "Camp Spear-Rack: Point Break"
+			},
+			{
+				"id": "393319",
+				"name": "Camp Bonfire: Glorious Clarity"
+			},
+			{
+				"id": "393320",
+				"name": "Camp Barricade: Taking Sides"
+			},
+			{
+				"id": "393321",
+				"name": "Sky Kitsune Statue: Hakushin's Legacy"
+			},
+			{
+				"id": "393322",
+				"name": "High-Flying Fish Flag"
+			},
+			{
+				"id": "393323",
+				"name": "Maple Wood Tanuki"
+			},
+			{
+				"id": "393324",
+				"name": "Maple Wood White Kitsune"
+			},
+			{
+				"id": "393325",
+				"name": "Red-Iron Coral"
+			},
+			{
+				"id": "393326",
+				"name": "Glowstone Parasol"
+			},
+			{
+				"id": "393327",
+				"name": "Shrine Statue: Seirai Ward"
+			},
+			{
+				"id": "393328",
+				"name": "Village Well: Underground Spring"
+			},
+			{
+				"id": "393329",
+				"name": "Yumemiru Seiken Offering Box"
+			},
+			{
+				"id": "393330",
+				"name": "Ancestral Sword Rack: Iron Sharpens Iron"
+			},
+			{
+				"id": "393331",
+				"name": "The Bamboo's Call"
+			},
+			{
+				"id": "393332",
+				"name": "Henji Aralia Noticeboard"
+			},
+			{
+				"id": "393333",
+				"name": "Village Well: Subterranean Secrets"
+			},
+			{
+				"id": "393337",
+				"name": "Rainbow Lights: Lovely Night View"
+			},
+			{
+				"id": "393338",
+				"name": "Rainbow Cloud Flying Satin Pole"
+			},
+			{
+				"id": "393339",
+				"name": "Gold-Inscribed Evil-Cleansing Banner"
+			},
+			{
+				"id": "393343",
+				"name": "Tanuki Hugs Photo Board"
+			},
+			{
+				"id": "393344",
+				"name": "Kitsune Guuji Exclusive Painted Flag Banner"
+			},
+			{
+				"id": "393346",
+				"name": "Pear Orchard Screen: Dexterous"
+			},
+			{
+				"id": "393347",
+				"name": "Pear Orchard Screen: Deft"
+			},
+			{
+				"id": "393350",
+				"name": "Dodoco's Travel Bag"
+			},
+			{
+				"id": "393351",
+				"name": "Dodoco's Dodo Stove"
+			},
+			{
+				"id": "393352",
+				"name": "Dodoco's Beach Nap"
+			},
+			{
+				"id": "393353",
+				"name": "Dodoco's Collection Cupboard"
+			},
+			{
+				"id": "393354",
+				"name": "Dodoco's Sunshade Umbrella"
+			},
+			{
+				"id": "393355",
+				"name": "Fisherman's Craftsmanship"
+			},
+			{
+				"id": "393356",
+				"name": "The Essentials"
+			},
+			{
+				"id": "393357",
+				"name": "The Eremites' Flame of Vigor"
+			},
+			{
+				"id": "393358",
+				"name": "Embodiment of Warfare"
+			},
+			{
+				"id": "393359",
+				"name": "Steel Stopper"
+			},
+			{
+				"id": "393360",
+				"name": "The Eremites' Odyssey"
+			},
+			{
+				"id": "393361",
+				"name": "The Eremites' Fame"
+			},
+			{
+				"id": "393362",
+				"name": "An Elegant Voice"
+			},
+			{
+				"id": "393363",
+				"name": "A Mellow Voice"
+			},
+			{
+				"id": "393364",
+				"name": "Karmaphala Three-Ply Noticeboard"
+			},
+			{
+				"id": "393365",
+				"name": "Tea-Break Shade"
+			},
+			{
+				"id": "393366",
+				"name": "Propitious Screen: Fog Gathering on Smoky Mountains"
+			},
+			{
+				"id": "393367",
+				"name": "Propitious Screen: Fleet Feathers Against Emerald Waves"
+			},
+			{
+				"id": "393368",
+				"name": "Propitious Screen: Instruments in the Distance"
+			},
+			{
+				"id": "393369",
+				"name": "Propitious Screen: Old Songs Lingering"
+			},
+			{
+				"id": "393370",
+				"name": "Propitious Screen: Overlapping Clouds Above Peaks"
+			},
+			{
+				"id": "393371",
+				"name": "Propitious Screen: Genuine Words Travel Far"
+			},
+			{
+				"id": "393372",
+				"name": "Trumpet and Firewood"
+			},
+			{
+				"id": "393401",
+				"name": "Wrought Iron Carved Street Light"
+			},
+			{
+				"id": "393402",
+				"name": "Pine Street Light"
+			},
+			{
+				"id": "393403",
+				"name": "Evil-Repelling Lantern: All-Around Lighting"
+			},
+			{
+				"id": "393404",
+				"name": "Four Corners Lantern: Amity From Afar"
+			},
+			{
+				"id": "393405",
+				"name": "Shadow Lamp: Painted Shadow"
+			},
+			{
+				"id": "393406",
+				"name": "Stone Lantern: Fudoumyou's Light"
+			},
+			{
+				"id": "393407",
+				"name": "Three Reaches Bright"
+			},
+			{
+				"id": "393408",
+				"name": "Whitestone Meichuu Standing Lamp"
+			},
+			{
+				"id": "393409",
+				"name": "Otogi Meichuu Standing Lamp"
+			},
+			{
+				"id": "393410",
+				"name": "Five-Lantern Festival Gate"
+			},
+			{
+				"id": "393411",
+				"name": "Yumemiru Kuukai Street Lamp"
+			},
+			{
+				"id": "393412",
+				"name": "Yumemiru Juunen Street Lamp"
+			},
+			{
+				"id": "393413",
+				"name": "White Fish Tallow Candle: Evenlight"
+			},
+			{
+				"id": "393414",
+				"name": "Otogi Countryside Street Lamp"
+			},
+			{
+				"id": "393415",
+				"name": "Simple Otogi Street Lamp"
+			},
+			{
+				"id": "393416",
+				"name": "Aralia Renzou Street Lamp"
+			},
+			{
+				"id": "393601",
+				"name": "Pool of Sapphire Grace"
+			},
+			{
+				"id": "393602",
+				"name": "Shaded Clarity"
+			},
+			{
+				"id": "394101",
+				"name": "Weathered Bamboo Fence"
+			},
+			{
+				"id": "394102",
+				"name": "Sturdy Pine Fence"
+			},
+			{
+				"id": "394103",
+				"name": "Wooden Hilichurl Fence"
+			},
+			{
+				"id": "394104",
+				"name": "Hilichurl Totem Fence"
+			},
+			{
+				"id": "394105",
+				"name": "Lush Grapevine"
+			},
+			{
+				"id": "394106",
+				"name": "Newly Grown Grapevines"
+			},
+			{
+				"id": "394107",
+				"name": "Simple Wooden Fence"
+			},
+			{
+				"id": "394108",
+				"name": "Half-Constructed Fence"
+			},
+			{
+				"id": "394109",
+				"name": "The Fruit Farmer's Thrift"
+			},
+			{
+				"id": "394110",
+				"name": "Kyuukou Otogi Flower Terrace"
+			},
+			{
+				"id": "394111",
+				"name": "Sanzai Otogi Flower Terrace"
+			},
+			{
+				"id": "394201",
+				"name": "Smooth Wooden Bench"
+			},
+			{
+				"id": "394202",
+				"name": "Smooth Stone Bench"
+			},
+			{
+				"id": "394203",
+				"name": "Googol Chair"
+			},
+			{
+				"id": "394204",
+				"name": "Square Yumemiru Stool"
+			},
+			{
+				"id": "394205",
+				"name": "Otogi Rakushi Square Stool"
+			},
+			{
+				"id": "394207",
+				"name": "Pear Orchard Seat: Gathered in Joy"
+			},
+			{
+				"id": "394301",
+				"name": "Two-Story Hilichurl Sentry Tower"
+			},
+			{
+				"id": "394302",
+				"name": "Doorless Pine Cupboard"
+			},
+			{
+				"id": "394303",
+				"name": "Heavy Fir Forging Table"
+			},
+			{
+				"id": "394304",
+				"name": "Long Pine Table"
+			},
+			{
+				"id": "394305",
+				"name": "Large Stone Mill"
+			},
+			{
+				"id": "394306",
+				"name": "Alchemist's Crafting Bench"
+			},
+			{
+				"id": "394307",
+				"name": "Two-Tier Vendor's Booth: Rising Fortunes"
+			},
+			{
+				"id": "394308",
+				"name": "Bamboo Outdoor Tea Table"
+			},
+			{
+				"id": "394309",
+				"name": "Wooden Outdoor Tea Table"
+			},
+			{
+				"id": "394310",
+				"name": "Summer Forest Banquet"
+			},
+			{
+				"id": "394311",
+				"name": "Googol Table"
+			},
+			{
+				"id": "394312",
+				"name": "Long Yumemiru Table"
+			},
+			{
+				"id": "394313",
+				"name": "Otogi Rakushi Square Table"
+			},
+			{
+				"id": "394315",
+				"name": "Pear Orchard Seat: Of Tunes and Fragrant Tea"
+			},
+			{
+				"id": "394316",
+				"name": "Pear Orchard Accessory: Attend and Listen"
+			},
+			{
+				"id": "394317",
+				"name": "Karmaphala Display Table"
+			},
+			{
+				"id": "394401",
+				"name": "Wine Shop Display Counter: To Your Heart's Content"
+			},
+			{
+				"id": "394402",
+				"name": "Crude Double-Decker Pallet"
+			},
+			{
+				"id": "394403",
+				"name": "Cradle of Flowers"
+			},
+			{
+				"id": "394404",
+				"name": "The Blue Ocean's Treasure"
+			},
+			{
+				"id": "394501",
+				"name": "Foundations of Stone: Path of Cultivation"
+			},
+			{
+				"id": "394502",
+				"name": "Foundations of Stone: Timely Arrival"
+			},
+			{
+				"id": "394503",
+				"name": "Foundations of Stone: Double-Time"
+			},
+			{
+				"id": "394504",
+				"name": "Of Fields Green: Cookie Road"
+			},
+			{
+				"id": "394505",
+				"name": "Foundations of Stone: Grand Design"
+			}
+		],
+		"costumes": [
+			{
+				"id": "340000",
+				"name": "Summertime Sparkle"
+			},
+			{
+				"id": "340001",
+				"name": "Sea Breeze Dandelion"
+			},
+			{
+				"id": "340002",
+				"name": "Orchid's Evening Gown"
+			},
+			{
+				"id": "340003",
+				"name": "Opulent Splendor"
+			},
+			{
+				"id": "340004",
+				"name": "Red Dead of Night"
+			},
+			{
+				"id": "340005",
+				"name": "Ein Immernachtstraum"
+			},
+			{
+				"id": "340006",
+				"name": "Gunnhildr's Legacy"
+			},
+			{
+				"id": "340007",
+				"name": "100% Outrider"
+			},
+			{
+				"id": "340008",
+				"name": "Pact of Stars and Moon"
+			},
+			{
+				"id": "340009",
+				"name": "To the Church's Free Spirit"
+			},
+			{
+				"id": "340010",
+				"name": "Springbloom Missive"
+			},
+			{
+				"id": "340011",
+				"name": "A Sobriquet Under Shade"
+			}
+		],
+		"wind_gliders": [
+			{
+				"id": "140001",
+				"name": "Wings of First Flight"
+			},
+			{
+				"id": "140002",
+				"name": "Wings of Companionship"
+			},
+			{
+				"id": "140003",
+				"name": "Wings of Descension"
+			},
+			{
+				"id": "140004",
+				"name": "Wings of Azure Wind"
+			},
+			{
+				"id": "140005",
+				"name": "Wings of Golden Flight"
+			},
+			{
+				"id": "140006",
+				"name": "Wings of Concealing Snow"
+			},
+			{
+				"id": "140007",
+				"name": "Wings of Feasting"
+			},
+			{
+				"id": "140008",
+				"name": "Wings of the Stormstrider"
+			},
+			{
+				"id": "140009",
+				"name": "Wings of Shimmering Galaxy"
+			},
+			{
+				"id": "140010",
+				"name": "Wings of the Forest"
+			}
+		],
+		"widgets": [
+			{
+				"id": "220001",
+				"name": "Anemoculus Resonance Stone"
+			},
+			{
+				"id": "220002",
+				"name": "Geoculus Resonance Stone"
+			},
+			{
+				"id": "220003",
+				"name": "Geo Treasure Compass"
+			},
+			{
+				"id": "220004",
+				"name": "Wind Catcher"
+			},
+			{
+				"id": "220005",
+				"name": "Portable Waypoint"
+			},
+			{
+				"id": "220006",
+				"name": "Adepti Seeker's Stove"
+			},
+			{
+				"id": "220008",
+				"name": "NRE (Menu 30)"
+			},
+			{
+				"id": "220009",
+				"name": "Anemo Treasure Compass"
+			},
+			{
+				"id": "220013",
+				"name": "Treasure-Seeking Seelie"
+			},
+			{
+				"id": "220014",
+				"name": "Mini Seelie: Dayflower"
+			},
+			{
+				"id": "220015",
+				"name": "Mini Seelie: Rosé"
+			},
+			{
+				"id": "220016",
+				"name": "Mini Seelie: Curcuma"
+			},
+			{
+				"id": "220017",
+				"name": "Warming Bottle"
+			},
+			{
+				"id": "220018",
+				"name": "Kamera"
+			},
+			{
+				"id": "220019",
+				"name": "Kurious Kamera"
+			},
+			{
+				"id": "220020",
+				"name": "Special Kamera"
+			},
+			{
+				"id": "220021",
+				"name": "Parametric Transformer"
+			},
+			{
+				"id": "220022",
+				"name": "Inquisitive Endora"
+			},
+			{
+				"id": "220023",
+				"name": "Endora"
+			},
+			{
+				"id": "220024",
+				"name": "Windblume Festival Commemorative Balloon"
+			},
+			{
+				"id": "220025",
+				"name": "Windsong Lyre"
+			},
+			{
+				"id": "220026",
+				"name": "Serenitea Pot"
+			},
+			{
+				"id": "220027",
+				"name": "Wind-Blessed Harpastum"
+			},
+			{
+				"id": "220028",
+				"name": "Waverider Repair Toolbox"
+			},
+			{
+				"id": "220029",
+				"name": "Straight Shooter"
+			},
+			{
+				"id": "220030",
+				"name": "Floaty Splody"
+			},
+			{
+				"id": "220031",
+				"name": "Hot Pod"
+			},
+			{
+				"id": "220032",
+				"name": "Electroculus Resonance Stone"
+			},
+			{
+				"id": "220033",
+				"name": "Seed Dispensary"
+			},
+			{
+				"id": "220034",
+				"name": "Electro Treasure Compass"
+			},
+			{
+				"id": "220035",
+				"name": "Red Feather Fan"
+			},
+			{
+				"id": "220036",
+				"name": "Memento Lens"
+			},
+			{
+				"id": "220037",
+				"name": "Treasure-Seeking Seelie"
+			},
+			{
+				"id": "220038",
+				"name": "Mini Seelie: Viola"
+			},
+			{
+				"id": "220039",
+				"name": "Peculiar Pinion"
+			},
+			{
+				"id": "220040",
+				"name": "Peculiar Pinion"
+			},
+			{
+				"id": "220041",
+				"name": "???"
+			},
+			{
+				"id": "220042",
+				"name": "Ayesha's Chaos Prospector"
+			},
+			{
+				"id": "220043",
+				"name": "Omni-Ubiquity Net"
+			},
+			{
+				"id": "220044",
+				"name": "Floral Zither"
+			},
+			{
+				"id": "220045",
+				"name": "Shiki Koshou"
+			},
+			{
+				"id": "220046",
+				"name": "Ubiquity Net"
+			},
+			{
+				"id": "220047",
+				"name": "Launch Tube"
+			},
+			{
+				"id": "220048",
+				"name": "Lumenstone Adjuvant"
+			},
+			{
+				"id": "220049",
+				"name": "Bokuso Box"
+			},
+			{
+				"id": "220051",
+				"name": "Arataki's Great and Glorious Drum"
+			},
+			{
+				"id": "220052",
+				"name": "Material Collector"
+			},
+			{
+				"id": "220053",
+				"name": "Kusava"
+			},
+			{
+				"id": "220056",
+				"name": "Casket of Tomes"
+			},
+			{
+				"id": "220057",
+				"name": "Dendroculus Resonance Stone"
+			},
+			{
+				"id": "220058",
+				"name": "Dendro Treasure Compass"
+			},
+			{
+				"id": "220059",
+				"name": "The Boon of the Elder Tree"
+			},
+			{
+				"id": "220061",
+				"name": "Treasure-Seeking Seelie"
+			},
+			{
+				"id": "220062",
+				"name": "Mini Seelie: Moss"
+			},
+			{
+				"id": "220063",
+				"name": "Exquisite Kamera"
+			},
+			{
+				"id": "220064",
+				"name": "Banu's Wisdom"
+			},
+			{
+				"id": "220065",
+				"name": "Fishing Line Stabilizer"
+			},
+			{
+				"id": "220066",
+				"name": "Vintage Lyre"
+			},
+			{
+				"id": "220067",
+				"name": "Jumpy Dumpty Party Popper"
+			},
+			{
+				"id": "220070",
+				"name": "Bubbly Kamera"
+			},
+			{
+				"id": "220071",
+				"name": "Kusava"
+			},
+			{
+				"id": "220072",
+				"name": "Jinni in the Magic Bottle — Liloupar"
+			},
+			{
+				"id": "220073",
+				"name": "Wisdom Orb"
+			},
+			{
+				"id": "220074",
+				"name": "Cloud Retainer's Damasked Device"
+			},
+			{
+				"id": "220075",
+				"name": "Wilderness Compass"
+			}
+		],
+		"materials": [
+			{
+				"id": "104101",
+				"name": "Brilliant Diamond Sliver"
+			},
+			{
+				"id": "104102",
+				"name": "Brilliant Diamond Fragment"
+			},
+			{
+				"id": "104103",
+				"name": "Brilliant Diamond Chunk"
+			},
+			{
+				"id": "104104",
+				"name": "Brilliant Diamond Gemstone"
+			},
+			{
+				"id": "104111",
+				"name": "Agnidus Agate Sliver"
+			},
+			{
+				"id": "104112",
+				"name": "Agnidus Agate Fragment"
+			},
+			{
+				"id": "104113",
+				"name": "Agnidus Agate Chunk"
+			},
+			{
+				"id": "104114",
+				"name": "Agnidus Agate Gemstone"
+			},
+			{
+				"id": "104121",
+				"name": "Varunada Lazurite Sliver"
+			},
+			{
+				"id": "104122",
+				"name": "Varunada Lazurite Fragment"
+			},
+			{
+				"id": "104123",
+				"name": "Varunada Lazurite Chunk"
+			},
+			{
+				"id": "104124",
+				"name": "Varunada Lazurite Gemstone"
+			},
+			{
+				"id": "104131",
+				"name": "Nagadus Emerald Sliver"
+			},
+			{
+				"id": "104132",
+				"name": "Nagadus Emerald Fragment"
+			},
+			{
+				"id": "104133",
+				"name": "Nagadus Emerald Chunk"
+			},
+			{
+				"id": "104134",
+				"name": "Nagadus Emerald Gemstone"
+			},
+			{
+				"id": "104141",
+				"name": "Vajrada Amethyst Sliver"
+			},
+			{
+				"id": "104142",
+				"name": "Vajrada Amethyst Fragment"
+			},
+			{
+				"id": "104143",
+				"name": "Vajrada Amethyst Chunk"
+			},
+			{
+				"id": "104144",
+				"name": "Vajrada Amethyst Gemstone"
+			},
+			{
+				"id": "104151",
+				"name": "Vayuda Turquoise Sliver"
+			},
+			{
+				"id": "104152",
+				"name": "Vayuda Turquoise Fragment"
+			},
+			{
+				"id": "104153",
+				"name": "Vayuda Turquoise Chunk"
+			},
+			{
+				"id": "104154",
+				"name": "Vayuda Turquoise Gemstone"
+			},
+			{
+				"id": "104161",
+				"name": "Shivada Jade Sliver"
+			},
+			{
+				"id": "104162",
+				"name": "Shivada Jade Fragment"
+			},
+			{
+				"id": "104163",
+				"name": "Shivada Jade Chunk"
+			},
+			{
+				"id": "104164",
+				"name": "Shivada Jade Gemstone"
+			},
+			{
+				"id": "104171",
+				"name": "Prithiva Topaz Sliver"
+			},
+			{
+				"id": "104172",
+				"name": "Prithiva Topaz Fragment"
+			},
+			{
+				"id": "104173",
+				"name": "Prithiva Topaz Chunk"
+			},
+			{
+				"id": "104174",
+				"name": "Prithiva Topaz Gemstone"
+			},
+			{
+				"id": "104301",
+				"name": "Teachings of Freedom"
+			},
+			{
+				"id": "104302",
+				"name": "Guide to Freedom"
+			},
+			{
+				"id": "104303",
+				"name": "Philosophies of Freedom"
+			},
+			{
+				"id": "104304",
+				"name": "Teachings of Resistance"
+			},
+			{
+				"id": "104305",
+				"name": "Guide to Resistance"
+			},
+			{
+				"id": "104306",
+				"name": "Philosophies of Resistance"
+			},
+			{
+				"id": "104307",
+				"name": "Teachings of Ballad"
+			},
+			{
+				"id": "104308",
+				"name": "Guide to Ballad"
+			},
+			{
+				"id": "104309",
+				"name": "Philosophies of Ballad"
+			},
+			{
+				"id": "104310",
+				"name": "Teachings of Prosperity"
+			},
+			{
+				"id": "104311",
+				"name": "Guide to Prosperity"
+			},
+			{
+				"id": "104312",
+				"name": "Philosophies of Prosperity"
+			},
+			{
+				"id": "104313",
+				"name": "Teachings of Diligence"
+			},
+			{
+				"id": "104314",
+				"name": "Guide to Diligence"
+			},
+			{
+				"id": "104315",
+				"name": "Philosophies of Diligence"
+			},
+			{
+				"id": "104316",
+				"name": "Teachings of Gold"
+			},
+			{
+				"id": "104317",
+				"name": "Guide to Gold"
+			},
+			{
+				"id": "104318",
+				"name": "Philosophies of Gold"
+			},
+			{
+				"id": "104319",
+				"name": "Crown of Insight"
+			},
+			{
+				"id": "104320",
+				"name": "Teachings of Transience"
+			},
+			{
+				"id": "104321",
+				"name": "Guide to Transience"
+			},
+			{
+				"id": "104322",
+				"name": "Philosophies of Transience"
+			},
+			{
+				"id": "104323",
+				"name": "Teachings of Elegance"
+			},
+			{
+				"id": "104324",
+				"name": "Guide to Elegance"
+			},
+			{
+				"id": "104325",
+				"name": "Philosophies of Elegance"
+			},
+			{
+				"id": "104326",
+				"name": "Teachings of Light"
+			},
+			{
+				"id": "104327",
+				"name": "Guide to Light"
+			},
+			{
+				"id": "104328",
+				"name": "Philosophies of Light"
+			},
+			{
+				"id": "104329",
+				"name": "Teachings of Admonition"
+			},
+			{
+				"id": "104330",
+				"name": "Guide to Admonition"
+			},
+			{
+				"id": "104331",
+				"name": "Philosophies of Admonition"
+			},
+			{
+				"id": "104332",
+				"name": "Teachings of Ingenuity"
+			},
+			{
+				"id": "104333",
+				"name": "Guide to Ingenuity"
+			},
+			{
+				"id": "104334",
+				"name": "Philosophies of Ingenuity"
+			},
+			{
+				"id": "104335",
+				"name": "Teachings of Praxis"
+			},
+			{
+				"id": "104336",
+				"name": "Guide to Praxis"
+			},
+			{
+				"id": "104337",
+				"name": "Philosophies of Praxis"
+			},
+			{
+				"id": "112001",
+				"name": "Primordial Essence"
+			},
+			{
+				"id": "112002",
+				"name": "Slime Condensate"
+			},
+			{
+				"id": "112003",
+				"name": "Slime Secretions"
+			},
+			{
+				"id": "112004",
+				"name": "Slime Concentrate"
+			},
+			{
+				"id": "112005",
+				"name": "Damaged Mask"
+			},
+			{
+				"id": "112006",
+				"name": "Stained Mask"
+			},
+			{
+				"id": "112007",
+				"name": "Ominous Mask"
+			},
+			{
+				"id": "112008",
+				"name": "Divining Scroll"
+			},
+			{
+				"id": "112009",
+				"name": "Sealed Scroll"
+			},
+			{
+				"id": "112010",
+				"name": "Forbidden Curse Scroll"
+			},
+			{
+				"id": "112011",
+				"name": "Firm Arrowhead"
+			},
+			{
+				"id": "112012",
+				"name": "Sharp Arrowhead"
+			},
+			{
+				"id": "112013",
+				"name": "Weathered Arrowhead"
+			},
+			{
+				"id": "112014",
+				"name": "Heavy Horn"
+			},
+			{
+				"id": "112015",
+				"name": "Black Bronze Horn"
+			},
+			{
+				"id": "112016",
+				"name": "Black Crystal Horn"
+			},
+			{
+				"id": "112017",
+				"name": "Gloomy Statuette"
+			},
+			{
+				"id": "112018",
+				"name": "Dark Statuette"
+			},
+			{
+				"id": "112019",
+				"name": "Deathly Statuette"
+			},
+			{
+				"id": "112020",
+				"name": "Dead Ley Line Branch"
+			},
+			{
+				"id": "112021",
+				"name": "Dead Ley Line Leaves"
+			},
+			{
+				"id": "112022",
+				"name": "Ley Line Sprout"
+			},
+			{
+				"id": "112023",
+				"name": "Chaos Device"
+			},
+			{
+				"id": "112024",
+				"name": "Chaos Circuit"
+			},
+			{
+				"id": "112025",
+				"name": "Chaos Core"
+			},
+			{
+				"id": "112026",
+				"name": "Mist Grass Pollen"
+			},
+			{
+				"id": "112027",
+				"name": "Mist Grass"
+			},
+			{
+				"id": "112028",
+				"name": "Mist Grass Wick"
+			},
+			{
+				"id": "112029",
+				"name": "Hunter's Sacrificial Knife"
+			},
+			{
+				"id": "112030",
+				"name": "Agent's Sacrificial Knife"
+			},
+			{
+				"id": "112031",
+				"name": "Inspector's Sacrificial Knife"
+			},
+			{
+				"id": "112032",
+				"name": "Recruit's Insignia"
+			},
+			{
+				"id": "112033",
+				"name": "Sergeant's Insignia"
+			},
+			{
+				"id": "112034",
+				"name": "Lieutenant's Insignia"
+			},
+			{
+				"id": "112035",
+				"name": "Treasure Hoarder Insignia"
+			},
+			{
+				"id": "112036",
+				"name": "Silver Raven Insignia"
+			},
+			{
+				"id": "112037",
+				"name": "Golden Raven Insignia"
+			},
+			{
+				"id": "112038",
+				"name": "Whopperflower Nectar"
+			},
+			{
+				"id": "112039",
+				"name": "Shimmering Nectar"
+			},
+			{
+				"id": "112040",
+				"name": "Energy Nectar"
+			},
+			{
+				"id": "112041",
+				"name": "Fragile Bone Shard"
+			},
+			{
+				"id": "112042",
+				"name": "Sturdy Bone Shard"
+			},
+			{
+				"id": "112043",
+				"name": "Fossilized Bone Shard"
+			},
+			{
+				"id": "112044",
+				"name": "Old Handguard"
+			},
+			{
+				"id": "112045",
+				"name": "Kageuchi Handguard"
+			},
+			{
+				"id": "112046",
+				"name": "Famed Handguard"
+			},
+			{
+				"id": "112047",
+				"name": "Chaos Gear"
+			},
+			{
+				"id": "112048",
+				"name": "Chaos Axis"
+			},
+			{
+				"id": "112049",
+				"name": "Chaos Oculus"
+			},
+			{
+				"id": "112050",
+				"name": "Dismal Prism"
+			},
+			{
+				"id": "112051",
+				"name": "Crystal Prism"
+			},
+			{
+				"id": "112052",
+				"name": "Polarizing Prism"
+			},
+			{
+				"id": "112053",
+				"name": "Spectral Husk"
+			},
+			{
+				"id": "112054",
+				"name": "Spectral Heart"
+			},
+			{
+				"id": "112055",
+				"name": "Spectral Nucleus"
+			},
+			{
+				"id": "112056",
+				"name": "Concealed Claw"
+			},
+			{
+				"id": "112057",
+				"name": "Concealed Unguis"
+			},
+			{
+				"id": "112058",
+				"name": "Concealed Talon"
+			},
+			{
+				"id": "112059",
+				"name": "Fungal Spores"
+			},
+			{
+				"id": "112060",
+				"name": "Luminescent Pollen"
+			},
+			{
+				"id": "112061",
+				"name": "Crystalline Cyst Dust"
+			},
+			{
+				"id": "112062",
+				"name": "Inactivated Fungal Nucleus"
+			},
+			{
+				"id": "112063",
+				"name": "Dormant Fungal Nucleus"
+			},
+			{
+				"id": "112064",
+				"name": "Robust Fungal Nucleus"
+			},
+			{
+				"id": "112065",
+				"name": "Faded Red Satin"
+			},
+			{
+				"id": "112066",
+				"name": "Trimmed Red Silk"
+			},
+			{
+				"id": "112067",
+				"name": "Rich Red Brocade"
+			},
+			{
+				"id": "112068",
+				"name": "Chaos Storage"
+			},
+			{
+				"id": "112069",
+				"name": "Chaos Module"
+			},
+			{
+				"id": "112070",
+				"name": "Chaos Bolt"
+			},
+			{
+				"id": "112071",
+				"name": "Damaged Prism"
+			},
+			{
+				"id": "112072",
+				"name": "Turbid Prism"
+			},
+			{
+				"id": "112073",
+				"name": "Radiant Prism"
+			},
+			{
+				"id": "112074",
+				"name": "Desiccated Shell"
+			},
+			{
+				"id": "112075",
+				"name": "Sturdy Shell"
+			},
+			{
+				"id": "112076",
+				"name": "Marked Shell"
+			},
+			{
+				"id": "113001",
+				"name": "Hurricane Seed"
+			},
+			{
+				"id": "113002",
+				"name": "Lightning Prism"
+			},
+			{
+				"id": "113003",
+				"name": "Dvalin's Plume"
+			},
+			{
+				"id": "113004",
+				"name": "Dvalin's Claw"
+			},
+			{
+				"id": "113005",
+				"name": "Dvalin's Sigh"
+			},
+			{
+				"id": "113006",
+				"name": "Tail of Boreas"
+			},
+			{
+				"id": "113007",
+				"name": "Ring of Boreas"
+			},
+			{
+				"id": "113008",
+				"name": "Spirit Locket of Boreas"
+			},
+			{
+				"id": "113009",
+				"name": "Basalt Pillar"
+			},
+			{
+				"id": "113010",
+				"name": "Hoarfrost Core"
+			},
+			{
+				"id": "113011",
+				"name": "Everflame Seed"
+			},
+			{
+				"id": "113012",
+				"name": "Cleansing Heart"
+			},
+			{
+				"id": "113013",
+				"name": "Tusk of Monoceros Caeli"
+			},
+			{
+				"id": "113014",
+				"name": "Shard of a Foul Legacy"
+			},
+			{
+				"id": "113015",
+				"name": "Shadow of the Warrior"
+			},
+			{
+				"id": "113016",
+				"name": "Juvenile Jade"
+			},
+			{
+				"id": "113017",
+				"name": "Dragon Lord's Crown"
+			},
+			{
+				"id": "113018",
+				"name": "Bloodjade Branch"
+			},
+			{
+				"id": "113019",
+				"name": "Gilded Scale"
+			},
+			{
+				"id": "113020",
+				"name": "Crystalline Bloom"
+			},
+			{
+				"id": "113022",
+				"name": "Marionette Core"
+			},
+			{
+				"id": "113023",
+				"name": "Perpetual Heart"
+			},
+			{
+				"id": "113024",
+				"name": "Smoldering Pearl"
+			},
+			{
+				"id": "113025",
+				"name": "Molten Moment"
+			},
+			{
+				"id": "113026",
+				"name": "Hellfire Butterfly"
+			},
+			{
+				"id": "113027",
+				"name": "Ashen Heart"
+			},
+			{
+				"id": "113028",
+				"name": "Dew of Repudiation"
+			},
+			{
+				"id": "113029",
+				"name": "Storm Beads"
+			},
+			{
+				"id": "113030",
+				"name": "Riftborn Regalia"
+			},
+			{
+				"id": "113031",
+				"name": "Dragonheir's False Fin"
+			},
+			{
+				"id": "113032",
+				"name": "Mudra of the Malefic General"
+			},
+			{
+				"id": "113033",
+				"name": "Tears of the Calamitous God"
+			},
+			{
+				"id": "113034",
+				"name": "The Meaning of Aeons"
+			},
+			{
+				"id": "113035",
+				"name": "Runic Fang"
+			},
+			{
+				"id": "113036",
+				"name": "Majestic Hooked Beak"
+			},
+			{
+				"id": "113037",
+				"name": "Thunderclap Fruitcore"
+			},
+			{
+				"id": "113038",
+				"name": "Perpetual Caliber"
+			},
+			{
+				"id": "113039",
+				"name": "Light Guiding Tetrahedron"
+			},
+			{
+				"id": "113040",
+				"name": "Quelled Creeper"
+			},
+			{
+				"id": "113041",
+				"name": "Puppet Strings"
+			},
+			{
+				"id": "113042",
+				"name": "Mirror of Mushin"
+			},
+			{
+				"id": "113043",
+				"name": "Daka's Bell"
+			},
+			{
+				"id": "113044",
+				"name": "Pseudo-Stamens"
+			},
+			{
+				"id": "114001",
+				"name": "Tile of Decarabian's Tower"
+			},
+			{
+				"id": "114002",
+				"name": "Debris of Decarabian's City"
+			},
+			{
+				"id": "114003",
+				"name": "Fragment of Decarabian's Epic"
+			},
+			{
+				"id": "114004",
+				"name": "Scattered Piece of Decarabian's Dream"
+			},
+			{
+				"id": "114005",
+				"name": "Boreal Wolf's Milk Tooth"
+			},
+			{
+				"id": "114006",
+				"name": "Boreal Wolf's Cracked Tooth"
+			},
+			{
+				"id": "114007",
+				"name": "Boreal Wolf's Broken Fang"
+			},
+			{
+				"id": "114008",
+				"name": "Boreal Wolf's Nostalgia"
+			},
+			{
+				"id": "114009",
+				"name": "Fetters of the Dandelion Gladiator"
+			},
+			{
+				"id": "114010",
+				"name": "Chains of the Dandelion Gladiator"
+			},
+			{
+				"id": "114011",
+				"name": "Shackles of the Dandelion Gladiator"
+			},
+			{
+				"id": "114012",
+				"name": "Dream of the Dandelion Gladiator"
+			},
+			{
+				"id": "114013",
+				"name": "Luminous Sands from Guyun"
+			},
+			{
+				"id": "114014",
+				"name": "Lustrous Stone from Guyun"
+			},
+			{
+				"id": "114015",
+				"name": "Relic from Guyun"
+			},
+			{
+				"id": "114016",
+				"name": "Divine Body from Guyun"
+			},
+			{
+				"id": "114017",
+				"name": "Mist Veiled Lead Elixir"
+			},
+			{
+				"id": "114018",
+				"name": "Mist Veiled Mercury Elixir"
+			},
+			{
+				"id": "114019",
+				"name": "Mist Veiled Gold Elixir"
+			},
+			{
+				"id": "114020",
+				"name": "Mist Veiled Primo Elixir"
+			},
+			{
+				"id": "114021",
+				"name": "Grain of Aerosiderite"
+			},
+			{
+				"id": "114022",
+				"name": "Piece of Aerosiderite"
+			},
+			{
+				"id": "114023",
+				"name": "Bit of Aerosiderite"
+			},
+			{
+				"id": "114024",
+				"name": "Chunk of Aerosiderite"
+			},
+			{
+				"id": "114025",
+				"name": "Coral Branch of a Distant Sea"
+			},
+			{
+				"id": "114026",
+				"name": "Jeweled Branch of a Distant Sea"
+			},
+			{
+				"id": "114027",
+				"name": "Jade Branch of a Distant Sea"
+			},
+			{
+				"id": "114028",
+				"name": "Golden Branch of a Distant Sea"
+			},
+			{
+				"id": "114029",
+				"name": "Narukami's Wisdom"
+			},
+			{
+				"id": "114030",
+				"name": "Narukami's Joy"
+			},
+			{
+				"id": "114031",
+				"name": "Narukami's Affection"
+			},
+			{
+				"id": "114032",
+				"name": "Narukami's Valor"
+			},
+			{
+				"id": "114033",
+				"name": "Mask of the Wicked Lieutenant"
+			},
+			{
+				"id": "114034",
+				"name": "Mask of the Tiger's Bite"
+			},
+			{
+				"id": "114035",
+				"name": "Mask of the One-Horned"
+			},
+			{
+				"id": "114036",
+				"name": "Mask of the Kijin"
+			},
+			{
+				"id": "114037",
+				"name": "Copper Talisman of the Forest Dew"
+			},
+			{
+				"id": "114038",
+				"name": "Iron Talisman of the Forest Dew"
+			},
+			{
+				"id": "114039",
+				"name": "Silver Talisman of the Forest Dew"
+			},
+			{
+				"id": "114040",
+				"name": "Golden Talisman of the Forest Dew"
+			},
+			{
+				"id": "114041",
+				"name": "Oasis Garden's Reminiscence"
+			},
+			{
+				"id": "114042",
+				"name": "Oasis Garden's Kindness"
+			},
+			{
+				"id": "114043",
+				"name": "Oasis Garden's Mourning"
+			},
+			{
+				"id": "114044",
+				"name": "Oasis Garden's Truth"
+			},
+			{
+				"id": "114045",
+				"name": "Echo of Scorching Might"
+			},
+			{
+				"id": "114046",
+				"name": "Remnant Glow of Scorching Might"
+			},
+			{
+				"id": "114047",
+				"name": "Dream of Scorching Might"
+			},
+			{
+				"id": "114048",
+				"name": "Olden Days of Scorching Might"
+			},
+			{
+				"id": "200103",
+				"name": "Festering Dragon Marrow"
+			},
+			{
+				"id": "200104",
+				"name": "The Visible Winds"
+			},
+			{
+				"id": "200105",
+				"name": "Fragments of Innocence"
+			},
+			{
+				"id": "200106",
+				"name": "Emperor's Balsam"
+			},
+			{
+				"id": "200107",
+				"name": "Ako's Sake Vessel"
+			},
+			{
+				"id": "200108",
+				"name": "Alkahest"
+			},
+			{
+				"id": "200109",
+				"name": "Ointment of Sight"
+			},
+			{
+				"id": "200110",
+				"name": "Glowing Gem"
+			},
+			{
+				"id": "200111",
+				"name": "Original Fish Ointment"
+			},
+			{
+				"id": "200112",
+				"name": "Plume of the Changing Winds"
+			},
+			{
+				"id": "200113",
+				"name": "Parasol Talcum"
+			}
+		]
+	}
+}
